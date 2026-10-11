@@ -1,0 +1,501 @@
+Transaction_ID,Business_Name,Business_Type,City,Province,Year,Month,Product_Category,Units_Sold,Unit_Price_PKR,Discount_Percent,Net_Sales_PKR
+10001,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2024,11,Clothing,5,7191,0,35955.0
+10002,KK Mart Multan,Supermarket,Multan,Punjab,2026,11,Traditional Crafts,22,237,5,4953.3
+10003,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2025,5,Electronics,4,15769,5,59922.2
+10004,ECS Multan,Footwear,Multan,Punjab,2024,1,Cosmetics,27,609,15,13976.55
+10005,Al-Jannat Mall,Shopping Center,Multan,Punjab,2026,11,Groceries,11,660,5,6897.0
+10006,KK Mart Multan,Supermarket,Multan,Punjab,2026,4,Clothing,3,3528,10,9525.6
+10007,KK Mart Multan,Supermarket,Multan,Punjab,2024,9,Traditional Crafts,19,316,5,5703.8
+10008,Al-Jannat Mall,Shopping Center,Multan,Punjab,2025,2,Clothing,9,12233,0,110097.0
+10009,Bata Shoes Cantonment,Footwear,Multan,Punjab,2026,7,Cosmetics,9,1601,0,14409.0
+10010,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2025,8,Clothing,2,9555,15,16243.5
+10011,ECS Multan,Footwear,Multan,Punjab,2025,4,Furniture,2,9989,0,19978.0
+10012,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2025,4,Cosmetics,17,419,15,6054.55
+10013,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2024,8,Clothing,2,9892,10,17805.6
+10014,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2024,9,Cosmetics,16,1330,10,19152.0
+10015,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2026,9,Groceries,2,1517,5,2882.3
+10016,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2026,3,Traditional Crafts,9,742,0,6678.0
+10017,KK Mart Multan,Supermarket,Multan,Punjab,2026,5,Groceries,8,1663,0,13304.0
+10018,Al-Jannat Mall,Shopping Center,Multan,Punjab,2026,9,Clothing,7,5104,15,30368.8
+10019,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2026,8,Footwear,3,12965,0,38895.0
+10020,KK Mart Multan,Supermarket,Multan,Punjab,2026,3,Footwear,5,5840,0,29200.0
+10021,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2025,7,Traditional Crafts,10,944,0,9440.0
+10022,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2024,3,Clothing,7,2863,0,20041.0
+10023,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2025,5,Footwear,7,9574,10,60316.2
+10024,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2026,11,Footwear,6,13506,5,76984.2
+10025,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2024,9,Cosmetics,7,1162,5,7727.3
+10026,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2025,11,Furniture,7,3663,5,24358.95
+10027,Al-Jannat Mall,Shopping Center,Multan,Punjab,2025,1,Traditional Crafts,26,1558,0,40508.0
+10028,Al-Jannat Mall,Shopping Center,Multan,Punjab,2024,9,Clothing,7,11474,15,68270.3
+10029,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2024,5,Electronics,3,112504,0,337512.0
+10030,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2026,6,Traditional Crafts,25,1845,0,46125.0
+10031,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2025,1,Groceries,21,591,5,11790.45
+10032,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2026,1,Cosmetics,18,1786,0,32148.0
+10033,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2025,6,Cosmetics,6,1004,0,6024.0
+10034,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2025,2,Electronics,4,102092,0,408368.0
+10035,ECS Multan,Footwear,Multan,Punjab,2026,11,Traditional Crafts,28,1357,0,37996.0
+10036,ECS Multan,Footwear,Multan,Punjab,2025,6,Footwear,1,9125,0,9125.0
+10037,ECS Multan,Footwear,Multan,Punjab,2026,4,Footwear,4,4811,0,19244.0
+10038,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2026,3,Electronics,4,26411,5,100361.8
+10039,Al-Jannat Mall,Shopping Center,Multan,Punjab,2026,2,Groceries,2,1021,0,2042.0
+10040,Al-Jannat Mall,Shopping Center,Multan,Punjab,2025,7,Groceries,11,1588,0,17468.0
+10041,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2025,9,Clothing,1,13835,0,13835.0
+10042,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2024,5,Furniture,7,14282,0,99974.0
+10043,Al-Jannat Mall,Shopping Center,Multan,Punjab,2026,3,Electronics,4,19499,15,66296.6
+10044,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2026,1,Groceries,7,1593,5,10593.45
+10045,KK Mart Multan,Supermarket,Multan,Punjab,2024,3,Furniture,2,4200,15,7140.0
+10046,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2025,3,Cosmetics,10,1893,5,17983.5
+10047,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2024,5,Clothing,4,6911,0,27644.0
+10048,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2026,3,Groceries,24,619,15,12627.6
+10049,ECS Multan,Footwear,Multan,Punjab,2024,3,Furniture,8,12677,0,101416.0
+10050,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2025,1,Footwear,1,9022,10,8119.8
+10051,KK Mart Multan,Supermarket,Multan,Punjab,2026,1,Clothing,1,9679,5,9195.05
+10052,Bata Shoes Cantonment,Footwear,Multan,Punjab,2026,9,Furniture,8,3060,10,22032.0
+10053,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2024,3,Furniture,1,2699,5,2564.05
+10054,Bata Shoes Cantonment,Footwear,Multan,Punjab,2024,3,Traditional Crafts,19,277,0,5263.0
+10055,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2025,10,Traditional Crafts,9,1496,15,11444.4
+10056,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2026,6,Cosmetics,3,1836,0,5508.0
+10057,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2025,1,Cosmetics,2,1277,0,2554.0
+10058,ECS Multan,Footwear,Multan,Punjab,2024,10,Traditional Crafts,27,908,0,24516.0
+10059,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2024,10,Groceries,26,1052,5,25984.4
+10060,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2025,3,Groceries,16,620,5,9424.0
+10061,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2026,6,Cosmetics,26,200,0,5200.0
+10062,ECS Multan,Footwear,Multan,Punjab,2025,6,Cosmetics,21,454,0,9534.0
+10063,ECS Multan,Footwear,Multan,Punjab,2025,11,Traditional Crafts,6,593,0,3558.0
+10064,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2024,7,Footwear,6,7315,10,39501.0
+10065,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2026,3,Furniture,8,8966,5,68141.6
+10066,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2025,3,Clothing,8,6752,0,54016.0
+10067,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2025,5,Traditional Crafts,22,1647,15,30798.9
+10068,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2024,5,Traditional Crafts,27,1814,0,48978.0
+10069,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2025,6,Traditional Crafts,26,709,10,16590.6
+10070,Bata Shoes Cantonment,Footwear,Multan,Punjab,2024,7,Groceries,6,853,15,4350.3
+10071,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2025,3,Electronics,2,28284,0,56568.0
+10072,Bata Shoes Cantonment,Footwear,Multan,Punjab,2024,4,Traditional Crafts,13,602,0,7826.0
+10073,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2026,4,Footwear,5,9421,0,47105.0
+10074,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2024,4,Furniture,4,4849,0,19396.0
+10075,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2025,1,Electronics,1,56975,10,51277.5
+10076,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2025,1,Traditional Crafts,28,1045,5,27797.0
+10077,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2025,3,Clothing,1,4427,0,4427.0
+10078,KK Mart Multan,Supermarket,Multan,Punjab,2024,3,Electronics,1,112856,0,112856.0
+10079,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2026,2,Footwear,7,4082,0,28574.0
+10080,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2025,10,Footwear,2,11817,0,23634.0
+10081,Al-Jannat Mall,Shopping Center,Multan,Punjab,2025,5,Traditional Crafts,14,1799,0,25186.0
+10082,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2024,5,Clothing,9,9164,5,78352.2
+10083,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2024,8,Footwear,1,4786,0,4786.0
+10084,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2024,7,Cosmetics,25,245,15,5206.25
+10085,Bata Shoes Cantonment,Footwear,Multan,Punjab,2024,7,Clothing,7,7644,0,53508.0
+10086,KK Mart Multan,Supermarket,Multan,Punjab,2025,1,Groceries,21,211,0,4431.0
+10087,ECS Multan,Footwear,Multan,Punjab,2026,3,Footwear,9,2395,0,21555.0
+10088,Al-Jannat Mall,Shopping Center,Multan,Punjab,2025,4,Traditional Crafts,27,1000,10,24300.0
+10089,Bata Shoes Cantonment,Footwear,Multan,Punjab,2024,4,Electronics,1,26130,5,24823.5
+10090,Bata Shoes Cantonment,Footwear,Multan,Punjab,2024,7,Traditional Crafts,22,258,0,5676.0
+10091,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2025,10,Traditional Crafts,4,1306,10,4701.6
+10092,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2024,10,Traditional Crafts,13,1103,0,14339.0
+10093,ECS Multan,Footwear,Multan,Punjab,2025,8,Traditional Crafts,10,319,0,3190.0
+10094,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2024,5,Cosmetics,20,1595,10,28710.0
+10095,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2024,7,Furniture,4,6312,5,23985.6
+10096,ECS Multan,Footwear,Multan,Punjab,2026,3,Clothing,6,8588,0,51528.0
+10097,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2026,7,Cosmetics,4,1299,10,4676.4
+10098,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2025,10,Clothing,8,8619,10,62056.8
+10099,Al-Jannat Mall,Shopping Center,Multan,Punjab,2024,3,Traditional Crafts,26,497,5,12275.9
+10100,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2024,6,Groceries,7,1290,0,9030.0
+10101,Bata Shoes Cantonment,Footwear,Multan,Punjab,2024,11,Furniture,5,13003,5,61764.25
+10102,KK Mart Multan,Supermarket,Multan,Punjab,2024,2,Electronics,1,86726,0,86726.0
+10103,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2025,6,Footwear,7,5330,0,37310.0
+10104,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2024,8,Furniture,4,11337,0,45348.0
+10105,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2025,5,Cosmetics,5,190,0,950.0
+10106,ECS Multan,Footwear,Multan,Punjab,2024,9,Traditional Crafts,22,1078,5,22530.2
+10107,KK Mart Multan,Supermarket,Multan,Punjab,2025,2,Footwear,5,9026,0,45130.0
+10108,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2025,2,Cosmetics,14,1424,10,17942.4
+10109,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2025,1,Groceries,16,295,0,4720.0
+10110,Bata Shoes Cantonment,Footwear,Multan,Punjab,2026,9,Cosmetics,28,976,0,27328.0
+10111,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2024,3,Cosmetics,2,660,10,1188.0
+10112,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2024,5,Furniture,6,11860,0,71160.0
+10113,Bata Shoes Cantonment,Footwear,Multan,Punjab,2024,5,Traditional Crafts,11,826,0,9086.0
+10114,KK Mart Multan,Supermarket,Multan,Punjab,2024,9,Groceries,20,150,10,2700.0
+10115,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2024,1,Furniture,2,14775,5,28072.5
+10116,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2025,10,Traditional Crafts,23,823,15,16089.65
+10117,KK Mart Multan,Supermarket,Multan,Punjab,2025,1,Electronics,1,88963,15,75618.55
+10118,Al-Jannat Mall,Shopping Center,Multan,Punjab,2026,7,Groceries,6,1380,10,7452.0
+10119,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2026,7,Electronics,4,96317,5,366004.6
+10120,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2025,2,Furniture,3,10017,0,30051.0
+10121,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2025,1,Groceries,16,1133,5,17221.6
+10122,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2026,1,Cosmetics,5,282,0,1410.0
+10123,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2025,1,Groceries,21,1681,10,31770.9
+10124,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2024,2,Furniture,3,6300,0,18900.0
+10125,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2026,11,Traditional Crafts,17,1547,5,24984.05
+10126,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2024,3,Clothing,3,3887,0,11661.0
+10127,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2025,3,Footwear,5,9570,10,43065.0
+10128,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2025,6,Clothing,1,8981,10,8082.9
+10129,Al-Jannat Mall,Shopping Center,Multan,Punjab,2025,2,Clothing,9,12160,0,109440.0
+10130,Al-Jannat Mall,Shopping Center,Multan,Punjab,2024,6,Traditional Crafts,25,388,15,8245.0
+10131,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2024,8,Cosmetics,4,774,10,2786.4
+10132,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2026,8,Traditional Crafts,15,875,0,13125.0
+10133,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2025,10,Furniture,8,6621,0,52968.0
+10134,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2026,7,Electronics,3,99717,5,284193.45
+10135,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2025,3,Cosmetics,26,1188,10,27799.2
+10136,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2024,1,Traditional Crafts,23,1404,0,32292.0
+10137,Al-Jannat Mall,Shopping Center,Multan,Punjab,2024,4,Groceries,5,174,0,870.0
+10138,KK Mart Multan,Supermarket,Multan,Punjab,2024,2,Groceries,5,260,15,1105.0
+10139,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2024,3,Traditional Crafts,10,1727,10,15543.0
+10140,ECS Multan,Footwear,Multan,Punjab,2025,2,Clothing,8,13706,0,109648.0
+10141,ECS Multan,Footwear,Multan,Punjab,2024,1,Footwear,6,3460,10,18684.0
+10142,ECS Multan,Footwear,Multan,Punjab,2026,4,Furniture,8,13613,0,108904.0
+10143,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2026,8,Electronics,4,19324,15,65701.6
+10144,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2026,4,Clothing,6,7966,15,40626.6
+10145,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2025,3,Furniture,2,7560,0,15120.0
+10146,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2026,5,Cosmetics,27,475,15,10901.25
+10147,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2024,4,Electronics,4,51976,0,207904.0
+10148,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2025,5,Furniture,4,3917,10,14101.2
+10149,KK Mart Multan,Supermarket,Multan,Punjab,2025,2,Groceries,6,159,0,954.0
+10150,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2025,4,Footwear,5,10512,0,52560.0
+10151,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2026,8,Groceries,24,1723,0,41352.0
+10152,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2025,2,Footwear,5,14621,0,73105.0
+10153,Al-Jannat Mall,Shopping Center,Multan,Punjab,2026,3,Cosmetics,9,662,15,5064.3
+10154,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2024,5,Electronics,2,45523,0,91046.0
+10155,Bata Shoes Cantonment,Footwear,Multan,Punjab,2024,3,Footwear,4,9546,0,38184.0
+10156,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2025,8,Groceries,9,1468,15,11230.2
+10157,KK Mart Multan,Supermarket,Multan,Punjab,2025,1,Footwear,1,7142,0,7142.0
+10158,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2026,7,Groceries,9,970,0,8730.0
+10159,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2025,6,Electronics,3,107738,0,323214.0
+10160,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2026,1,Cosmetics,8,627,0,5016.0
+10161,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2025,9,Footwear,5,3120,0,15600.0
+10162,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2025,4,Groceries,3,747,0,2241.0
+10163,Bata Shoes Cantonment,Footwear,Multan,Punjab,2025,1,Electronics,2,61197,10,110154.6
+10164,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2026,8,Footwear,4,13420,5,50996.0
+10165,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2026,3,Electronics,4,54666,5,207730.8
+10166,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2026,5,Electronics,3,86315,15,220103.25
+10167,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2025,8,Furniture,8,8166,15,55528.8
+10168,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2024,8,Groceries,12,977,5,11137.8
+10169,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2024,8,Clothing,8,5876,0,47008.0
+10170,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2026,10,Clothing,6,8024,0,48144.0
+10171,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2025,11,Groceries,2,1580,15,2686.0
+10172,Bata Shoes Cantonment,Footwear,Multan,Punjab,2025,4,Footwear,7,11397,0,79779.0
+10173,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2025,7,Traditional Crafts,9,520,10,4212.0
+10174,Al-Jannat Mall,Shopping Center,Multan,Punjab,2024,10,Footwear,9,5507,10,44606.7
+10175,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2026,4,Groceries,27,686,0,18522.0
+10176,ECS Multan,Footwear,Multan,Punjab,2026,2,Cosmetics,3,624,0,1872.0
+10177,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2026,11,Electronics,2,94026,0,188052.0
+10178,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2025,5,Clothing,1,7975,0,7975.0
+10179,ECS Multan,Footwear,Multan,Punjab,2025,5,Cosmetics,8,1222,0,9776.0
+10180,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2024,4,Groceries,23,1803,5,39395.55
+10181,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2026,1,Groceries,14,1909,15,22717.1
+10182,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2026,8,Electronics,2,73066,15,124212.2
+10183,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2024,8,Footwear,2,9186,0,18372.0
+10184,KK Mart Multan,Supermarket,Multan,Punjab,2025,2,Traditional Crafts,29,651,0,18879.0
+10185,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2025,3,Furniture,4,6926,0,27704.0
+10186,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2026,7,Footwear,3,6873,15,17526.15
+10187,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2024,7,Clothing,2,2054,10,3697.2
+10188,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2024,7,Groceries,9,592,15,4528.8
+10189,Al-Jannat Mall,Shopping Center,Multan,Punjab,2024,3,Traditional Crafts,2,1224,5,2325.6
+10190,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2026,8,Cosmetics,25,1251,15,26583.75
+10191,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2024,6,Clothing,7,8612,0,60284.0
+10192,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2026,1,Cosmetics,22,300,0,6600.0
+10193,KK Mart Multan,Supermarket,Multan,Punjab,2024,2,Clothing,1,10705,10,9634.5
+10194,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2025,2,Electronics,3,109914,5,313254.9
+10195,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2024,6,Footwear,9,3279,0,29511.0
+10196,Bata Shoes Cantonment,Footwear,Multan,Punjab,2026,4,Clothing,6,13769,5,78483.3
+10197,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2025,8,Groceries,15,208,0,3120.0
+10198,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2024,9,Electronics,2,50367,10,90660.6
+10199,Al-Jannat Mall,Shopping Center,Multan,Punjab,2024,6,Traditional Crafts,12,1451,15,14800.2
+10200,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2025,2,Cosmetics,6,1900,0,11400.0
+10201,ECS Multan,Footwear,Multan,Punjab,2024,10,Cosmetics,10,1529,15,12996.5
+10202,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2024,9,Groceries,27,1147,5,29420.55
+10203,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2025,6,Footwear,9,14244,15,108966.6
+10204,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2024,9,Cosmetics,8,970,0,7760.0
+10205,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2024,10,Cosmetics,3,1731,5,4933.35
+10206,ECS Multan,Footwear,Multan,Punjab,2024,3,Electronics,4,36172,0,144688.0
+10207,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2024,11,Footwear,4,7415,0,29660.0
+10208,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2025,2,Electronics,3,68302,15,174170.1
+10209,ECS Multan,Footwear,Multan,Punjab,2024,10,Footwear,4,9715,0,38860.0
+10210,KK Mart Multan,Supermarket,Multan,Punjab,2026,1,Clothing,2,9101,0,18202.0
+10211,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2024,9,Cosmetics,9,862,0,7758.0
+10212,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2024,11,Groceries,11,1789,0,19679.0
+10213,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2026,2,Electronics,4,49020,5,186276.0
+10214,KK Mart Multan,Supermarket,Multan,Punjab,2025,2,Furniture,3,8667,10,23400.9
+10215,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2024,10,Footwear,7,5640,0,39480.0
+10216,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2026,5,Electronics,3,26344,10,71128.8
+10217,ECS Multan,Footwear,Multan,Punjab,2024,2,Furniture,9,7387,10,59834.7
+10218,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2025,7,Traditional Crafts,24,550,0,13200.0
+10219,Bata Shoes Cantonment,Footwear,Multan,Punjab,2025,7,Furniture,5,14045,0,70225.0
+10220,KK Mart Multan,Supermarket,Multan,Punjab,2026,7,Cosmetics,19,1650,15,26647.5
+10221,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2026,2,Traditional Crafts,11,1616,0,17776.0
+10222,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2024,2,Electronics,1,97050,0,97050.0
+10223,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2026,7,Cosmetics,8,513,0,4104.0
+10224,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2025,9,Footwear,2,9564,0,19128.0
+10225,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2025,2,Clothing,3,10502,0,31506.0
+10226,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2026,7,Furniture,2,11996,0,23992.0
+10227,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2024,1,Furniture,5,14764,5,70129.0
+10228,Al-Jannat Mall,Shopping Center,Multan,Punjab,2026,9,Clothing,9,6361,5,54386.55
+10229,Bata Shoes Cantonment,Footwear,Multan,Punjab,2025,1,Groceries,14,152,15,1808.8
+10230,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2025,4,Furniture,5,2145,0,10725.0
+10231,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2025,9,Footwear,1,6494,0,6494.0
+10232,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2026,10,Clothing,5,3828,0,19140.0
+10233,ECS Multan,Footwear,Multan,Punjab,2026,8,Traditional Crafts,14,160,0,2240.0
+10234,Al-Jannat Mall,Shopping Center,Multan,Punjab,2026,8,Traditional Crafts,23,1833,10,37943.1
+10235,KK Mart Multan,Supermarket,Multan,Punjab,2025,10,Footwear,2,9274,0,18548.0
+10236,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2024,10,Groceries,25,408,15,8670.0
+10237,Bata Shoes Cantonment,Footwear,Multan,Punjab,2025,7,Footwear,9,4736,0,42624.0
+10238,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2024,11,Cosmetics,4,1663,0,6652.0
+10239,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2024,8,Furniture,3,10194,15,25994.7
+10240,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2026,9,Footwear,4,12568,15,42731.2
+10241,Bata Shoes Cantonment,Footwear,Multan,Punjab,2026,9,Cosmetics,4,1101,0,4404.0
+10242,Al-Jannat Mall,Shopping Center,Multan,Punjab,2024,2,Electronics,2,40931,0,81862.0
+10243,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2024,11,Groceries,3,1104,5,3146.4
+10244,ECS Multan,Footwear,Multan,Punjab,2024,10,Electronics,2,56873,10,102371.4
+10245,Bata Shoes Cantonment,Footwear,Multan,Punjab,2024,2,Footwear,3,13303,0,39909.0
+10246,KK Mart Multan,Supermarket,Multan,Punjab,2026,1,Cosmetics,25,1435,0,35875.0
+10247,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2024,11,Clothing,9,3704,10,30002.4
+10248,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2026,11,Clothing,7,4469,10,28154.7
+10249,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2026,7,Groceries,11,575,0,6325.0
+10250,Bata Shoes Cantonment,Footwear,Multan,Punjab,2026,2,Furniture,2,4403,15,7485.1
+10251,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2024,11,Cosmetics,10,1286,0,12860.0
+10252,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2025,8,Traditional Crafts,4,514,15,1747.6
+10253,KK Mart Multan,Supermarket,Multan,Punjab,2026,10,Furniture,2,7352,5,13968.8
+10254,Bata Shoes Cantonment,Footwear,Multan,Punjab,2025,4,Footwear,4,9059,0,36236.0
+10255,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2024,6,Electronics,2,78888,15,134109.6
+10256,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2025,8,Furniture,2,8353,15,14200.1
+10257,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2026,4,Electronics,4,115732,10,416635.2
+10258,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2026,3,Furniture,7,12698,0,88886.0
+10259,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2025,4,Furniture,9,9266,10,75054.6
+10260,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2026,4,Cosmetics,12,1195,0,14340.0
+10261,KK Mart Multan,Supermarket,Multan,Punjab,2025,8,Groceries,22,1777,10,35184.6
+10262,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2026,9,Furniture,1,7626,0,7626.0
+10263,ECS Multan,Footwear,Multan,Punjab,2025,3,Traditional Crafts,26,1158,5,28602.6
+10264,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2026,8,Traditional Crafts,15,1233,0,18495.0
+10265,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2024,8,Footwear,2,10782,5,20485.8
+10266,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2024,5,Electronics,4,20655,0,82620.0
+10267,KK Mart Multan,Supermarket,Multan,Punjab,2025,9,Clothing,7,12445,0,87115.0
+10268,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2024,6,Clothing,6,11208,15,57160.8
+10269,Bata Shoes Cantonment,Footwear,Multan,Punjab,2025,8,Footwear,1,2583,10,2324.7
+10270,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2025,6,Furniture,9,11759,0,105831.0
+10271,ECS Multan,Footwear,Multan,Punjab,2026,6,Groceries,25,1864,0,46600.0
+10272,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2024,6,Clothing,8,4720,0,37760.0
+10273,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2024,1,Cosmetics,14,1918,15,22824.2
+10274,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2025,6,Footwear,2,5174,15,8795.8
+10275,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2025,10,Cosmetics,3,292,0,876.0
+10276,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2024,8,Clothing,3,8090,0,24270.0
+10277,ECS Multan,Footwear,Multan,Punjab,2025,9,Groceries,10,1532,0,15320.0
+10278,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2025,4,Cosmetics,16,1491,0,23856.0
+10279,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2025,10,Electronics,2,96941,0,193882.0
+10280,Al-Jannat Mall,Shopping Center,Multan,Punjab,2025,11,Clothing,7,9179,5,61040.35
+10281,Al-Jannat Mall,Shopping Center,Multan,Punjab,2026,10,Footwear,4,5638,10,20296.8
+10282,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2026,5,Footwear,3,6790,5,19351.5
+10283,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2025,3,Furniture,5,2661,0,13305.0
+10284,KK Mart Multan,Supermarket,Multan,Punjab,2025,3,Clothing,6,14322,0,85932.0
+10285,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2024,5,Clothing,8,2158,5,16400.8
+10286,Bata Shoes Cantonment,Footwear,Multan,Punjab,2025,4,Clothing,8,2955,0,23640.0
+10287,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2024,4,Electronics,1,40849,0,40849.0
+10288,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2026,2,Cosmetics,7,1081,0,7567.0
+10289,KK Mart Multan,Supermarket,Multan,Punjab,2025,6,Electronics,4,101652,0,406608.0
+10290,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2026,1,Footwear,8,13106,5,99605.6
+10291,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2025,2,Cosmetics,6,524,10,2829.6
+10292,ECS Multan,Footwear,Multan,Punjab,2024,6,Footwear,8,14668,0,117344.0
+10293,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2026,6,Cosmetics,28,1318,0,36904.0
+10294,Al-Jannat Mall,Shopping Center,Multan,Punjab,2025,3,Clothing,5,11444,0,57220.0
+10295,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2024,7,Clothing,3,5374,15,13703.7
+10296,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2025,9,Footwear,5,11472,5,54492.0
+10297,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2024,9,Electronics,2,97495,5,185240.5
+10298,Al-Jannat Mall,Shopping Center,Multan,Punjab,2024,5,Electronics,1,30563,0,30563.0
+10299,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2026,6,Clothing,4,2619,0,10476.0
+10300,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2026,5,Groceries,27,1193,10,28989.9
+10301,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2026,6,Traditional Crafts,22,634,0,13948.0
+10302,Bata Shoes Cantonment,Footwear,Multan,Punjab,2024,3,Groceries,13,1379,0,17927.0
+10303,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2025,8,Footwear,2,7370,0,14740.0
+10304,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2024,7,Footwear,8,7342,0,58736.0
+10305,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2025,4,Traditional Crafts,14,300,5,3990.0
+10306,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2026,8,Cosmetics,2,1514,10,2725.2
+10307,ECS Multan,Footwear,Multan,Punjab,2026,6,Footwear,2,3198,0,6396.0
+10308,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2025,11,Traditional Crafts,19,1587,0,30153.0
+10309,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2026,8,Cosmetics,28,737,0,20636.0
+10310,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2024,3,Groceries,17,1460,15,21097.0
+10311,Bata Shoes Cantonment,Footwear,Multan,Punjab,2024,10,Footwear,2,10125,0,20250.0
+10312,ECS Multan,Footwear,Multan,Punjab,2024,1,Traditional Crafts,26,1854,10,43383.6
+10313,Al-Jannat Mall,Shopping Center,Multan,Punjab,2024,9,Footwear,4,9114,0,36456.0
+10314,ECS Multan,Footwear,Multan,Punjab,2025,3,Furniture,2,5553,10,9995.4
+10315,Al-Jannat Mall,Shopping Center,Multan,Punjab,2026,11,Traditional Crafts,25,1814,15,38547.5
+10316,ECS Multan,Footwear,Multan,Punjab,2024,5,Traditional Crafts,2,1828,5,3473.2
+10317,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2026,5,Traditional Crafts,26,977,0,25402.0
+10318,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2026,6,Groceries,4,1440,15,4896.0
+10319,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2025,9,Cosmetics,22,1176,0,25872.0
+10320,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2025,5,Cosmetics,27,1394,0,37638.0
+10321,Bata Shoes Cantonment,Footwear,Multan,Punjab,2024,4,Cosmetics,12,932,15,9506.4
+10322,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2026,11,Clothing,5,11196,0,55980.0
+10323,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2024,9,Traditional Crafts,12,1977,0,23724.0
+10324,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2024,6,Footwear,2,6882,15,11699.4
+10325,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2025,11,Footwear,3,11884,0,35652.0
+10326,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2025,2,Furniture,4,14208,0,56832.0
+10327,Al-Jannat Mall,Shopping Center,Multan,Punjab,2026,7,Furniture,7,13371,10,84237.3
+10328,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2024,10,Traditional Crafts,11,594,5,6207.3
+10329,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2025,7,Clothing,1,12037,5,11435.15
+10330,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2025,11,Footwear,7,8284,15,49289.8
+10331,ECS Multan,Footwear,Multan,Punjab,2025,9,Footwear,9,5097,0,45873.0
+10332,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2024,10,Cosmetics,25,733,0,18325.0
+10333,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2024,4,Electronics,4,70826,5,269138.8
+10334,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2024,2,Cosmetics,5,1064,0,5320.0
+10335,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2025,5,Traditional Crafts,18,836,0,15048.0
+10336,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2026,5,Groceries,17,811,10,12408.3
+10337,KK Mart Multan,Supermarket,Multan,Punjab,2026,11,Clothing,9,10841,15,82933.65
+10338,Al-Jannat Mall,Shopping Center,Multan,Punjab,2024,2,Furniture,3,3343,10,9026.1
+10339,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2025,6,Electronics,3,103700,0,311100.0
+10340,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2026,8,Electronics,2,44371,0,88742.0
+10341,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2025,10,Cosmetics,8,437,10,3146.4
+10342,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2024,4,Footwear,8,2072,0,16576.0
+10343,ECS Multan,Footwear,Multan,Punjab,2026,4,Groceries,18,1954,5,33413.4
+10344,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2024,11,Clothing,5,6255,15,26583.75
+10345,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2026,6,Cosmetics,27,1985,0,53595.0
+10346,ECS Multan,Footwear,Multan,Punjab,2025,7,Furniture,2,7291,15,12394.7
+10347,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2025,7,Electronics,4,68363,15,232434.2
+10348,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2024,9,Clothing,9,14598,5,124812.9
+10349,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2026,7,Clothing,3,6443,15,16429.65
+10350,Bata Shoes Cantonment,Footwear,Multan,Punjab,2024,9,Clothing,5,2285,5,10853.75
+10351,ECS Multan,Footwear,Multan,Punjab,2025,8,Furniture,1,11958,10,10762.2
+10352,ECS Multan,Footwear,Multan,Punjab,2025,4,Clothing,7,6576,0,46032.0
+10353,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2024,2,Groceries,10,910,0,9100.0
+10354,KK Mart Multan,Supermarket,Multan,Punjab,2025,7,Clothing,4,3689,0,14756.0
+10355,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2026,6,Furniture,6,12382,5,70577.4
+10356,Bata Shoes Cantonment,Footwear,Multan,Punjab,2025,1,Clothing,6,14329,0,85974.0
+10357,KK Mart Multan,Supermarket,Multan,Punjab,2025,6,Furniture,7,5138,5,34167.7
+10358,Al-Jannat Mall,Shopping Center,Multan,Punjab,2024,3,Traditional Crafts,28,727,0,20356.0
+10359,KK Mart Multan,Supermarket,Multan,Punjab,2025,4,Cosmetics,11,1941,0,21351.0
+10360,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2024,6,Groceries,5,1462,15,6213.5
+10361,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2025,4,Furniture,3,13138,0,39414.0
+10362,ECS Multan,Footwear,Multan,Punjab,2024,5,Groceries,9,631,10,5111.1
+10363,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2024,4,Clothing,4,9340,0,37360.0
+10364,ECS Multan,Footwear,Multan,Punjab,2026,2,Footwear,7,7179,0,50253.0
+10365,KK Mart Multan,Supermarket,Multan,Punjab,2026,2,Footwear,2,8488,15,14429.6
+10366,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2026,8,Footwear,7,10648,0,74536.0
+10367,Al-Jannat Mall,Shopping Center,Multan,Punjab,2024,9,Electronics,2,65331,15,111062.7
+10368,KK Mart Multan,Supermarket,Multan,Punjab,2024,4,Traditional Crafts,8,1945,0,15560.0
+10369,Bata Shoes Cantonment,Footwear,Multan,Punjab,2024,4,Traditional Crafts,29,569,15,14025.85
+10370,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2026,5,Cosmetics,4,1801,0,7204.0
+10371,ECS Multan,Footwear,Multan,Punjab,2026,5,Furniture,6,8140,10,43956.0
+10372,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2025,11,Cosmetics,23,554,15,10830.7
+10373,Bata Shoes Cantonment,Footwear,Multan,Punjab,2026,10,Cosmetics,6,1596,0,9576.0
+10374,Bata Shoes Cantonment,Footwear,Multan,Punjab,2025,5,Cosmetics,19,1866,10,31908.6
+10375,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2026,1,Groceries,12,849,10,9169.2
+10376,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2024,10,Traditional Crafts,5,659,0,3295.0
+10377,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2025,8,Clothing,9,9394,10,76091.4
+10378,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2025,10,Footwear,1,8164,0,8164.0
+10379,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2024,1,Groceries,29,1303,10,34008.3
+10380,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2025,10,Cosmetics,22,381,5,7962.9
+10381,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2026,6,Cosmetics,18,349,0,6282.0
+10382,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2026,5,Footwear,1,9083,10,8174.7
+10383,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2024,7,Footwear,3,5456,0,16368.0
+10384,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2024,4,Groceries,9,426,0,3834.0
+10385,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2026,3,Electronics,3,118814,5,338619.9
+10386,KK Mart Multan,Supermarket,Multan,Punjab,2025,5,Electronics,2,119797,0,239594.0
+10387,ECS Multan,Footwear,Multan,Punjab,2024,8,Traditional Crafts,9,1941,0,17469.0
+10388,Al-Jannat Mall,Shopping Center,Multan,Punjab,2026,2,Cosmetics,18,1112,5,19015.2
+10389,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2024,9,Furniture,7,14504,15,86298.8
+10390,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2024,4,Cosmetics,28,801,0,22428.0
+10391,ECS Multan,Footwear,Multan,Punjab,2024,2,Footwear,1,10714,0,10714.0
+10392,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2024,8,Groceries,29,995,0,28855.0
+10393,Al-Jannat Mall,Shopping Center,Multan,Punjab,2025,4,Cosmetics,21,563,10,10640.7
+10394,KK Mart Multan,Supermarket,Multan,Punjab,2024,8,Furniture,3,14180,0,42540.0
+10395,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2024,9,Traditional Crafts,19,1092,10,18673.2
+10396,Bata Shoes Cantonment,Footwear,Multan,Punjab,2025,8,Furniture,7,8381,5,55733.65
+10397,ECS Multan,Footwear,Multan,Punjab,2026,9,Furniture,2,12773,0,25546.0
+10398,Bata Shoes Cantonment,Footwear,Multan,Punjab,2026,2,Traditional Crafts,16,1780,0,28480.0
+10399,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2024,6,Clothing,5,5754,10,25893.0
+10400,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2026,6,Electronics,3,98986,10,267262.2
+10401,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2026,9,Clothing,5,9295,0,46475.0
+10402,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2024,3,Groceries,5,598,0,2990.0
+10403,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2026,9,Cosmetics,22,1183,15,22122.1
+10404,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2026,2,Electronics,4,46656,10,167961.6
+10405,Al-Jannat Mall,Shopping Center,Multan,Punjab,2025,10,Clothing,6,4649,5,26499.3
+10406,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2025,9,Furniture,5,5489,0,27445.0
+10407,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2026,7,Electronics,4,69341,0,277364.0
+10408,Bata Shoes Cantonment,Footwear,Multan,Punjab,2026,4,Cosmetics,11,1193,15,11154.55
+10409,KK Mart Multan,Supermarket,Multan,Punjab,2024,6,Cosmetics,23,1642,10,33989.4
+10410,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2025,4,Furniture,9,14475,10,117247.5
+10411,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2026,7,Groceries,15,665,0,9975.0
+10412,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2025,7,Footwear,4,8643,15,29386.2
+10413,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2025,2,Cosmetics,29,308,5,8485.4
+10414,KK Mart Multan,Supermarket,Multan,Punjab,2026,3,Groceries,25,555,10,12487.5
+10415,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2024,4,Furniture,4,12258,15,41677.2
+10416,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2026,1,Groceries,21,1319,0,27699.0
+10417,Al-Jannat Mall,Shopping Center,Multan,Punjab,2025,1,Clothing,6,12640,5,72048.0
+10418,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2026,6,Traditional Crafts,15,1732,5,24681.0
+10419,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2025,5,Groceries,21,1678,10,31714.2
+10420,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2026,11,Cosmetics,23,1798,10,37218.6
+10421,ECS Multan,Footwear,Multan,Punjab,2026,3,Groceries,20,906,0,18120.0
+10422,KK Mart Multan,Supermarket,Multan,Punjab,2025,3,Furniture,5,14868,5,70623.0
+10423,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2025,5,Footwear,6,12595,0,75570.0
+10424,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2026,7,Furniture,3,7105,0,21315.0
+10425,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2025,9,Groceries,15,1355,5,19308.75
+10426,Al-Jannat Mall,Shopping Center,Multan,Punjab,2024,4,Traditional Crafts,25,874,5,20757.5
+10427,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2025,7,Furniture,7,2162,5,14377.3
+10428,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2025,10,Cosmetics,14,1902,15,22633.8
+10429,Al-Jannat Mall,Shopping Center,Multan,Punjab,2026,4,Footwear,9,10017,10,81137.7
+10430,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2024,11,Cosmetics,7,1692,0,11844.0
+10431,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2026,7,Electronics,2,80428,0,160856.0
+10432,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2024,5,Furniture,5,4361,0,21805.0
+10433,Bata Shoes Cantonment,Footwear,Multan,Punjab,2026,10,Electronics,1,112239,0,112239.0
+10434,KK Mart Multan,Supermarket,Multan,Punjab,2024,9,Groceries,10,594,0,5940.0
+10435,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2026,10,Footwear,7,2597,0,18179.0
+10436,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2024,2,Footwear,9,8171,15,62508.15
+10437,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2025,6,Groceries,7,1667,0,11669.0
+10438,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2024,5,Cosmetics,23,1687,0,38801.0
+10439,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2025,3,Cosmetics,8,786,15,5344.8
+10440,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2025,11,Traditional Crafts,4,1823,0,7292.0
+10441,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2024,4,Traditional Crafts,5,1327,15,5639.75
+10442,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2026,8,Furniture,5,12983,15,55177.75
+10443,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2025,11,Clothing,9,9548,0,85932.0
+10444,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2026,2,Groceries,4,1933,5,7345.4
+10445,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2026,6,Cosmetics,21,828,0,17388.0
+10446,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2026,5,Electronics,4,109986,5,417946.8
+10447,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2024,4,Clothing,5,10676,0,53380.0
+10448,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2025,4,Cosmetics,13,1627,0,21151.0
+10449,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2024,3,Electronics,2,15282,0,30564.0
+10450,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2024,1,Furniture,8,7110,10,51192.0
+10451,Bata Shoes Cantonment,Footwear,Multan,Punjab,2025,6,Clothing,6,8509,0,51054.0
+10452,Al-Jannat Mall,Shopping Center,Multan,Punjab,2026,7,Clothing,1,9183,10,8264.7
+10453,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2024,2,Footwear,6,3283,0,19698.0
+10454,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2024,9,Electronics,1,70426,5,66904.7
+10455,Al-Jannat Mall,Shopping Center,Multan,Punjab,2025,10,Clothing,5,13261,0,66305.0
+10456,Al-Jannat Mall,Shopping Center,Multan,Punjab,2025,2,Clothing,3,2645,5,7538.25
+10457,Al-Jannat Mall,Shopping Center,Multan,Punjab,2025,9,Electronics,4,58732,0,234928.0
+10458,ECS Multan,Footwear,Multan,Punjab,2025,10,Electronics,1,84615,5,80384.25
+10459,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2025,1,Cosmetics,4,1130,5,4294.0
+10460,Metro Cash & Carry,Wholesale/Retail,Multan,Punjab,2026,2,Groceries,12,1487,0,17844.0
+10461,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2024,5,Furniture,3,8763,0,26289.0
+10462,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2025,2,Footwear,8,6578,5,49992.8
+10463,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2024,4,Furniture,1,14411,0,14411.0
+10464,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2024,6,Cosmetics,22,292,0,6424.0
+10465,Al-Jannat Mall,Shopping Center,Multan,Punjab,2024,4,Footwear,1,8115,0,8115.0
+10466,KK Mart Multan,Supermarket,Multan,Punjab,2024,2,Clothing,1,3138,15,2667.3
+10467,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2026,2,Electronics,2,30223,15,51379.1
+10468,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2025,3,Footwear,4,7661,0,30644.0
+10469,Al-Jannat Mall,Shopping Center,Multan,Punjab,2025,6,Furniture,6,3750,0,22500.0
+10470,KK Mart Multan,Supermarket,Multan,Punjab,2026,3,Furniture,3,11641,0,34923.0
+10471,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2026,9,Footwear,7,13002,0,91014.0
+10472,KK Mart Multan,Supermarket,Multan,Punjab,2025,8,Traditional Crafts,22,1083,10,21443.4
+10473,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2025,9,Groceries,2,469,5,891.1
+10474,Al-Jannat Mall,Shopping Center,Multan,Punjab,2026,5,Furniture,9,3762,0,33858.0
+10475,Al-Jannat Mall,Shopping Center,Multan,Punjab,2026,4,Clothing,8,2987,0,23896.0
+10476,Al-Jannat Mall,Shopping Center,Multan,Punjab,2025,6,Footwear,8,14200,10,102240.0
+10477,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2026,11,Furniture,2,14781,10,26605.8
+10478,Bata Shoes Cantonment,Footwear,Multan,Punjab,2024,3,Footwear,1,9851,10,8865.9
+10479,Al-Jannat Mall,Shopping Center,Multan,Punjab,2024,4,Footwear,1,11250,0,11250.0
+10480,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2024,7,Groceries,9,1604,5,13714.2
+10481,ECS Multan,Footwear,Multan,Punjab,2025,9,Clothing,4,14946,10,53805.6
+10482,ECS Multan,Footwear,Multan,Punjab,2026,6,Footwear,3,14792,5,42157.2
+10483,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2025,3,Traditional Crafts,13,1003,0,13039.0
+10484,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2026,7,Cosmetics,2,1534,15,2607.8
+10485,ECS Multan,Footwear,Multan,Punjab,2024,2,Furniture,6,12128,0,72768.0
+10486,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2025,1,Electronics,1,90868,0,90868.0
+10487,KK Mart Multan,Supermarket,Multan,Punjab,2026,4,Furniture,6,7808,0,46848.0
+10488,Chase Up Multan,Hypermarket/Department,Multan,Punjab,2026,4,Furniture,1,6987,0,6987.0
+10489,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2024,1,Footwear,6,2703,15,13785.3
+10490,Al-Jannat Mall,Shopping Center,Multan,Punjab,2024,1,Groceries,18,702,10,11372.4
+10491,KK Mart Multan,Supermarket,Multan,Punjab,2026,7,Electronics,3,83648,10,225849.6
+10492,KK Mart Multan,Supermarket,Multan,Punjab,2024,1,Electronics,4,59199,0,236796.0
+10493,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2024,1,Footwear,7,13564,5,90200.6
+10494,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2024,11,Footwear,7,10365,15,61671.75
+10495,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2026,4,Groceries,19,999,0,18981.0
+10496,Gul Ahmed Ideas,Fashion/Clothing,Multan,Punjab,2024,4,Furniture,5,2593,0,12965.0
+10497,S.M. Food Retailers,Groceries/FMCG,Multan,Punjab,2024,1,Clothing,3,2331,0,6993.0
+10498,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2026,9,Cosmetics,3,351,0,1053.0
+10499,Hussain Agahi Traditional Shop,Traditional/Fabrics,Multan,Punjab,2025,3,Furniture,9,13381,0,120429.0
+10500,Edenrobe Multan,Fashion/Clothing,Multan,Punjab,2026,4,Clothing,5,12693,0,63465.0

@@ -1,0 +1,1001 @@
+Business_ID,Business_Name,City,Province,Business_Type,Owner_Name,Year,Month,Product_Category,Units_Sold,Unit_Price,Total_Sales,Discount_Applied,Net_Sales,Payment_Method,Customer_Type,Employee_Count,Online_Sales,Branch_Count,Profit
+BIZ0001,Business_1,Quetta,Balochistan,Wholesale,Fatima,2023,10,Groceries,361,2220,801420,0,801420.0,Bank Transfer,Government,156,Yes,9,80334.72
+BIZ0002,Business_2,Quetta,Balochistan,Wholesale,Ahmed,2024,8,Sports,467,2559,1195053,20,956042.4,Cash,Corporate,24,Yes,10,231162.3
+BIZ0003,Business_3,Quetta,Balochistan,Wholesale,Ahmed,2020,1,Sports,396,4338,1717848,20,1374278.4000000001,EasyPaisa,Corporate,133,Yes,6,317238.91
+BIZ0004,Business_4,Rawalpindi,Punjab,E-commerce,Ayesha,2022,2,Electronics,151,239,36089,5,34284.549999999996,Bank Transfer,Government,64,No,8,6159.98
+BIZ0005,Business_5,Quetta,Islamabad Capital Territory,Manufacturing,Zeeshan,2025,12,Clothing,209,744,155496,5,147721.19999999998,Bank Transfer,Individual,29,No,10,43069.13
+BIZ0006,Business_6,Karachi,KPK,E-commerce,Ayesha,2020,7,Furniture,289,417,120513,15,102436.05,Credit Card,Corporate,89,Yes,7,23395.02
+BIZ0007,Business_7,Multan,Balochistan,Service,Ahmed,2025,1,Cosmetics,289,3070,887230,5,842868.5,Cash,Individual,152,Yes,2,188554.23
+BIZ0008,Business_8,Quetta,KPK,Manufacturing,Ayesha,2021,5,Groceries,485,674,326890,0,326890.0,Credit Card,Corporate,165,No,7,84955.0
+BIZ0009,Business_9,Islamabad,Islamabad Capital Territory,Service,Fatima,2025,1,Cosmetics,161,1246,200606,10,180545.4,Credit Card,Corporate,100,Yes,6,33796.33
+BIZ0010,Business_10,Multan,Punjab,Service,Fatima,2020,3,Electronics,343,3175,1089025,5,1034573.75,EasyPaisa,Individual,159,No,6,228501.1
+BIZ0011,Business_11,Rawalpindi,Islamabad Capital Territory,Manufacturing,Ahmed,2022,2,Books,10,4344,43440,0,43440.0,JazzCash,Government,196,Yes,6,4750.43
+BIZ0012,Business_12,Faisalabad,Islamabad Capital Territory,Wholesale,Fatima,2022,5,Books,99,3856,381744,0,381744.0,Bank Transfer,Government,37,Yes,1,54395.8
+BIZ0013,Business_13,Rawalpindi,Islamabad Capital Territory,Retail,Bilal,2021,1,Clothing,215,3174,682410,5,648289.5,EasyPaisa,Individual,78,Yes,3,86315.75
+BIZ0014,Business_14,Faisalabad,Sindh,Retail,Fatima,2025,2,Electronics,282,4912,1385184,15,1177406.4,EasyPaisa,Individual,172,Yes,3,242397.36
+BIZ0015,Business_15,Karachi,KPK,Retail,Bilal,2022,2,Sports,203,3261,661983,20,529586.4,EasyPaisa,Government,194,No,1,125997.54
+BIZ0016,Business_16,Islamabad,Sindh,Service,Zeeshan,2020,3,Furniture,492,3750,1845000,15,1568250.0,EasyPaisa,Corporate,184,Yes,3,321583.77
+BIZ0017,Business_17,Rawalpindi,Balochistan,Retail,Bilal,2023,12,Sports,168,4702,789936,15,671445.6,JazzCash,Government,13,No,9,86803.25
+BIZ0018,Business_18,Peshawar,KPK,Wholesale,Sana,2025,8,Furniture,188,995,187060,10,168354.0,Bank Transfer,Corporate,131,No,8,40634.35
+BIZ0019,Business_19,Rawalpindi,Islamabad Capital Territory,Wholesale,Bilal,2022,9,Cosmetics,455,1440,655200,15,556920.0,Cash,Corporate,66,Yes,6,128145.07
+BIZ0020,Business_20,Rawalpindi,Sindh,Service,Zeeshan,2021,4,Groceries,22,3515,77330,10,69597.0,Credit Card,Individual,76,Yes,5,12990.66
+BIZ0021,Business_21,Rawalpindi,KPK,E-commerce,Ayesha,2021,5,Electronics,165,1371,226215,10,203593.5,Credit Card,Government,8,Yes,8,44636.84
+BIZ0022,Business_22,Multan,Punjab,E-commerce,Bilal,2025,2,Cosmetics,187,1440,269280,10,242352.0,JazzCash,Government,60,Yes,9,48867.57
+BIZ0023,Business_23,Peshawar,KPK,Retail,Zeeshan,2022,7,Books,70,3799,265930,10,239337.0,Credit Card,Corporate,32,Yes,3,49796.54
+BIZ0024,Business_24,Lahore,Islamabad Capital Territory,Service,Fatima,2020,10,Clothing,128,1857,237696,10,213926.4,EasyPaisa,Individual,4,No,1,54918.59
+BIZ0025,Business_25,Karachi,Sindh,Wholesale,Hassan,2020,9,Furniture,420,3462,1454040,15,1235934.0,Bank Transfer,Government,108,No,8,332719.78
+BIZ0026,Business_26,Faisalabad,KPK,E-commerce,Ahmed,2023,10,Books,252,2570,647640,5,615258.0,Credit Card,Individual,168,No,5,90180.08
+BIZ0027,Business_27,Faisalabad,Punjab,Retail,Hassan,2024,3,Furniture,216,4767,1029672,10,926704.8,Bank Transfer,Individual,132,No,3,264417.94
+BIZ0028,Business_28,Faisalabad,KPK,E-commerce,Ali,2025,4,Sports,89,2324,206836,15,175810.6,Credit Card,Individual,49,Yes,8,52367.17
+BIZ0029,Business_29,Lahore,Islamabad Capital Territory,Service,Ayesha,2024,10,Furniture,272,1508,410176,0,410176.0,EasyPaisa,Corporate,146,Yes,2,52649.07
+BIZ0030,Business_30,Faisalabad,Islamabad Capital Territory,Service,Bilal,2025,4,Sports,412,893,367916,0,367916.0,EasyPaisa,Individual,7,Yes,2,61529.8
+BIZ0031,Business_31,Rawalpindi,KPK,Retail,Sana,2024,4,Furniture,459,4268,1959012,15,1665160.2,Credit Card,Government,66,No,8,490707.81
+BIZ0032,Business_32,Rawalpindi,Islamabad Capital Territory,E-commerce,Hassan,2022,9,Furniture,452,1605,725460,20,580368.0,EasyPaisa,Individual,121,No,4,144745.62
+BIZ0033,Business_33,Quetta,KPK,Wholesale,Fatima,2024,5,Electronics,174,2591,450834,15,383208.89999999997,EasyPaisa,Individual,61,No,10,64858.71
+BIZ0034,Business_34,Multan,Islamabad Capital Territory,Manufacturing,Ali,2025,8,Cosmetics,103,2781,286443,15,243476.55,Credit Card,Corporate,182,Yes,9,30344.76
+BIZ0035,Business_35,Lahore,KPK,Service,Hassan,2022,11,Groceries,54,4767,257418,15,218805.3,EasyPaisa,Government,147,No,5,55047.89
+BIZ0036,Business_36,Lahore,Punjab,Service,Sana,2020,2,Books,164,2395,392780,10,353502.0,Bank Transfer,Individual,82,No,6,82659.62
+BIZ0037,Business_37,Rawalpindi,KPK,Service,Ali,2024,3,Books,308,4976,1532608,10,1379347.2,EasyPaisa,Government,35,Yes,1,303938.93
+BIZ0038,Business_38,Peshawar,KPK,Service,Fatima,2020,3,Furniture,178,1431,254718,10,229246.2,Cash,Corporate,112,Yes,8,54472.46
+BIZ0039,Business_39,Islamabad,Islamabad Capital Territory,Manufacturing,Bilal,2024,8,Groceries,214,4945,1058230,0,1058230.0,Credit Card,Government,159,Yes,7,212933.61
+BIZ0040,Business_40,Karachi,Balochistan,E-commerce,Fatima,2025,6,Furniture,203,3988,809564,0,809564.0,EasyPaisa,Individual,140,No,8,112224.23
+BIZ0041,Business_41,Islamabad,Sindh,Wholesale,Ali,2023,3,Books,443,884,391612,15,332870.2,Bank Transfer,Corporate,130,Yes,10,92191.87
+BIZ0042,Business_42,Islamabad,Sindh,Retail,Ahmed,2023,11,Groceries,87,2083,181221,5,172159.94999999998,Credit Card,Government,47,No,4,29749.65
+BIZ0043,Business_43,Faisalabad,Islamabad Capital Territory,Manufacturing,Hassan,2021,3,Electronics,374,2138,799612,20,639689.6000000001,JazzCash,Government,181,Yes,3,131747.02
+BIZ0044,Business_44,Faisalabad,Punjab,Service,Zeeshan,2024,1,Furniture,136,2841,386376,5,367057.2,Credit Card,Government,73,Yes,4,86363.01
+BIZ0045,Business_45,Peshawar,Punjab,Manufacturing,Bilal,2024,10,Electronics,415,105,43575,5,41396.25,Credit Card,Government,14,Yes,3,12328.27
+BIZ0046,Business_46,Islamabad,Balochistan,E-commerce,Sana,2022,11,Electronics,367,1987,729229,5,692767.5499999999,Bank Transfer,Individual,97,No,2,205146.19
+BIZ0047,Business_47,Quetta,Islamabad Capital Territory,Service,Ayesha,2022,12,Sports,272,4244,1154368,10,1038931.2000000001,EasyPaisa,Government,86,No,4,276070.22
+BIZ0048,Business_48,Quetta,Sindh,Wholesale,Zeeshan,2021,9,Clothing,247,2874,709878,20,567902.4,Bank Transfer,Corporate,115,Yes,5,152362.94
+BIZ0049,Business_49,Faisalabad,Islamabad Capital Territory,Wholesale,Ahmed,2021,4,Cosmetics,272,4716,1282752,20,1026201.6000000001,Cash,Government,99,No,1,145564.77
+BIZ0050,Business_50,Karachi,Balochistan,E-commerce,Sana,2024,11,Groceries,27,4644,125388,0,125388.0,JazzCash,Government,54,Yes,8,23995.05
+BIZ0051,Business_51,Faisalabad,Balochistan,E-commerce,Bilal,2025,2,Sports,82,726,59532,20,47625.600000000006,Bank Transfer,Corporate,66,No,2,13968.87
+BIZ0052,Business_52,Multan,Sindh,Manufacturing,Bilal,2020,9,Books,420,1327,557340,20,445872.0,EasyPaisa,Individual,176,Yes,7,50442.55
+BIZ0053,Business_53,Quetta,KPK,Manufacturing,Sana,2021,9,Clothing,78,4964,387192,10,348472.8,Credit Card,Individual,39,No,6,90822.03
+BIZ0054,Business_54,Lahore,Islamabad Capital Territory,Service,Ayesha,2021,4,Clothing,344,4555,1566920,0,1566920.0,EasyPaisa,Individual,141,No,2,448659.56
+BIZ0055,Business_55,Faisalabad,Sindh,Service,Hassan,2021,6,Electronics,424,472,200128,0,200128.0,Credit Card,Government,200,No,2,46966.99
+BIZ0056,Business_56,Rawalpindi,Sindh,Retail,Hassan,2022,6,Cosmetics,134,3304,442736,10,398462.4,JazzCash,Corporate,63,Yes,5,78571.65
+BIZ0057,Business_57,Karachi,Sindh,Wholesale,Ayesha,2021,1,Cosmetics,380,3852,1463760,10,1317384.0,EasyPaisa,Individual,189,No,4,294963.92
+BIZ0058,Business_58,Lahore,KPK,Service,Sana,2022,12,Furniture,458,911,417238,10,375514.2,Cash,Government,196,No,10,62885.18
+BIZ0059,Business_59,Lahore,Islamabad Capital Territory,Wholesale,Bilal,2025,11,Furniture,247,3558,878826,20,703060.8,EasyPaisa,Government,193,No,6,173463.21
+BIZ0060,Business_60,Lahore,KPK,Service,Ayesha,2025,10,Clothing,14,2751,38514,5,36588.299999999996,JazzCash,Individual,30,No,3,10553.75
+BIZ0061,Business_61,Karachi,Balochistan,Manufacturing,Zeeshan,2020,9,Electronics,473,3792,1793616,10,1614254.4000000001,JazzCash,Government,133,No,7,481893.32
+BIZ0062,Business_62,Islamabad,Islamabad Capital Territory,Service,Ali,2023,1,Cosmetics,35,449,15715,15,13357.75,Bank Transfer,Individual,144,Yes,2,2760.03
+BIZ0063,Business_63,Karachi,Islamabad Capital Territory,Retail,Ali,2025,2,Books,358,3089,1105862,10,995275.8,Cash,Individual,137,Yes,4,125116.52
+BIZ0064,Business_64,Quetta,Islamabad Capital Territory,E-commerce,Ayesha,2020,11,Clothing,311,2655,825705,10,743134.5,JazzCash,Government,80,No,2,222096.53
+BIZ0065,Business_65,Quetta,KPK,Wholesale,Sana,2023,1,Books,45,1689,76005,20,60804.0,EasyPaisa,Corporate,90,Yes,5,14981.98
+BIZ0066,Business_66,Rawalpindi,Balochistan,Service,Ayesha,2023,3,Books,410,4316,1769560,0,1769560.0,Cash,Corporate,164,No,6,460822.47
+BIZ0067,Business_67,Rawalpindi,Punjab,Wholesale,Bilal,2020,2,Clothing,57,4906,279642,5,265659.89999999997,EasyPaisa,Individual,28,Yes,4,69067.37
+BIZ0068,Business_68,Rawalpindi,Balochistan,Manufacturing,Ahmed,2021,12,Sports,65,175,11375,0,11375.0,EasyPaisa,Corporate,161,Yes,1,3142.76
+BIZ0069,Business_69,Lahore,Islamabad Capital Territory,Wholesale,Bilal,2024,12,Electronics,61,1091,66551,0,66551.0,EasyPaisa,Corporate,153,Yes,8,13699.22
+BIZ0070,Business_70,Multan,Balochistan,Service,Ali,2020,12,Clothing,140,3920,548800,10,493920.0,Bank Transfer,Individual,171,Yes,3,145495.06
+BIZ0071,Business_71,Peshawar,Punjab,E-commerce,Ahmed,2024,1,Clothing,115,3539,406985,5,386635.75,Credit Card,Corporate,132,Yes,7,45873.37
+BIZ0072,Business_72,Islamabad,KPK,Wholesale,Ali,2025,2,Electronics,199,2725,542275,5,515161.25,Cash,Corporate,122,Yes,9,84915.68
+BIZ0073,Business_73,Quetta,Sindh,Retail,Bilal,2021,10,Books,286,3663,1047618,10,942856.2000000001,Credit Card,Corporate,56,No,6,275176.6
+BIZ0074,Business_74,Faisalabad,Islamabad Capital Territory,Wholesale,Zeeshan,2021,3,Clothing,197,2662,524414,10,471972.60000000003,EasyPaisa,Government,182,Yes,7,102268.44
+BIZ0075,Business_75,Rawalpindi,KPK,Manufacturing,Ali,2021,1,Clothing,12,2741,32892,15,27958.2,Credit Card,Individual,149,Yes,3,7681.41
+BIZ0076,Business_76,Karachi,Sindh,Service,Fatima,2022,12,Clothing,208,2868,596544,10,536889.6,Cash,Individual,103,Yes,5,135594.27
+BIZ0077,Business_77,Peshawar,KPK,Wholesale,Sana,2023,11,Electronics,221,595,131495,0,131495.0,EasyPaisa,Individual,66,No,3,36012.96
+BIZ0078,Business_78,Peshawar,Balochistan,Manufacturing,Hassan,2024,11,Books,349,2250,785250,10,706725.0,Cash,Individual,59,No,1,70679.15
+BIZ0079,Business_79,Peshawar,Balochistan,Manufacturing,Ali,2025,5,Electronics,352,3531,1242912,15,1056475.2,EasyPaisa,Individual,122,No,4,160863.04
+BIZ0080,Business_80,Peshawar,Balochistan,E-commerce,Bilal,2021,11,Furniture,440,3036,1335840,0,1335840.0,EasyPaisa,Government,48,Yes,6,276776.76
+BIZ0081,Business_81,Islamabad,Sindh,Retail,Ayesha,2025,8,Groceries,290,3222,934380,0,934380.0,JazzCash,Individual,93,No,5,95281.28
+BIZ0082,Business_82,Faisalabad,Punjab,Retail,Ahmed,2024,7,Groceries,464,3233,1500112,0,1500112.0,JazzCash,Individual,15,Yes,5,224095.33
+BIZ0083,Business_83,Lahore,Islamabad Capital Territory,E-commerce,Fatima,2020,2,Cosmetics,165,1358,224070,15,190459.5,JazzCash,Government,23,Yes,9,20452.92
+BIZ0084,Business_84,Quetta,Islamabad Capital Territory,Manufacturing,Fatima,2025,7,Electronics,97,3281,318257,5,302344.14999999997,Bank Transfer,Corporate,141,Yes,1,73720.45
+BIZ0085,Business_85,Lahore,Islamabad Capital Territory,E-commerce,Ahmed,2025,11,Furniture,235,2841,667635,10,600871.5,EasyPaisa,Government,80,Yes,4,97705.15
+BIZ0086,Business_86,Karachi,KPK,Retail,Ahmed,2023,5,Cosmetics,108,2244,242352,15,205999.19999999998,Credit Card,Corporate,4,Yes,4,23302.59
+BIZ0087,Business_87,Multan,Balochistan,E-commerce,Ahmed,2023,10,Clothing,434,2329,1010786,20,808628.8,Credit Card,Individual,70,No,6,118939.87
+BIZ0088,Business_88,Peshawar,Islamabad Capital Territory,Manufacturing,Bilal,2023,3,Books,43,526,22618,0,22618.0,Credit Card,Government,89,No,6,3958.94
+BIZ0089,Business_89,Islamabad,Sindh,Service,Ali,2024,2,Books,436,3344,1457984,10,1312185.6,JazzCash,Individual,56,Yes,10,197613.41
+BIZ0090,Business_90,Faisalabad,KPK,E-commerce,Hassan,2024,3,Books,293,649,190157,10,171141.30000000002,Cash,Government,183,Yes,3,20525.65
+BIZ0091,Business_91,Islamabad,Balochistan,Service,Sana,2021,8,Clothing,61,2330,142130,15,120810.5,Cash,Individual,95,Yes,2,30692.82
+BIZ0092,Business_92,Multan,Islamabad Capital Territory,Retail,Hassan,2021,5,Books,197,941,185377,20,148301.6,Credit Card,Individual,137,Yes,4,31590.53
+BIZ0093,Business_93,Faisalabad,KPK,Manufacturing,Fatima,2025,8,Books,293,4942,1448006,20,1158404.8,JazzCash,Individual,101,Yes,8,300213.73
+BIZ0094,Business_94,Faisalabad,Islamabad Capital Territory,E-commerce,Ayesha,2023,4,Furniture,140,1458,204120,20,163296.0,EasyPaisa,Government,121,Yes,5,19448.08
+BIZ0095,Business_95,Islamabad,Sindh,Manufacturing,Fatima,2022,7,Sports,477,4841,2309157,5,2193699.15,Cash,Corporate,62,Yes,6,416359.25
+BIZ0096,Business_96,Peshawar,Punjab,Manufacturing,Zeeshan,2024,8,Clothing,242,570,137940,5,131043.0,Credit Card,Corporate,148,No,2,37095.1
+BIZ0097,Business_97,Peshawar,Islamabad Capital Territory,Manufacturing,Hassan,2022,6,Electronics,492,1241,610572,15,518986.2,Credit Card,Individual,60,Yes,6,66434.44
+BIZ0098,Business_98,Lahore,Punjab,Retail,Ayesha,2022,7,Furniture,205,4026,825330,5,784063.5,Cash,Corporate,162,No,7,112215.2
+BIZ0099,Business_99,Peshawar,Punjab,E-commerce,Fatima,2025,6,Furniture,413,807,333291,5,316626.45,JazzCash,Corporate,19,Yes,5,80257.88
+BIZ0100,Business_100,Karachi,Balochistan,E-commerce,Bilal,2023,11,Electronics,337,4093,1379341,20,1103472.8,EasyPaisa,Individual,61,No,5,222270.44
+BIZ0101,Business_101,Multan,Punjab,Wholesale,Bilal,2020,3,Clothing,136,4353,592008,5,562407.6,Bank Transfer,Corporate,143,No,6,114717.16
+BIZ0102,Business_102,Peshawar,KPK,Wholesale,Ali,2020,5,Sports,486,3993,1940598,5,1843568.0999999999,JazzCash,Government,159,No,4,507500.78
+BIZ0103,Business_103,Lahore,Punjab,E-commerce,Sana,2024,7,Cosmetics,180,1169,210420,0,210420.0,EasyPaisa,Government,77,No,2,59884.7
+BIZ0104,Business_104,Karachi,Sindh,Manufacturing,Zeeshan,2020,6,Cosmetics,324,1316,426384,0,426384.0,Bank Transfer,Government,123,Yes,6,46053.16
+BIZ0105,Business_105,Faisalabad,KPK,Retail,Hassan,2023,10,Groceries,406,784,318304,5,302388.8,JazzCash,Individual,15,Yes,2,68087.92
+BIZ0106,Business_106,Peshawar,Balochistan,E-commerce,Ali,2025,2,Clothing,138,3449,475962,0,475962.0,Credit Card,Government,195,No,5,67233.12
+BIZ0107,Business_107,Karachi,Punjab,Wholesale,Fatima,2024,4,Books,31,2712,84072,5,79868.4,EasyPaisa,Government,156,No,5,19057.15
+BIZ0108,Business_108,Karachi,Punjab,Manufacturing,Ayesha,2025,11,Books,421,2323,977983,15,831285.5499999999,Bank Transfer,Corporate,142,No,3,209461.86
+BIZ0109,Business_109,Karachi,KPK,Manufacturing,Zeeshan,2021,1,Furniture,340,2208,750720,15,638112.0,Bank Transfer,Corporate,139,No,10,157554.8
+BIZ0110,Business_110,Multan,Balochistan,Service,Ahmed,2025,9,Clothing,450,877,394650,0,394650.0,JazzCash,Individual,108,No,3,78126.59
+BIZ0111,Business_111,Karachi,KPK,E-commerce,Hassan,2021,1,Cosmetics,387,2852,1103724,10,993351.6,Credit Card,Corporate,142,Yes,10,189103.25
+BIZ0112,Business_112,Peshawar,Sindh,E-commerce,Zeeshan,2020,4,Electronics,385,2999,1154615,10,1039153.5,JazzCash,Corporate,155,No,10,292822.58
+BIZ0113,Business_113,Quetta,KPK,Service,Bilal,2021,9,Furniture,423,2693,1139139,10,1025225.1,Cash,Government,113,No,1,215881.9
+BIZ0114,Business_114,Lahore,Islamabad Capital Territory,Wholesale,Zeeshan,2021,8,Groceries,342,231,79002,20,63201.600000000006,Bank Transfer,Government,144,Yes,1,6651.67
+BIZ0115,Business_115,Faisalabad,KPK,E-commerce,Ahmed,2020,2,Groceries,441,3833,1690353,20,1352282.4000000001,JazzCash,Corporate,16,No,2,204362.36
+BIZ0116,Business_116,Karachi,KPK,E-commerce,Fatima,2023,7,Sports,285,989,281865,5,267771.75,JazzCash,Corporate,120,No,1,80057.24
+BIZ0117,Business_117,Peshawar,KPK,Retail,Ayesha,2022,6,Groceries,70,151,10570,0,10570.0,Cash,Individual,177,No,6,1197.14
+BIZ0118,Business_118,Peshawar,Islamabad Capital Territory,Retail,Ayesha,2023,6,Clothing,152,1241,188632,5,179200.4,EasyPaisa,Government,183,Yes,7,23527.91
+BIZ0119,Business_119,Peshawar,Balochistan,E-commerce,Zeeshan,2023,5,Furniture,228,161,36708,5,34872.6,Cash,Government,83,No,7,9596.35
+BIZ0120,Business_120,Lahore,KPK,Wholesale,Sana,2022,7,Cosmetics,196,1618,317128,10,285415.2,Cash,Individual,187,No,5,36997.63
+BIZ0121,Business_121,Islamabad,Punjab,Service,Ahmed,2024,1,Electronics,298,2059,613582,5,582902.9,EasyPaisa,Government,20,No,3,76691.27
+BIZ0122,Business_122,Multan,Punjab,Wholesale,Sana,2025,8,Sports,421,1505,633605,0,633605.0,Bank Transfer,Government,73,No,8,184684.58
+BIZ0123,Business_123,Peshawar,Punjab,Wholesale,Sana,2025,1,Clothing,476,1143,544068,0,544068.0,Credit Card,Corporate,162,No,10,102925.39
+BIZ0124,Business_124,Peshawar,KPK,Retail,Hassan,2023,2,Books,294,322,94668,0,94668.0,JazzCash,Corporate,56,Yes,1,17042.52
+BIZ0125,Business_125,Quetta,Balochistan,E-commerce,Bilal,2024,1,Groceries,233,3108,724164,20,579331.2000000001,EasyPaisa,Government,160,No,4,59070.86
+BIZ0126,Business_126,Quetta,Islamabad Capital Territory,Service,Hassan,2020,3,Sports,261,3345,873045,0,873045.0,Credit Card,Corporate,182,Yes,1,223786.3
+BIZ0127,Business_127,Rawalpindi,KPK,Service,Hassan,2020,2,Cosmetics,272,1476,401472,15,341251.2,EasyPaisa,Corporate,142,No,8,81844.27
+BIZ0128,Business_128,Faisalabad,Punjab,Service,Ahmed,2021,3,Clothing,480,3213,1542240,0,1542240.0,Credit Card,Corporate,88,Yes,7,272811.2
+BIZ0129,Business_129,Peshawar,KPK,Wholesale,Hassan,2024,10,Sports,236,3704,874144,5,830436.7999999999,Credit Card,Government,118,Yes,10,203679.86
+BIZ0130,Business_130,Rawalpindi,Islamabad Capital Territory,E-commerce,Ahmed,2021,6,Books,246,3033,746118,0,746118.0,Bank Transfer,Corporate,126,Yes,8,96721.25
+BIZ0131,Business_131,Multan,Sindh,Wholesale,Bilal,2020,6,Groceries,179,3807,681453,5,647380.35,JazzCash,Government,125,No,3,79824.51
+BIZ0132,Business_132,Karachi,Sindh,Retail,Ayesha,2023,1,Cosmetics,308,2293,706244,5,670931.7999999999,EasyPaisa,Corporate,140,No,10,107678.42
+BIZ0133,Business_133,Rawalpindi,Punjab,Retail,Ali,2023,7,Sports,434,4870,2113580,20,1690864.0,Cash,Corporate,166,Yes,6,182209.4
+BIZ0134,Business_134,Multan,Islamabad Capital Territory,Service,Ali,2020,5,Sports,21,2094,43974,10,39576.6,EasyPaisa,Individual,102,Yes,10,9848.08
+BIZ0135,Business_135,Lahore,Balochistan,Wholesale,Bilal,2023,2,Cosmetics,416,2687,1117792,5,1061902.4,Bank Transfer,Individual,200,Yes,8,308458.78
+BIZ0136,Business_136,Karachi,Islamabad Capital Territory,E-commerce,Zeeshan,2025,1,Furniture,37,1020,37740,20,30192.0,EasyPaisa,Corporate,82,Yes,4,5163.29
+BIZ0137,Business_137,Rawalpindi,Islamabad Capital Territory,E-commerce,Hassan,2020,1,Furniture,262,255,66810,10,60129.0,Bank Transfer,Government,170,No,2,11536.7
+BIZ0138,Business_138,Peshawar,Punjab,Retail,Ayesha,2024,6,Cosmetics,430,280,120400,20,96320.0,JazzCash,Individual,68,Yes,4,12319.04
+BIZ0139,Business_139,Multan,KPK,Wholesale,Ali,2025,11,Electronics,321,3229,1036509,15,881032.65,JazzCash,Government,163,Yes,3,238281.79
+BIZ0140,Business_140,Karachi,Sindh,Retail,Ayesha,2022,7,Clothing,338,768,259584,15,220646.4,JazzCash,Corporate,136,No,8,59773.32
+BIZ0141,Business_141,Lahore,Balochistan,Service,Ahmed,2020,11,Books,208,4660,969280,20,775424.0,JazzCash,Government,125,No,7,113857.54
+BIZ0142,Business_142,Karachi,Punjab,E-commerce,Hassan,2022,10,Clothing,166,3283,544978,20,435982.4,Credit Card,Government,131,Yes,6,47405.22
+BIZ0143,Business_143,Lahore,Balochistan,Service,Fatima,2024,3,Clothing,228,4413,1006164,10,905547.6,Credit Card,Corporate,139,Yes,7,120955.91
+BIZ0144,Business_144,Rawalpindi,Balochistan,Wholesale,Sana,2024,3,Books,118,1172,138296,0,138296.0,Bank Transfer,Government,34,Yes,1,14637.02
+BIZ0145,Business_145,Islamabad,Punjab,Service,Ayesha,2022,11,Books,211,1851,390561,0,390561.0,Cash,Individual,46,Yes,6,107136.38
+BIZ0146,Business_146,Karachi,Balochistan,Manufacturing,Zeeshan,2022,4,Electronics,263,3884,1021492,20,817193.6000000001,Cash,Individual,147,No,5,152437.53
+BIZ0147,Business_147,Islamabad,Sindh,Retail,Fatima,2020,3,Sports,266,2009,534394,5,507674.3,Cash,Government,141,No,3,84690.07
+BIZ0148,Business_148,Karachi,KPK,Wholesale,Zeeshan,2021,7,Cosmetics,62,2859,177258,10,159532.2,Credit Card,Corporate,176,Yes,4,24400.99
+BIZ0149,Business_149,Karachi,KPK,Wholesale,Zeeshan,2023,7,Groceries,111,258,28638,0,28638.0,EasyPaisa,Individual,59,No,7,6808.6
+BIZ0150,Business_150,Multan,Balochistan,Manufacturing,Hassan,2021,3,Groceries,114,946,107844,10,97059.6,Cash,Individual,196,No,8,22933.79
+BIZ0151,Business_151,Faisalabad,Sindh,Wholesale,Zeeshan,2025,6,Groceries,440,1926,847440,15,720324.0,Credit Card,Individual,6,Yes,1,118103.34
+BIZ0152,Business_152,Peshawar,KPK,Retail,Ayesha,2020,3,Cosmetics,183,1458,266814,0,266814.0,JazzCash,Individual,72,No,10,69673.11
+BIZ0153,Business_153,Karachi,KPK,Manufacturing,Sana,2021,7,Sports,41,1192,48872,20,39097.6,Credit Card,Government,143,No,4,4075.57
+BIZ0154,Business_154,Faisalabad,Sindh,Wholesale,Hassan,2022,4,Electronics,382,1050,401100,15,340935.0,Bank Transfer,Government,2,No,10,46053.35
+BIZ0155,Business_155,Rawalpindi,Punjab,Retail,Hassan,2021,9,Furniture,222,3978,883116,15,750648.6,Bank Transfer,Individual,159,Yes,8,124660.84
+BIZ0156,Business_156,Lahore,Punjab,Manufacturing,Zeeshan,2025,8,Books,479,4886,2340394,5,2223374.3,JazzCash,Individual,170,No,7,448204.47
+BIZ0157,Business_157,Karachi,Punjab,E-commerce,Hassan,2023,6,Clothing,61,2097,127917,10,115125.3,EasyPaisa,Government,94,No,6,14169.53
+BIZ0158,Business_158,Quetta,Sindh,E-commerce,Bilal,2021,4,Cosmetics,166,4781,793646,5,753963.7,EasyPaisa,Corporate,156,No,2,141327.74
+BIZ0159,Business_159,Karachi,Sindh,Service,Ali,2022,10,Cosmetics,398,2572,1023656,15,870107.6,Credit Card,Individual,61,No,5,241245.01
+BIZ0160,Business_160,Karachi,Balochistan,Service,Bilal,2024,2,Sports,68,3750,255000,0,255000.0,EasyPaisa,Individual,40,Yes,6,43268.91
+BIZ0161,Business_161,Lahore,KPK,Manufacturing,Fatima,2023,11,Groceries,272,3973,1080656,15,918557.6,Bank Transfer,Individual,44,Yes,8,136317.53
+BIZ0162,Business_162,Peshawar,Islamabad Capital Territory,E-commerce,Ayesha,2024,3,Groceries,124,4753,589372,10,530434.8,EasyPaisa,Government,41,Yes,8,113294.43
+BIZ0163,Business_163,Rawalpindi,KPK,Manufacturing,Fatima,2021,8,Furniture,266,3325,884450,5,840227.5,Bank Transfer,Corporate,32,No,7,206402.85
+BIZ0164,Business_164,Islamabad,Islamabad Capital Territory,Manufacturing,Fatima,2020,4,Furniture,83,4595,381385,15,324177.25,Bank Transfer,Corporate,160,Yes,7,85772.84
+BIZ0165,Business_165,Rawalpindi,KPK,Retail,Sana,2024,4,Books,138,383,52854,0,52854.0,Bank Transfer,Individual,193,No,7,12958.34
+BIZ0166,Business_166,Multan,KPK,Manufacturing,Bilal,2021,12,Furniture,215,1461,314115,0,314115.0,EasyPaisa,Individual,138,No,9,85591.76
+BIZ0167,Business_167,Islamabad,Sindh,Manufacturing,Bilal,2023,9,Furniture,223,3832,854536,15,726355.6,Credit Card,Individual,150,Yes,3,174785.54
+BIZ0168,Business_168,Islamabad,Sindh,Manufacturing,Bilal,2021,9,Books,408,1795,732360,15,622506.0,Bank Transfer,Individual,137,Yes,2,122565.11
+BIZ0169,Business_169,Quetta,Islamabad Capital Territory,Service,Ayesha,2022,10,Clothing,323,2630,849490,20,679592.0,Bank Transfer,Individual,22,Yes,3,143443.54
+BIZ0170,Business_170,Lahore,KPK,Retail,Bilal,2023,9,Books,250,1938,484500,15,411825.0,JazzCash,Individual,179,Yes,5,54499.55
+BIZ0171,Business_171,Multan,Balochistan,Service,Fatima,2021,12,Electronics,92,482,44344,20,35475.200000000004,JazzCash,Corporate,173,Yes,1,9885.56
+BIZ0172,Business_172,Faisalabad,Sindh,Wholesale,Zeeshan,2023,6,Electronics,120,864,103680,0,103680.0,EasyPaisa,Individual,39,Yes,9,19265.49
+BIZ0173,Business_173,Multan,Punjab,Service,Ahmed,2024,9,Sports,317,4863,1541571,10,1387413.9000000001,JazzCash,Corporate,176,Yes,9,148424.68
+BIZ0174,Business_174,Multan,Sindh,E-commerce,Zeeshan,2021,3,Books,456,2574,1173744,20,938995.2000000001,Credit Card,Corporate,127,Yes,3,170694.32
+BIZ0175,Business_175,Multan,Islamabad Capital Territory,Retail,Fatima,2025,12,Cosmetics,488,4716,2301408,0,2301408.0,Credit Card,Government,32,Yes,5,610991.53
+BIZ0176,Business_176,Islamabad,Balochistan,Manufacturing,Sana,2023,3,Cosmetics,153,3742,572526,15,486647.1,EasyPaisa,Corporate,117,Yes,4,138429.0
+BIZ0177,Business_177,Lahore,Islamabad Capital Territory,E-commerce,Ali,2021,6,Sports,359,1299,466341,15,396389.85,EasyPaisa,Individual,164,Yes,4,92795.03
+BIZ0178,Business_178,Peshawar,Balochistan,Manufacturing,Ahmed,2020,2,Sports,10,4686,46860,0,46860.0,Bank Transfer,Corporate,143,Yes,10,6539.4
+BIZ0179,Business_179,Islamabad,Sindh,Service,Ali,2022,3,Clothing,116,1173,136068,10,122461.2,JazzCash,Corporate,198,Yes,5,22947.14
+BIZ0180,Business_180,Karachi,Sindh,Wholesale,Bilal,2020,12,Cosmetics,279,4793,1337247,5,1270384.65,EasyPaisa,Corporate,160,No,5,325586.87
+BIZ0181,Business_181,Rawalpindi,Balochistan,Manufacturing,Sana,2024,8,Groceries,138,3512,484656,20,387724.80000000005,EasyPaisa,Individual,153,No,7,113425.0
+BIZ0182,Business_182,Islamabad,Balochistan,E-commerce,Fatima,2024,6,Furniture,438,2415,1057770,20,846216.0,JazzCash,Corporate,195,No,4,201738.37
+BIZ0183,Business_183,Faisalabad,Punjab,Wholesale,Ahmed,2025,10,Groceries,321,4689,1505169,0,1505169.0,Credit Card,Government,2,Yes,4,387852.48
+BIZ0184,Business_184,Peshawar,KPK,E-commerce,Hassan,2025,10,Sports,43,1094,47042,10,42337.8,EasyPaisa,Individual,99,No,5,11674.67
+BIZ0185,Business_185,Multan,Punjab,Wholesale,Ayesha,2021,6,Groceries,89,440,39160,15,33286.0,Cash,Corporate,122,Yes,3,5110.48
+BIZ0186,Business_186,Karachi,Sindh,Manufacturing,Ahmed,2024,9,Cosmetics,202,4862,982124,20,785699.2000000001,EasyPaisa,Corporate,145,Yes,9,231829.54
+BIZ0187,Business_187,Faisalabad,Sindh,Service,Zeeshan,2024,4,Sports,483,4223,2039709,0,2039709.0,Credit Card,Corporate,116,Yes,7,228670.07
+BIZ0188,Business_188,Islamabad,Sindh,Retail,Hassan,2025,4,Sports,121,1668,201828,0,201828.0,JazzCash,Individual,90,No,8,28410.94
+BIZ0189,Business_189,Quetta,Sindh,Retail,Bilal,2021,7,Electronics,101,3630,366630,0,366630.0,Bank Transfer,Individual,45,No,6,64004.58
+BIZ0190,Business_190,Lahore,Sindh,Manufacturing,Fatima,2021,5,Books,495,3729,1845855,15,1568976.75,JazzCash,Corporate,146,No,6,387022.94
+BIZ0191,Business_191,Karachi,Sindh,Manufacturing,Bilal,2020,5,Sports,179,3580,640820,5,608779.0,JazzCash,Individual,26,No,7,90347.38
+BIZ0192,Business_192,Peshawar,KPK,E-commerce,Ayesha,2021,7,Cosmetics,320,896,286720,0,286720.0,JazzCash,Corporate,87,No,5,35138.2
+BIZ0193,Business_193,Multan,Islamabad Capital Territory,Retail,Fatima,2022,9,Sports,477,3341,1593657,15,1354608.45,JazzCash,Individual,41,Yes,10,393900.82
+BIZ0194,Business_194,Peshawar,Islamabad Capital Territory,Wholesale,Fatima,2021,10,Clothing,478,234,111852,15,95074.2,JazzCash,Individual,121,Yes,3,12397.45
+BIZ0195,Business_195,Peshawar,Punjab,Retail,Bilal,2025,4,Electronics,141,3774,532134,0,532134.0,Credit Card,Corporate,69,Yes,5,103145.69
+BIZ0196,Business_196,Quetta,Islamabad Capital Territory,Retail,Ali,2023,10,Furniture,295,3362,991790,15,843021.5,EasyPaisa,Government,46,No,4,249986.84
+BIZ0197,Business_197,Lahore,Islamabad Capital Territory,Service,Ahmed,2024,6,Furniture,442,725,320450,5,304427.5,Credit Card,Corporate,161,Yes,5,51944.87
+BIZ0198,Business_198,Lahore,Balochistan,Service,Bilal,2021,9,Sports,15,1820,27300,15,23205.0,Cash,Corporate,165,No,4,4253.76
+BIZ0199,Business_199,Islamabad,Punjab,Manufacturing,Ahmed,2021,7,Furniture,117,2016,235872,15,200491.19999999998,JazzCash,Corporate,21,Yes,9,52623.68
+BIZ0200,Business_200,Lahore,Islamabad Capital Territory,E-commerce,Zeeshan,2024,1,Electronics,320,4626,1480320,20,1184256.0,Cash,Government,187,Yes,2,342123.49
+BIZ0201,Business_201,Karachi,Sindh,E-commerce,Ahmed,2023,5,Books,63,717,45171,5,42912.45,Bank Transfer,Individual,185,Yes,5,10962.45
+BIZ0202,Business_202,Islamabad,Islamabad Capital Territory,Retail,Sana,2021,8,Electronics,264,3956,1044384,20,835507.2000000001,Credit Card,Corporate,52,No,1,207554.34
+BIZ0203,Business_203,Rawalpindi,Punjab,E-commerce,Ali,2022,9,Books,245,3630,889350,15,755947.5,JazzCash,Individual,13,Yes,9,94454.23
+BIZ0204,Business_204,Faisalabad,Punjab,E-commerce,Bilal,2021,2,Cosmetics,412,461,189932,20,151945.6,Bank Transfer,Government,200,Yes,8,21354.14
+BIZ0205,Business_205,Lahore,Balochistan,Manufacturing,Sana,2025,1,Clothing,38,4552,172976,0,172976.0,JazzCash,Government,19,Yes,9,36610.17
+BIZ0206,Business_206,Rawalpindi,KPK,Retail,Hassan,2024,12,Electronics,226,705,159330,10,143397.0,Credit Card,Individual,67,Yes,7,40157.76
+BIZ0207,Business_207,Lahore,Balochistan,Wholesale,Bilal,2021,4,Electronics,367,2294,841898,0,841898.0,Cash,Individual,72,Yes,8,246296.83
+BIZ0208,Business_208,Peshawar,Punjab,E-commerce,Ali,2022,7,Cosmetics,59,3028,178652,10,160786.80000000002,Credit Card,Individual,50,No,6,46860.48
+BIZ0209,Business_209,Multan,Sindh,Service,Ahmed,2020,2,Sports,141,3943,555963,5,528164.85,Credit Card,Government,62,Yes,5,56317.24
+BIZ0210,Business_210,Faisalabad,Sindh,Service,Sana,2024,2,Books,207,138,28566,5,27137.699999999997,JazzCash,Individual,38,Yes,5,3896.58
+BIZ0211,Business_211,Karachi,Sindh,Manufacturing,Ali,2024,12,Furniture,161,1027,165347,10,148812.30000000002,Cash,Corporate,65,Yes,6,28832.58
+BIZ0212,Business_212,Multan,Islamabad Capital Territory,Retail,Hassan,2024,10,Groceries,265,764,202460,20,161968.0,JazzCash,Individual,29,No,6,40909.31
+BIZ0213,Business_213,Karachi,KPK,E-commerce,Zeeshan,2023,3,Sports,261,3351,874611,15,743419.35,Credit Card,Corporate,61,No,6,213524.12
+BIZ0214,Business_214,Faisalabad,KPK,Wholesale,Bilal,2020,2,Electronics,173,4794,829362,0,829362.0,JazzCash,Individual,31,No,8,196582.26
+BIZ0215,Business_215,Rawalpindi,Sindh,E-commerce,Zeeshan,2024,12,Books,443,139,61577,20,49261.600000000006,Cash,Individual,154,Yes,2,11717.87
+BIZ0216,Business_216,Karachi,Sindh,Service,Hassan,2020,5,Clothing,131,660,86460,15,73491.0,EasyPaisa,Government,172,No,3,8027.33
+BIZ0217,Business_217,Karachi,Balochistan,Service,Fatima,2023,11,Sports,76,4327,328852,0,328852.0,Cash,Government,118,Yes,10,85864.55
+BIZ0218,Business_218,Quetta,Sindh,Manufacturing,Ali,2024,11,Furniture,17,1960,33320,20,26656.0,EasyPaisa,Individual,145,No,7,4139.23
+BIZ0219,Business_219,Rawalpindi,Balochistan,Wholesale,Zeeshan,2021,5,Books,354,2851,1009254,10,908328.6,Cash,Corporate,184,Yes,4,222823.16
+BIZ0220,Business_220,Islamabad,Punjab,Retail,Fatima,2021,7,Electronics,482,2840,1368880,5,1300436.0,Credit Card,Government,108,Yes,6,293289.88
+BIZ0221,Business_221,Lahore,Islamabad Capital Territory,Manufacturing,Zeeshan,2024,7,Electronics,125,4811,601375,10,541237.5,Bank Transfer,Individual,32,No,6,59143.09
+BIZ0222,Business_222,Peshawar,Islamabad Capital Territory,Service,Ayesha,2021,3,Groceries,384,3412,1310208,20,1048166.4,EasyPaisa,Government,105,No,10,114678.62
+BIZ0223,Business_223,Rawalpindi,Balochistan,Service,Fatima,2024,10,Sports,186,4632,861552,10,775396.8,EasyPaisa,Government,134,Yes,5,164123.92
+BIZ0224,Business_224,Karachi,Punjab,Retail,Bilal,2024,11,Clothing,58,4822,279676,5,265692.2,Credit Card,Government,40,No,4,32299.52
+BIZ0225,Business_225,Faisalabad,Balochistan,Service,Bilal,2022,9,Electronics,478,2986,1427308,5,1355942.5999999999,EasyPaisa,Corporate,145,Yes,5,139138.89
+BIZ0226,Business_226,Faisalabad,Islamabad Capital Territory,Service,Ali,2021,12,Groceries,478,1779,850362,0,850362.0,EasyPaisa,Individual,150,Yes,7,188487.35
+BIZ0227,Business_227,Faisalabad,Sindh,Retail,Sana,2024,4,Groceries,291,2327,677157,15,575583.45,Bank Transfer,Government,159,Yes,3,157727.16
+BIZ0228,Business_228,Islamabad,Sindh,E-commerce,Bilal,2021,8,Electronics,257,3713,954241,20,763392.8,Bank Transfer,Individual,133,Yes,6,146769.95
+BIZ0229,Business_229,Karachi,KPK,Retail,Zeeshan,2022,1,Furniture,145,1515,219675,0,219675.0,Credit Card,Corporate,185,No,10,29354.17
+BIZ0230,Business_230,Lahore,Punjab,Service,Zeeshan,2020,3,Furniture,179,3376,604304,0,604304.0,Cash,Individual,189,No,7,91480.2
+BIZ0231,Business_231,Multan,Punjab,Wholesale,Hassan,2024,10,Books,161,4220,679420,15,577507.0,JazzCash,Government,134,Yes,7,147199.82
+BIZ0232,Business_232,Lahore,Sindh,Retail,Hassan,2024,11,Sports,56,2006,112336,0,112336.0,Credit Card,Individual,128,No,6,22327.17
+BIZ0233,Business_233,Lahore,Punjab,E-commerce,Hassan,2023,8,Groceries,41,3163,129683,20,103746.40000000001,EasyPaisa,Government,178,No,10,23743.06
+BIZ0234,Business_234,Lahore,KPK,Manufacturing,Zeeshan,2022,10,Sports,429,2157,925353,15,786550.0499999999,Bank Transfer,Government,163,Yes,7,146801.79
+BIZ0235,Business_235,Karachi,Balochistan,Wholesale,Sana,2024,2,Sports,307,1771,543697,0,543697.0,EasyPaisa,Government,177,Yes,4,143367.44
+BIZ0236,Business_236,Karachi,Balochistan,Manufacturing,Ayesha,2022,4,Sports,403,1989,801567,5,761488.6499999999,Credit Card,Individual,132,Yes,8,227234.2
+BIZ0237,Business_237,Peshawar,Islamabad Capital Territory,Wholesale,Ali,2024,4,Books,217,2979,646443,10,581798.7000000001,Cash,Government,44,No,5,79509.12
+BIZ0238,Business_238,Faisalabad,Sindh,Manufacturing,Ali,2023,10,Cosmetics,207,485,100395,15,85335.75,Cash,Government,9,No,9,15417.26
+BIZ0239,Business_239,Lahore,Islamabad Capital Territory,Retail,Bilal,2025,1,Furniture,128,850,108800,15,92480.0,EasyPaisa,Corporate,14,No,3,11659.97
+BIZ0240,Business_240,Rawalpindi,Sindh,E-commerce,Fatima,2024,6,Cosmetics,207,3885,804195,20,643356.0,Credit Card,Government,197,Yes,3,182161.1
+BIZ0241,Business_241,Multan,Punjab,E-commerce,Ahmed,2025,9,Clothing,411,1289,529779,20,423823.2,Credit Card,Government,190,No,3,82754.27
+BIZ0242,Business_242,Karachi,Islamabad Capital Territory,E-commerce,Hassan,2022,2,Groceries,376,2072,779072,15,662211.2,Bank Transfer,Government,169,No,8,186489.55
+BIZ0243,Business_243,Multan,Punjab,Manufacturing,Sana,2025,11,Clothing,466,1445,673370,0,673370.0,Cash,Individual,82,Yes,6,100601.96
+BIZ0244,Business_244,Peshawar,Balochistan,Wholesale,Ayesha,2021,9,Books,79,3516,277764,0,277764.0,Cash,Individual,60,Yes,9,55964.11
+BIZ0245,Business_245,Islamabad,Sindh,E-commerce,Ayesha,2025,7,Groceries,336,2530,850080,10,765072.0,Bank Transfer,Government,17,No,6,193358.95
+BIZ0246,Business_246,Multan,Sindh,Service,Zeeshan,2025,3,Furniture,173,2579,446167,15,379241.95,EasyPaisa,Corporate,143,No,3,47755.06
+BIZ0247,Business_247,Islamabad,Balochistan,Retail,Hassan,2025,2,Cosmetics,245,1990,487550,15,414417.5,Credit Card,Government,88,No,6,95442.54
+BIZ0248,Business_248,Rawalpindi,KPK,Wholesale,Zeeshan,2025,10,Electronics,469,1512,709128,10,638215.2000000001,EasyPaisa,Government,77,No,7,123228.44
+BIZ0249,Business_249,Quetta,KPK,Wholesale,Ali,2023,3,Groceries,88,2865,252120,0,252120.0,JazzCash,Government,31,Yes,7,58244.26
+BIZ0250,Business_250,Islamabad,KPK,Service,Ayesha,2023,12,Clothing,227,3159,717093,5,681238.35,Bank Transfer,Individual,145,No,5,98235.9
+BIZ0251,Business_251,Multan,Punjab,Service,Ahmed,2020,5,Cosmetics,500,3166,1583000,0,1583000.0,EasyPaisa,Corporate,174,Yes,8,368902.91
+BIZ0252,Business_252,Islamabad,Islamabad Capital Territory,E-commerce,Zeeshan,2023,9,Clothing,459,2844,1305396,5,1240126.2,EasyPaisa,Government,110,No,6,147394.62
+BIZ0253,Business_253,Faisalabad,KPK,Manufacturing,Ayesha,2023,7,Groceries,364,2212,805168,20,644134.4,Cash,Individual,102,Yes,4,120599.12
+BIZ0254,Business_254,Peshawar,Punjab,Retail,Ayesha,2023,6,Furniture,275,2690,739750,15,628787.5,Bank Transfer,Corporate,160,No,7,120321.2
+BIZ0255,Business_255,Peshawar,Punjab,Retail,Sana,2025,6,Electronics,266,2846,757036,20,605628.8,EasyPaisa,Government,24,Yes,5,144343.27
+BIZ0256,Business_256,Quetta,KPK,Service,Ali,2025,1,Groceries,68,4287,291516,10,262364.4,Cash,Individual,55,Yes,3,31535.43
+BIZ0257,Business_257,Faisalabad,KPK,Manufacturing,Ali,2023,12,Groceries,477,4848,2312496,10,2081246.4000000001,Credit Card,Government,36,Yes,10,393063.36
+BIZ0258,Business_258,Quetta,Islamabad Capital Territory,Service,Bilal,2024,12,Cosmetics,376,3190,1199440,20,959552.0,EasyPaisa,Government,112,Yes,9,147556.07
+BIZ0259,Business_259,Islamabad,Sindh,Manufacturing,Sana,2021,6,Books,340,1567,532780,10,479502.0,JazzCash,Government,97,No,1,75082.9
+BIZ0260,Business_260,Faisalabad,Punjab,Wholesale,Hassan,2020,10,Electronics,458,2677,1226066,5,1164762.7,Bank Transfer,Corporate,39,Yes,8,117864.36
+BIZ0261,Business_261,Faisalabad,Sindh,Manufacturing,Ali,2020,1,Clothing,379,3687,1397373,15,1187767.05,JazzCash,Government,143,Yes,7,315367.36
+BIZ0262,Business_262,Rawalpindi,Sindh,Service,Ali,2024,8,Sports,67,1338,89646,20,71716.8,EasyPaisa,Individual,116,Yes,10,16225.49
+BIZ0263,Business_263,Peshawar,Islamabad Capital Territory,Manufacturing,Sana,2021,1,Groceries,310,337,104470,0,104470.0,Bank Transfer,Individual,48,No,1,28702.84
+BIZ0264,Business_264,Rawalpindi,Islamabad Capital Territory,Manufacturing,Bilal,2024,9,Books,298,1713,510474,0,510474.0,Credit Card,Government,173,Yes,2,93943.36
+BIZ0265,Business_265,Rawalpindi,Balochistan,E-commerce,Sana,2025,1,Sports,48,267,12816,0,12816.0,JazzCash,Government,40,No,1,1333.75
+BIZ0266,Business_266,Quetta,Islamabad Capital Territory,E-commerce,Hassan,2023,2,Furniture,149,140,20860,20,16688.0,Bank Transfer,Corporate,193,Yes,3,1920.59
+BIZ0267,Business_267,Faisalabad,Sindh,Retail,Zeeshan,2025,12,Furniture,130,3378,439140,10,395226.0,EasyPaisa,Individual,162,No,3,110725.97
+BIZ0268,Business_268,Faisalabad,Punjab,Manufacturing,Bilal,2020,1,Sports,110,2950,324500,10,292050.0,Bank Transfer,Individual,131,Yes,7,62159.68
+BIZ0269,Business_269,Faisalabad,Balochistan,Manufacturing,Ali,2020,8,Sports,441,2847,1255527,10,1129974.3,Bank Transfer,Government,171,No,2,265638.0
+BIZ0270,Business_270,Islamabad,Islamabad Capital Territory,Service,Sana,2025,12,Furniture,467,1290,602430,10,542187.0,JazzCash,Corporate,171,No,4,99929.58
+BIZ0271,Business_271,Karachi,Balochistan,Manufacturing,Zeeshan,2020,6,Groceries,301,4057,1221157,0,1221157.0,Credit Card,Government,117,Yes,2,176525.32
+BIZ0272,Business_272,Quetta,Punjab,Service,Ahmed,2025,1,Sports,430,3072,1320960,10,1188864.0,Cash,Government,29,No,6,124686.19
+BIZ0273,Business_273,Islamabad,Islamabad Capital Territory,Wholesale,Ahmed,2025,8,Sports,192,1409,270528,5,257001.59999999998,EasyPaisa,Individual,89,Yes,10,29189.39
+BIZ0274,Business_274,Peshawar,Punjab,Retail,Fatima,2024,9,Sports,392,1739,681688,15,579434.7999999999,JazzCash,Government,152,No,2,94607.69
+BIZ0275,Business_275,Multan,Balochistan,Service,Hassan,2025,11,Sports,149,1082,161218,5,153157.1,Credit Card,Corporate,34,No,9,30031.41
+BIZ0276,Business_276,Lahore,KPK,E-commerce,Sana,2020,8,Sports,481,3733,1795573,0,1795573.0,Cash,Corporate,190,No,4,480266.45
+BIZ0277,Business_277,Islamabad,Balochistan,E-commerce,Ali,2023,7,Clothing,21,1281,26901,15,22865.85,Cash,Government,145,Yes,9,4503.34
+BIZ0278,Business_278,Faisalabad,Punjab,Service,Sana,2022,3,Sports,72,2595,186840,5,177498.0,EasyPaisa,Corporate,48,Yes,7,43913.24
+BIZ0279,Business_279,Karachi,KPK,Manufacturing,Fatima,2021,9,Furniture,379,1292,489668,15,416217.8,EasyPaisa,Corporate,137,No,3,91687.48
+BIZ0280,Business_280,Multan,Punjab,Retail,Zeeshan,2022,1,Electronics,341,3073,1047893,10,943103.7000000001,Bank Transfer,Government,123,No,7,173111.11
+BIZ0281,Business_281,Rawalpindi,Sindh,Manufacturing,Zeeshan,2022,9,Groceries,45,2661,119745,15,101783.25,Credit Card,Individual,112,Yes,4,11621.02
+BIZ0282,Business_282,Lahore,Punjab,E-commerce,Zeeshan,2020,6,Books,199,3664,729136,15,619765.6,JazzCash,Individual,81,No,7,152146.52
+BIZ0283,Business_283,Quetta,Balochistan,Manufacturing,Zeeshan,2021,4,Electronics,355,4969,1763995,15,1499395.75,Cash,Corporate,162,No,5,241694.68
+BIZ0284,Business_284,Multan,Islamabad Capital Territory,Service,Ahmed,2024,7,Clothing,29,2408,69832,15,59357.2,JazzCash,Government,148,No,3,13439.64
+BIZ0285,Business_285,Quetta,Balochistan,Wholesale,Ayesha,2023,2,Groceries,122,4460,544120,5,516914.0,Credit Card,Individual,45,No,2,63996.37
+BIZ0286,Business_286,Quetta,Punjab,E-commerce,Fatima,2021,8,Sports,379,3605,1366295,10,1229665.5,Cash,Corporate,133,Yes,2,302735.76
+BIZ0287,Business_287,Quetta,Sindh,Service,Hassan,2024,2,Cosmetics,448,4621,2070208,20,1656166.4000000001,JazzCash,Government,59,No,7,269531.31
+BIZ0288,Business_288,Lahore,Sindh,E-commerce,Sana,2022,7,Cosmetics,46,2966,136436,10,122792.40000000001,JazzCash,Individual,57,No,6,15892.13
+BIZ0289,Business_289,Islamabad,Balochistan,Retail,Bilal,2024,1,Electronics,204,4505,919020,15,781167.0,JazzCash,Individual,71,Yes,10,172199.34
+BIZ0290,Business_290,Rawalpindi,Punjab,E-commerce,Ali,2024,2,Clothing,260,290,75400,5,71630.0,JazzCash,Corporate,35,Yes,1,21427.85
+BIZ0291,Business_291,Islamabad,Balochistan,Retail,Hassan,2024,5,Clothing,380,2511,954180,20,763344.0,EasyPaisa,Corporate,76,Yes,2,159677.49
+BIZ0292,Business_292,Rawalpindi,Punjab,E-commerce,Ahmed,2025,10,Sports,92,1047,96324,5,91507.8,Cash,Corporate,150,Yes,4,22561.09
+BIZ0293,Business_293,Karachi,Sindh,Retail,Ahmed,2025,1,Furniture,361,4511,1628471,5,1547047.45,Cash,Corporate,99,No,5,450305.79
+BIZ0294,Business_294,Multan,Balochistan,Wholesale,Bilal,2025,10,Cosmetics,476,1209,575484,20,460387.2,JazzCash,Government,136,No,7,113358.52
+BIZ0295,Business_295,Islamabad,Balochistan,E-commerce,Ahmed,2021,9,Books,114,1848,210672,20,168537.6,Bank Transfer,Corporate,118,No,5,44092.98
+BIZ0296,Business_296,Peshawar,Punjab,Manufacturing,Fatima,2021,1,Books,135,1608,217080,15,184518.0,Bank Transfer,Government,44,No,4,47550.87
+BIZ0297,Business_297,Lahore,KPK,Retail,Fatima,2025,1,Furniture,372,414,154008,10,138607.2,EasyPaisa,Individual,199,No,10,23044.63
+BIZ0298,Business_298,Rawalpindi,Sindh,Wholesale,Sana,2022,1,Cosmetics,46,4272,196512,15,167035.19999999998,Bank Transfer,Corporate,52,No,8,27568.41
+BIZ0299,Business_299,Rawalpindi,Islamabad Capital Territory,Manufacturing,Ali,2024,11,Furniture,293,1850,542050,15,460742.5,Cash,Individual,64,No,9,82164.03
+BIZ0300,Business_300,Faisalabad,Islamabad Capital Territory,Manufacturing,Zeeshan,2023,8,Cosmetics,384,3717,1427328,15,1213228.8,JazzCash,Individual,74,Yes,2,246433.37
+BIZ0301,Business_301,Karachi,Sindh,Service,Zeeshan,2020,4,Electronics,433,4821,2087493,0,2087493.0,Credit Card,Government,98,Yes,5,268032.97
+BIZ0302,Business_302,Faisalabad,KPK,Manufacturing,Ahmed,2020,12,Furniture,395,265,104675,20,83740.0,Credit Card,Government,49,Yes,10,16319.92
+BIZ0303,Business_303,Multan,Sindh,Service,Fatima,2023,6,Clothing,93,1578,146754,10,132078.6,Bank Transfer,Corporate,14,No,4,18257.25
+BIZ0304,Business_304,Lahore,Sindh,Manufacturing,Hassan,2021,3,Electronics,385,1144,440440,0,440440.0,Bank Transfer,Individual,70,No,1,121141.82
+BIZ0305,Business_305,Islamabad,Sindh,Manufacturing,Hassan,2022,9,Sports,487,4203,2046861,5,1944517.95,EasyPaisa,Individual,23,Yes,2,422275.63
+BIZ0306,Business_306,Islamabad,Punjab,Service,Ahmed,2022,6,Electronics,225,3519,791775,5,752186.25,Cash,Individual,25,Yes,5,123561.59
+BIZ0307,Business_307,Rawalpindi,Balochistan,Wholesale,Zeeshan,2025,6,Sports,369,541,199629,15,169684.65,EasyPaisa,Government,149,No,5,20387.29
+BIZ0308,Business_308,Quetta,KPK,Manufacturing,Ayesha,2022,6,Clothing,349,2291,799559,0,799559.0,Bank Transfer,Government,179,No,8,123430.51
+BIZ0309,Business_309,Multan,Balochistan,Retail,Ali,2021,4,Furniture,141,1089,153549,20,122839.20000000001,JazzCash,Government,23,Yes,10,31543.68
+BIZ0310,Business_310,Lahore,KPK,Retail,Ali,2024,1,Clothing,224,139,31136,0,31136.0,JazzCash,Corporate,2,Yes,4,4408.17
+BIZ0311,Business_311,Karachi,Islamabad Capital Territory,Wholesale,Zeeshan,2021,8,Furniture,357,2874,1026018,10,923416.2000000001,EasyPaisa,Corporate,125,No,10,205231.64
+BIZ0312,Business_312,Quetta,Punjab,Service,Ayesha,2024,10,Groceries,373,2263,844099,5,801894.0499999999,Cash,Individual,68,No,9,141254.08
+BIZ0313,Business_313,Islamabad,Sindh,Retail,Ayesha,2020,7,Books,237,1001,237237,5,225375.15,JazzCash,Individual,66,No,6,23387.7
+BIZ0314,Business_314,Quetta,Punjab,Manufacturing,Ayesha,2023,3,Sports,198,2960,586080,15,498168.0,JazzCash,Individual,49,Yes,7,126675.42
+BIZ0315,Business_315,Multan,Islamabad Capital Territory,Service,Fatima,2021,10,Groceries,131,311,40741,10,36666.9,Bank Transfer,Corporate,183,Yes,5,4034.68
+BIZ0316,Business_316,Rawalpindi,Sindh,Retail,Ahmed,2023,10,Furniture,86,4610,396460,10,356814.0,Bank Transfer,Government,165,Yes,9,65065.24
+BIZ0317,Business_317,Quetta,Islamabad Capital Territory,Manufacturing,Bilal,2021,6,Sports,207,3479,720153,20,576122.4,EasyPaisa,Corporate,127,Yes,5,79926.39
+BIZ0318,Business_318,Peshawar,Balochistan,Wholesale,Ali,2025,3,Electronics,460,2945,1354700,0,1354700.0,Bank Transfer,Corporate,165,No,3,187908.73
+BIZ0319,Business_319,Quetta,Sindh,Manufacturing,Hassan,2022,3,Furniture,241,226,54466,5,51742.7,EasyPaisa,Individual,134,Yes,1,5669.27
+BIZ0320,Business_320,Multan,Balochistan,Manufacturing,Ali,2025,3,Electronics,421,1288,542248,0,542248.0,EasyPaisa,Corporate,3,No,9,115576.33
+BIZ0321,Business_321,Quetta,Islamabad Capital Territory,E-commerce,Ayesha,2023,10,Sports,500,3410,1705000,15,1449250.0,EasyPaisa,Corporate,145,Yes,7,411953.11
+BIZ0322,Business_322,Faisalabad,Punjab,Wholesale,Fatima,2023,10,Furniture,51,2448,124848,5,118605.59999999999,Cash,Individual,33,Yes,6,26427.88
+BIZ0323,Business_323,Islamabad,KPK,Wholesale,Ayesha,2024,4,Books,250,3493,873250,20,698600.0,Cash,Corporate,19,No,7,178590.77
+BIZ0324,Business_324,Karachi,Islamabad Capital Territory,Retail,Zeeshan,2024,5,Cosmetics,100,3004,300400,15,255340.0,Cash,Government,41,Yes,9,48148.52
+BIZ0325,Business_325,Karachi,KPK,Manufacturing,Ahmed,2024,12,Clothing,166,2780,461480,0,461480.0,Cash,Corporate,124,No,8,70659.94
+BIZ0326,Business_326,Peshawar,Islamabad Capital Territory,Retail,Ayesha,2024,6,Cosmetics,408,4762,1942896,10,1748606.4000000001,EasyPaisa,Individual,74,No,6,336190.05
+BIZ0327,Business_327,Faisalabad,KPK,Retail,Bilal,2022,1,Books,153,3201,489753,10,440777.7,Cash,Corporate,99,Yes,6,57411.12
+BIZ0328,Business_328,Multan,Punjab,Retail,Fatima,2020,8,Cosmetics,68,4269,290292,0,290292.0,Bank Transfer,Individual,67,No,3,63830.2
+BIZ0329,Business_329,Karachi,Sindh,Manufacturing,Ali,2022,4,Furniture,180,2129,383220,20,306576.0,JazzCash,Government,108,No,4,59254.46
+BIZ0330,Business_330,Multan,Punjab,Manufacturing,Hassan,2020,6,Sports,103,2244,231132,0,231132.0,Credit Card,Individual,10,No,6,24240.37
+BIZ0331,Business_331,Lahore,Islamabad Capital Territory,Wholesale,Fatima,2022,12,Cosmetics,387,2475,957825,15,814151.25,Cash,Corporate,82,Yes,8,202727.99
+BIZ0332,Business_332,Faisalabad,Islamabad Capital Territory,Manufacturing,Sana,2021,1,Sports,463,2900,1342700,20,1074160.0,Cash,Individual,70,Yes,5,179813.85
+BIZ0333,Business_333,Karachi,Sindh,Service,Sana,2020,1,Sports,65,2411,156715,0,156715.0,EasyPaisa,Corporate,194,No,5,41799.59
+BIZ0334,Business_334,Karachi,KPK,Manufacturing,Fatima,2022,6,Groceries,12,2298,27576,15,23439.6,Cash,Government,12,Yes,7,6850.65
+BIZ0335,Business_335,Islamabad,KPK,Retail,Zeeshan,2020,5,Groceries,201,1089,218889,5,207944.55,Bank Transfer,Government,138,No,8,41865.34
+BIZ0336,Business_336,Islamabad,Punjab,Manufacturing,Hassan,2023,11,Sports,433,2506,1085098,5,1030843.1,EasyPaisa,Government,121,Yes,4,215724.38
+BIZ0337,Business_337,Rawalpindi,Sindh,E-commerce,Sana,2021,4,Sports,462,2677,1236774,20,989419.2000000001,EasyPaisa,Corporate,2,Yes,3,129517.1
+BIZ0338,Business_338,Peshawar,Sindh,Service,Zeeshan,2021,5,Clothing,30,3369,101070,20,80856.0,EasyPaisa,Government,61,Yes,8,19089.92
+BIZ0339,Business_339,Lahore,Balochistan,Retail,Bilal,2020,2,Furniture,336,3219,1081584,10,973425.6,Credit Card,Individual,23,Yes,6,279477.41
+BIZ0340,Business_340,Faisalabad,KPK,Service,Ayesha,2022,4,Groceries,442,117,51714,15,43956.9,Credit Card,Corporate,43,No,4,12476.33
+BIZ0341,Business_341,Lahore,Balochistan,Wholesale,Ahmed,2022,6,Electronics,47,1411,66317,10,59685.3,Cash,Corporate,138,No,6,14687.59
+BIZ0342,Business_342,Quetta,Balochistan,Retail,Ahmed,2025,9,Cosmetics,360,3547,1276920,15,1085382.0,JazzCash,Individual,118,No,6,228600.4
+BIZ0343,Business_343,Multan,Sindh,E-commerce,Hassan,2020,2,Books,191,3626,692566,0,692566.0,Bank Transfer,Individual,195,No,3,132482.68
+BIZ0344,Business_344,Quetta,Sindh,E-commerce,Fatima,2025,3,Clothing,384,1149,441216,5,419155.19999999995,Cash,Individual,125,No,9,87135.15
+BIZ0345,Business_345,Islamabad,KPK,E-commerce,Bilal,2024,10,Books,471,1517,714507,0,714507.0,Bank Transfer,Government,144,No,1,204480.77
+BIZ0346,Business_346,Islamabad,KPK,E-commerce,Ahmed,2020,7,Clothing,56,3118,174608,0,174608.0,Bank Transfer,Government,189,Yes,2,21541.29
+BIZ0347,Business_347,Karachi,Balochistan,E-commerce,Zeeshan,2022,4,Clothing,53,1804,95612,5,90831.4,EasyPaisa,Corporate,169,Yes,3,13348.89
+BIZ0348,Business_348,Quetta,Balochistan,Retail,Sana,2022,6,Furniture,212,1283,271996,0,271996.0,JazzCash,Corporate,53,No,10,31709.6
+BIZ0349,Business_349,Karachi,Punjab,Retail,Ahmed,2022,5,Sports,265,3242,859130,0,859130.0,Bank Transfer,Individual,109,Yes,8,123227.93
+BIZ0350,Business_350,Faisalabad,KPK,Retail,Ali,2022,8,Clothing,425,2339,994075,15,844963.75,Bank Transfer,Corporate,148,No,10,104391.07
+BIZ0351,Business_351,Faisalabad,Islamabad Capital Territory,Retail,Fatima,2023,3,Groceries,369,4253,1569357,20,1255485.6,Bank Transfer,Individual,182,Yes,5,131243.9
+BIZ0352,Business_352,Multan,KPK,Manufacturing,Fatima,2022,4,Furniture,141,1067,150447,0,150447.0,EasyPaisa,Individual,191,Yes,5,16214.47
+BIZ0353,Business_353,Faisalabad,Punjab,Manufacturing,Sana,2023,12,Cosmetics,197,2883,567951,20,454360.80000000005,EasyPaisa,Corporate,32,No,1,120529.65
+BIZ0354,Business_354,Rawalpindi,Sindh,Retail,Sana,2025,3,Cosmetics,203,4952,1005256,20,804204.8,EasyPaisa,Individual,7,No,8,143917.18
+BIZ0355,Business_355,Faisalabad,Balochistan,E-commerce,Ayesha,2024,2,Cosmetics,130,247,32110,15,27293.5,EasyPaisa,Individual,41,No,9,5401.7
+BIZ0356,Business_356,Islamabad,Islamabad Capital Territory,Service,Ali,2021,4,Sports,141,3879,546939,10,492245.10000000003,Credit Card,Corporate,108,No,10,81158.42
+BIZ0357,Business_357,Rawalpindi,Punjab,Wholesale,Ali,2024,3,Books,97,3306,320682,15,272579.7,Bank Transfer,Individual,66,No,6,37489.89
+BIZ0358,Business_358,Rawalpindi,KPK,Service,Fatima,2021,8,Furniture,183,904,165432,10,148888.80000000002,Cash,Corporate,13,No,4,35714.21
+BIZ0359,Business_359,Islamabad,KPK,Manufacturing,Ayesha,2020,2,Books,307,3422,1050554,20,840443.2000000001,Bank Transfer,Corporate,15,Yes,5,113932.51
+BIZ0360,Business_360,Rawalpindi,Punjab,Wholesale,Hassan,2023,3,Books,11,1968,21648,15,18400.8,EasyPaisa,Corporate,76,No,8,3261.89
+BIZ0361,Business_361,Multan,Islamabad Capital Territory,Manufacturing,Fatima,2022,3,Groceries,320,1442,461440,0,461440.0,Cash,Corporate,178,No,8,74276.22
+BIZ0362,Business_362,Faisalabad,Sindh,Wholesale,Ahmed,2021,4,Clothing,382,1768,675376,10,607838.4,EasyPaisa,Corporate,42,No,9,176376.2
+BIZ0363,Business_363,Multan,Islamabad Capital Territory,Service,Bilal,2021,11,Sports,103,1880,193640,15,164594.0,EasyPaisa,Individual,127,Yes,9,35096.7
+BIZ0364,Business_364,Lahore,KPK,E-commerce,Sana,2021,7,Furniture,427,3876,1655052,0,1655052.0,Credit Card,Individual,124,Yes,5,324032.99
+BIZ0365,Business_365,Multan,KPK,E-commerce,Zeeshan,2022,4,Books,73,4333,316309,20,253047.2,JazzCash,Government,153,Yes,7,33223.79
+BIZ0366,Business_366,Lahore,Islamabad Capital Territory,Manufacturing,Ali,2023,5,Furniture,387,3850,1489950,0,1489950.0,JazzCash,Corporate,46,No,7,319266.92
+BIZ0367,Business_367,Quetta,Punjab,Service,Sana,2021,12,Books,493,2016,993888,10,894499.2000000001,Credit Card,Corporate,118,No,4,154016.96
+BIZ0368,Business_368,Quetta,Balochistan,Wholesale,Ayesha,2022,8,Furniture,464,763,354032,20,283225.60000000003,EasyPaisa,Corporate,116,Yes,6,37670.99
+BIZ0369,Business_369,Islamabad,Balochistan,Service,Sana,2021,3,Clothing,74,4990,369260,20,295408.0,EasyPaisa,Government,103,No,7,84207.4
+BIZ0370,Business_370,Karachi,Punjab,Service,Ayesha,2022,2,Cosmetics,368,4662,1715616,5,1629835.2,Bank Transfer,Corporate,51,No,9,236665.74
+BIZ0371,Business_371,Faisalabad,Islamabad Capital Territory,E-commerce,Zeeshan,2022,2,Clothing,72,3560,256320,15,217872.0,Cash,Individual,87,No,5,37983.97
+BIZ0372,Business_372,Rawalpindi,Sindh,Retail,Ayesha,2023,9,Furniture,349,4716,1645884,15,1399001.4,JazzCash,Corporate,155,No,8,288573.78
+BIZ0373,Business_373,Lahore,Sindh,Wholesale,Sana,2021,1,Cosmetics,387,3217,1244979,20,995983.2000000001,JazzCash,Government,87,Yes,9,224650.18
+BIZ0374,Business_374,Islamabad,Islamabad Capital Territory,Retail,Ali,2022,8,Cosmetics,224,4408,987392,10,888652.8,EasyPaisa,Government,120,Yes,9,111278.31
+BIZ0375,Business_375,Karachi,Balochistan,Manufacturing,Ali,2020,4,Groceries,202,3584,723968,15,615372.7999999999,Credit Card,Government,163,No,4,96537.05
+BIZ0376,Business_376,Peshawar,KPK,Retail,Ahmed,2022,3,Electronics,78,2551,198978,20,159182.40000000002,EasyPaisa,Government,174,Yes,10,31052.98
+BIZ0377,Business_377,Rawalpindi,Islamabad Capital Territory,Retail,Sana,2021,10,Sports,452,708,320016,20,256012.80000000002,Credit Card,Government,70,No,5,35841.86
+BIZ0378,Business_378,Quetta,Punjab,Retail,Fatima,2025,9,Cosmetics,491,2455,1205405,20,964324.0,EasyPaisa,Individual,78,No,8,113633.64
+BIZ0379,Business_379,Karachi,Balochistan,Wholesale,Ayesha,2025,9,Clothing,106,1887,200022,0,200022.0,Credit Card,Corporate,128,No,5,40367.39
+BIZ0380,Business_380,Faisalabad,Punjab,Manufacturing,Ali,2025,11,Books,260,3777,982020,0,982020.0,EasyPaisa,Government,174,No,5,137581.51
+BIZ0381,Business_381,Karachi,Sindh,Manufacturing,Ahmed,2024,1,Cosmetics,228,2969,676932,15,575392.2,Credit Card,Corporate,187,No,9,81639.76
+BIZ0382,Business_382,Islamabad,KPK,Wholesale,Sana,2023,1,Groceries,296,2668,789728,15,671268.7999999999,EasyPaisa,Individual,122,No,5,192249.88
+BIZ0383,Business_383,Lahore,Punjab,Wholesale,Sana,2020,3,Groceries,168,3868,649824,5,617332.7999999999,Credit Card,Government,175,No,8,183477.74
+BIZ0384,Business_384,Lahore,KPK,E-commerce,Fatima,2023,5,Groceries,46,4249,195454,10,175908.6,EasyPaisa,Government,134,No,10,24935.06
+BIZ0385,Business_385,Faisalabad,Punjab,Retail,Fatima,2020,9,Books,207,2757,570699,10,513629.10000000003,Credit Card,Corporate,112,No,4,82052.8
+BIZ0386,Business_386,Islamabad,Islamabad Capital Territory,E-commerce,Bilal,2023,8,Cosmetics,304,4254,1293216,10,1163894.4000000001,Cash,Corporate,57,Yes,1,268618.21
+BIZ0387,Business_387,Lahore,Sindh,Wholesale,Sana,2024,1,Sports,439,700,307300,0,307300.0,Cash,Corporate,7,No,4,50161.97
+BIZ0388,Business_388,Karachi,Islamabad Capital Territory,Service,Ahmed,2021,6,Clothing,29,4394,127426,20,101940.8,Cash,Government,102,No,2,16063.66
+BIZ0389,Business_389,Multan,Sindh,E-commerce,Hassan,2025,7,Cosmetics,362,2016,729792,10,656812.8,Bank Transfer,Corporate,15,Yes,9,65721.82
+BIZ0390,Business_390,Islamabad,Islamabad Capital Territory,E-commerce,Hassan,2021,12,Cosmetics,22,1668,36696,0,36696.0,JazzCash,Individual,32,Yes,8,10440.77
+BIZ0391,Business_391,Karachi,Sindh,Wholesale,Zeeshan,2021,12,Groceries,276,198,54648,0,54648.0,EasyPaisa,Corporate,80,No,6,11508.88
+BIZ0392,Business_392,Peshawar,Islamabad Capital Territory,Manufacturing,Bilal,2020,2,Clothing,36,2594,93384,20,74707.2,Bank Transfer,Government,16,Yes,10,13771.37
+BIZ0393,Business_393,Rawalpindi,KPK,Wholesale,Sana,2021,4,Furniture,228,1796,409488,15,348064.8,Cash,Government,197,Yes,3,43022.88
+BIZ0394,Business_394,Karachi,Islamabad Capital Territory,E-commerce,Ahmed,2023,12,Clothing,390,368,143520,0,143520.0,Credit Card,Government,195,No,1,42723.51
+BIZ0395,Business_395,Quetta,KPK,Service,Ayesha,2024,5,Furniture,22,1617,35574,10,32016.600000000002,Credit Card,Individual,25,Yes,2,5179.35
+BIZ0396,Business_396,Multan,Sindh,E-commerce,Ahmed,2021,2,Groceries,421,3449,1452029,0,1452029.0,Bank Transfer,Individual,19,No,1,417813.62
+BIZ0397,Business_397,Islamabad,Sindh,Retail,Fatima,2023,9,Books,36,4506,162216,5,154105.19999999998,Cash,Individual,92,No,4,43967.81
+BIZ0398,Business_398,Karachi,KPK,Manufacturing,Bilal,2022,10,Groceries,235,4281,1006035,10,905431.5,JazzCash,Individual,125,Yes,1,163824.32
+BIZ0399,Business_399,Quetta,Punjab,Retail,Zeeshan,2025,4,Sports,142,3836,544712,15,463005.2,Credit Card,Government,92,No,9,129762.32
+BIZ0400,Business_400,Karachi,Sindh,E-commerce,Bilal,2020,9,Clothing,453,2483,1124799,0,1124799.0,Credit Card,Corporate,176,Yes,3,271548.35
+BIZ0401,Business_401,Islamabad,Sindh,Manufacturing,Bilal,2022,1,Cosmetics,95,743,70585,5,67055.75,Credit Card,Corporate,99,No,6,16710.5
+BIZ0402,Business_402,Rawalpindi,Sindh,Manufacturing,Sana,2020,2,Furniture,67,1429,95743,10,86168.7,Bank Transfer,Corporate,200,Yes,6,19136.36
+BIZ0403,Business_403,Rawalpindi,Punjab,Service,Ali,2020,10,Books,146,1100,160600,10,144540.0,Bank Transfer,Individual,68,No,9,27897.01
+BIZ0404,Business_404,Quetta,Sindh,Wholesale,Hassan,2024,8,Books,269,1580,425020,15,361267.0,Bank Transfer,Government,146,Yes,5,97326.59
+BIZ0405,Business_405,Lahore,Balochistan,Retail,Zeeshan,2022,4,Sports,296,1985,587560,5,558182.0,Cash,Government,198,Yes,8,156353.17
+BIZ0406,Business_406,Islamabad,Balochistan,Wholesale,Hassan,2022,4,Books,324,927,300348,10,270313.2,EasyPaisa,Individual,110,No,6,66650.41
+BIZ0407,Business_407,Lahore,KPK,E-commerce,Ali,2020,6,Cosmetics,291,4542,1321722,5,1255635.9,Cash,Government,76,Yes,4,358774.27
+BIZ0408,Business_408,Quetta,Balochistan,Retail,Zeeshan,2020,5,Clothing,361,2350,848350,15,721097.5,Cash,Government,114,No,8,178596.46
+BIZ0409,Business_409,Karachi,Sindh,Wholesale,Hassan,2024,2,Groceries,439,2341,1027699,20,822159.2000000001,Cash,Corporate,29,Yes,8,213991.34
+BIZ0410,Business_410,Peshawar,Islamabad Capital Territory,Manufacturing,Ali,2021,9,Groceries,106,3684,390504,20,312403.2,JazzCash,Corporate,167,No,10,83697.33
+BIZ0411,Business_411,Quetta,Islamabad Capital Territory,Manufacturing,Sana,2024,3,Cosmetics,297,1907,566379,10,509741.10000000003,JazzCash,Government,162,No,2,95502.14
+BIZ0412,Business_412,Peshawar,Balochistan,Service,Bilal,2025,3,Cosmetics,426,3516,1497816,10,1348034.4000000001,Bank Transfer,Corporate,155,No,7,297801.81
+BIZ0413,Business_413,Quetta,Islamabad Capital Territory,E-commerce,Ayesha,2023,10,Groceries,256,2441,624896,10,562406.4,EasyPaisa,Corporate,73,No,9,130358.04
+BIZ0414,Business_414,Islamabad,Balochistan,Retail,Ayesha,2024,10,Electronics,304,2008,610432,10,549388.8,Credit Card,Individual,29,Yes,9,89579.58
+BIZ0415,Business_415,Rawalpindi,Islamabad Capital Territory,E-commerce,Bilal,2025,12,Groceries,243,277,67311,10,60579.9,EasyPaisa,Government,124,Yes,1,14925.24
+BIZ0416,Business_416,Islamabad,Sindh,Retail,Bilal,2023,2,Furniture,289,173,49997,15,42497.45,JazzCash,Individual,92,Yes,7,9370.83
+BIZ0417,Business_417,Peshawar,Punjab,Retail,Bilal,2020,11,Sports,301,381,114681,15,97478.84999999999,JazzCash,Corporate,42,No,7,17289.79
+BIZ0418,Business_418,Peshawar,Punjab,Wholesale,Ahmed,2020,3,Furniture,229,1231,281899,15,239614.15,Credit Card,Individual,200,Yes,4,34773.77
+BIZ0419,Business_419,Peshawar,Sindh,Retail,Ahmed,2020,12,Clothing,481,4464,2147184,20,1717747.2000000002,Bank Transfer,Corporate,156,Yes,1,234069.9
+BIZ0420,Business_420,Multan,Punjab,E-commerce,Ayesha,2025,12,Electronics,363,3603,1307889,0,1307889.0,JazzCash,Government,93,No,6,322366.77
+BIZ0421,Business_421,Multan,KPK,Service,Ahmed,2020,6,Furniture,177,586,103722,20,82977.6,JazzCash,Individual,79,No,1,10247.36
+BIZ0422,Business_422,Rawalpindi,Punjab,Manufacturing,Fatima,2024,8,Sports,17,128,2176,15,1849.6,JazzCash,Individual,34,Yes,4,427.88
+BIZ0423,Business_423,Multan,Islamabad Capital Territory,Service,Sana,2020,1,Books,39,325,12675,10,11407.5,EasyPaisa,Government,150,No,10,2961.58
+BIZ0424,Business_424,Islamabad,Islamabad Capital Territory,Manufacturing,Sana,2023,9,Furniture,182,2844,517608,10,465847.2,EasyPaisa,Individual,102,No,3,89774.07
+BIZ0425,Business_425,Karachi,Islamabad Capital Territory,Manufacturing,Ahmed,2022,2,Books,456,1021,465576,10,419018.4,Cash,Government,163,No,4,125429.76
+BIZ0426,Business_426,Faisalabad,KPK,Service,Bilal,2021,6,Cosmetics,106,4961,525866,10,473279.4,JazzCash,Government,147,No,3,127503.21
+BIZ0427,Business_427,Multan,Sindh,Service,Ayesha,2020,1,Furniture,228,4908,1119024,20,895219.2000000001,EasyPaisa,Government,170,Yes,9,113056.92
+BIZ0428,Business_428,Rawalpindi,Punjab,Wholesale,Ayesha,2021,12,Furniture,111,1537,170607,0,170607.0,Cash,Individual,139,Yes,7,30515.2
+BIZ0429,Business_429,Islamabad,KPK,Manufacturing,Sana,2020,2,Books,289,2362,682618,10,614356.2000000001,Credit Card,Corporate,174,Yes,5,109103.85
+BIZ0430,Business_430,Karachi,Balochistan,Retail,Ali,2021,6,Books,322,2216,713552,10,642196.8,EasyPaisa,Corporate,133,No,5,176628.8
+BIZ0431,Business_431,Lahore,Sindh,E-commerce,Ayesha,2022,5,Sports,287,3746,1075102,5,1021346.8999999999,EasyPaisa,Corporate,103,No,7,131698.24
+BIZ0432,Business_432,Faisalabad,Sindh,E-commerce,Ali,2025,5,Electronics,14,4200,58800,10,52920.0,Cash,Corporate,192,No,7,7310.28
+BIZ0433,Business_433,Multan,Sindh,Service,Ahmed,2021,12,Sports,16,4259,68144,15,57922.4,Bank Transfer,Corporate,87,No,8,6142.01
+BIZ0434,Business_434,Peshawar,Balochistan,Manufacturing,Zeeshan,2025,12,Groceries,296,3242,959632,10,863668.8,Credit Card,Government,153,Yes,4,248000.1
+BIZ0435,Business_435,Islamabad,Sindh,Wholesale,Sana,2023,1,Clothing,298,2733,814434,10,732990.6,Cash,Government,78,Yes,10,210664.01
+BIZ0436,Business_436,Multan,Sindh,Manufacturing,Hassan,2022,1,Furniture,138,1594,219972,5,208973.4,Credit Card,Government,119,No,1,45418.61
+BIZ0437,Business_437,Lahore,Balochistan,Wholesale,Ayesha,2024,12,Clothing,20,3881,77620,15,65977.0,Cash,Corporate,193,No,3,17283.76
+BIZ0438,Business_438,Multan,KPK,Manufacturing,Ali,2023,6,Clothing,436,3046,1328056,20,1062444.8,Bank Transfer,Individual,132,Yes,10,122670.75
+BIZ0439,Business_439,Karachi,Balochistan,Wholesale,Zeeshan,2021,11,Books,202,3409,688618,5,654187.1,Credit Card,Corporate,142,Yes,5,86390.74
+BIZ0440,Business_440,Lahore,KPK,Wholesale,Ali,2024,12,Furniture,283,3852,1090116,10,981104.4,Bank Transfer,Corporate,166,No,10,273617.38
+BIZ0441,Business_441,Quetta,Punjab,E-commerce,Ahmed,2022,5,Groceries,376,3333,1253208,15,1065226.8,Credit Card,Individual,114,No,3,319162.02
+BIZ0442,Business_442,Islamabad,KPK,Wholesale,Bilal,2020,12,Electronics,148,2942,435416,5,413645.19999999995,Credit Card,Government,97,Yes,8,52307.41
+BIZ0443,Business_443,Quetta,Punjab,Wholesale,Hassan,2021,6,Electronics,155,2176,337280,0,337280.0,EasyPaisa,Individual,197,Yes,2,46322.12
+BIZ0444,Business_444,Rawalpindi,KPK,Manufacturing,Ayesha,2025,12,Electronics,278,3742,1040276,10,936248.4,JazzCash,Individual,2,No,9,115868.26
+BIZ0445,Business_445,Karachi,KPK,Retail,Hassan,2021,5,Clothing,328,2729,895112,0,895112.0,JazzCash,Government,112,Yes,2,226694.87
+BIZ0446,Business_446,Multan,Sindh,Service,Ayesha,2022,8,Books,436,323,140828,0,140828.0,EasyPaisa,Individual,196,Yes,2,29959.04
+BIZ0447,Business_447,Multan,Balochistan,E-commerce,Bilal,2025,8,Electronics,492,4866,2394072,15,2034961.2,EasyPaisa,Government,167,No,9,308436.22
+BIZ0448,Business_448,Multan,Punjab,E-commerce,Ayesha,2021,1,Furniture,34,1781,60554,20,48443.200000000004,JazzCash,Individual,49,Yes,9,7948.55
+BIZ0449,Business_449,Peshawar,Sindh,E-commerce,Bilal,2024,12,Electronics,459,221,101439,20,81151.20000000001,JazzCash,Corporate,145,No,8,20827.92
+BIZ0450,Business_450,Rawalpindi,Islamabad Capital Territory,Wholesale,Fatima,2025,9,Books,443,4608,2041344,15,1735142.4,JazzCash,Government,161,No,4,436512.8
+BIZ0451,Business_451,Lahore,Balochistan,E-commerce,Ali,2022,6,Furniture,14,1612,22568,5,21439.6,Credit Card,Individual,50,No,5,4178.01
+BIZ0452,Business_452,Quetta,Balochistan,Retail,Ayesha,2023,4,Furniture,179,3727,667133,20,533706.4,Cash,Individual,75,Yes,2,111640.21
+BIZ0453,Business_453,Multan,KPK,Wholesale,Ayesha,2024,9,Sports,86,697,59942,5,56944.899999999994,Cash,Corporate,196,No,9,12124.53
+BIZ0454,Business_454,Faisalabad,Punjab,Wholesale,Hassan,2022,11,Cosmetics,332,4466,1482712,15,1260305.2,JazzCash,Government,131,No,8,336706.91
+BIZ0455,Business_455,Quetta,Islamabad Capital Territory,Retail,Ayesha,2021,8,Electronics,336,1457,489552,15,416119.2,EasyPaisa,Government,31,Yes,2,72085.01
+BIZ0456,Business_456,Faisalabad,Punjab,Wholesale,Ahmed,2021,1,Cosmetics,129,2279,293991,0,293991.0,EasyPaisa,Corporate,66,No,5,73061.21
+BIZ0457,Business_457,Quetta,KPK,E-commerce,Hassan,2021,5,Groceries,200,3731,746200,5,708890.0,JazzCash,Individual,125,No,5,188307.29
+BIZ0458,Business_458,Rawalpindi,KPK,Manufacturing,Fatima,2020,4,Furniture,178,1534,273052,5,259399.4,Cash,Government,150,Yes,1,63010.16
+BIZ0459,Business_459,Faisalabad,KPK,Manufacturing,Sana,2021,5,Electronics,37,1835,67895,10,61105.5,Bank Transfer,Government,29,No,6,8261.76
+BIZ0460,Business_460,Islamabad,Islamabad Capital Territory,Manufacturing,Sana,2024,4,Furniture,314,3404,1068856,15,908527.6,Cash,Corporate,120,Yes,3,113715.03
+BIZ0461,Business_461,Quetta,Balochistan,Wholesale,Zeeshan,2021,7,Books,380,2566,975080,0,975080.0,Credit Card,Corporate,187,No,10,258006.09
+BIZ0462,Business_462,Quetta,Sindh,Retail,Hassan,2024,2,Groceries,218,2101,458018,20,366414.4,JazzCash,Corporate,179,Yes,3,57140.24
+BIZ0463,Business_463,Lahore,Sindh,Manufacturing,Ahmed,2021,11,Groceries,77,337,25949,15,22056.649999999998,Credit Card,Corporate,94,Yes,3,3530.52
+BIZ0464,Business_464,Multan,Sindh,E-commerce,Ahmed,2020,7,Books,133,2711,360563,0,360563.0,EasyPaisa,Corporate,93,No,1,47853.73
+BIZ0465,Business_465,Multan,Punjab,Manufacturing,Bilal,2023,4,Furniture,230,4197,965310,10,868779.0,Cash,Individual,151,Yes,8,196328.43
+BIZ0466,Business_466,Lahore,Punjab,Service,Ahmed,2025,8,Groceries,461,4918,2267198,0,2267198.0,EasyPaisa,Individual,180,No,1,327710.01
+BIZ0467,Business_467,Multan,KPK,E-commerce,Zeeshan,2024,2,Sports,424,3123,1324152,20,1059321.6,Cash,Corporate,98,No,10,214027.89
+BIZ0468,Business_468,Peshawar,Balochistan,Retail,Bilal,2020,12,Books,102,1792,182784,0,182784.0,Cash,Government,7,No,4,32891.48
+BIZ0469,Business_469,Lahore,KPK,Manufacturing,Ali,2023,4,Cosmetics,386,2970,1146420,20,917136.0,Cash,Corporate,17,Yes,10,196989.57
+BIZ0470,Business_470,Multan,Islamabad Capital Territory,Wholesale,Ayesha,2023,4,Electronics,22,2591,57002,10,51301.8,Credit Card,Corporate,171,No,7,6714.82
+BIZ0471,Business_471,Multan,Islamabad Capital Territory,E-commerce,Bilal,2023,4,Sports,154,4631,713174,20,570539.2000000001,EasyPaisa,Corporate,106,Yes,9,123891.17
+BIZ0472,Business_472,Islamabad,Sindh,Retail,Ali,2021,3,Groceries,289,3245,937805,10,844024.5,Credit Card,Individual,91,Yes,2,105176.23
+BIZ0473,Business_473,Faisalabad,Sindh,Wholesale,Fatima,2022,6,Sports,294,781,229614,15,195171.9,Cash,Individual,165,No,8,36649.9
+BIZ0474,Business_474,Quetta,Islamabad Capital Territory,Retail,Hassan,2025,10,Groceries,99,882,87318,10,78586.2,JazzCash,Individual,142,No,2,15324.14
+BIZ0475,Business_475,Karachi,KPK,Manufacturing,Zeeshan,2022,4,Groceries,327,825,269775,0,269775.0,Cash,Corporate,117,Yes,6,44240.75
+BIZ0476,Business_476,Multan,Balochistan,Service,Ayesha,2025,8,Furniture,432,3810,1645920,20,1316736.0,Bank Transfer,Individual,126,Yes,6,193035.96
+BIZ0477,Business_477,Karachi,KPK,E-commerce,Hassan,2024,12,Furniture,470,2655,1247850,10,1123065.0,Bank Transfer,Government,153,Yes,7,280299.91
+BIZ0478,Business_478,Quetta,Sindh,Retail,Ali,2024,12,Cosmetics,114,4823,549822,15,467348.7,Cash,Individual,53,Yes,4,136674.92
+BIZ0479,Business_479,Rawalpindi,Balochistan,E-commerce,Sana,2023,6,Clothing,102,2076,211752,10,190576.80000000002,EasyPaisa,Government,39,Yes,6,24659.32
+BIZ0480,Business_480,Rawalpindi,Islamabad Capital Territory,Service,Bilal,2022,11,Cosmetics,348,2651,922548,10,830293.2000000001,Credit Card,Government,128,No,5,243275.28
+BIZ0481,Business_481,Lahore,Punjab,Service,Ali,2020,2,Sports,250,1382,345500,0,345500.0,Credit Card,Individual,5,Yes,4,66197.07
+BIZ0482,Business_482,Multan,KPK,E-commerce,Hassan,2021,9,Groceries,155,2757,427335,0,427335.0,Credit Card,Government,91,Yes,6,113120.48
+BIZ0483,Business_483,Peshawar,Balochistan,Retail,Zeeshan,2025,6,Clothing,317,1444,457748,15,389085.8,Credit Card,Individual,47,No,2,46172.84
+BIZ0484,Business_484,Islamabad,Punjab,Wholesale,Hassan,2023,12,Electronics,126,3557,448182,20,358545.60000000003,Credit Card,Corporate,75,No,10,42035.77
+BIZ0485,Business_485,Multan,Balochistan,Manufacturing,Ayesha,2023,11,Groceries,314,1108,347912,20,278329.60000000003,Cash,Corporate,30,No,9,46003.27
+BIZ0486,Business_486,Rawalpindi,Islamabad Capital Territory,Retail,Fatima,2022,9,Groceries,204,3083,628932,15,534592.2,Credit Card,Corporate,47,Yes,2,114435.2
+BIZ0487,Business_487,Multan,Punjab,Service,Fatima,2024,5,Electronics,310,4756,1474360,15,1253206.0,Credit Card,Government,77,No,3,368262.2
+BIZ0488,Business_488,Faisalabad,Punjab,Wholesale,Ayesha,2020,5,Books,280,1206,337680,0,337680.0,Credit Card,Individual,115,No,5,82911.1
+BIZ0489,Business_489,Peshawar,Balochistan,Service,Sana,2024,7,Cosmetics,129,3747,483363,10,435026.7,Bank Transfer,Individual,86,Yes,4,48727.97
+BIZ0490,Business_490,Lahore,KPK,Service,Ayesha,2023,3,Sports,213,249,53037,5,50385.149999999994,Cash,Government,29,No,7,7986.32
+BIZ0491,Business_491,Islamabad,KPK,Wholesale,Hassan,2022,10,Groceries,13,1909,24817,0,24817.0,Bank Transfer,Individual,76,No,10,4993.61
+BIZ0492,Business_492,Lahore,Islamabad Capital Territory,Manufacturing,Fatima,2023,5,Clothing,101,3128,315928,15,268538.8,Cash,Government,41,Yes,2,36700.98
+BIZ0493,Business_493,Lahore,Punjab,Service,Sana,2024,5,Furniture,443,1798,796514,20,637211.2000000001,Bank Transfer,Corporate,187,Yes,10,101164.6
+BIZ0494,Business_494,Faisalabad,Punjab,Retail,Ayesha,2024,9,Groceries,321,4012,1287852,15,1094674.2,Credit Card,Corporate,3,Yes,10,123658.14
+BIZ0495,Business_495,Quetta,Sindh,Retail,Ahmed,2022,4,Groceries,184,1339,246376,0,246376.0,EasyPaisa,Government,184,Yes,2,49814.57
+BIZ0496,Business_496,Multan,Islamabad Capital Territory,Retail,Fatima,2022,6,Clothing,390,3326,1297140,15,1102569.0,EasyPaisa,Individual,75,No,3,236394.02
+BIZ0497,Business_497,Multan,Balochistan,Manufacturing,Ahmed,2024,11,Sports,123,4381,538863,10,484976.7,Bank Transfer,Government,90,No,2,59889.24
+BIZ0498,Business_498,Karachi,KPK,Wholesale,Sana,2020,9,Clothing,485,934,452990,0,452990.0,JazzCash,Individual,124,No,2,46714.68
+BIZ0499,Business_499,Faisalabad,Punjab,E-commerce,Hassan,2023,8,Groceries,316,4910,1551560,0,1551560.0,Cash,Corporate,122,No,9,221058.37
+BIZ0500,Business_500,Peshawar,Punjab,Service,Ali,2022,4,Clothing,174,3967,690258,20,552206.4,Bank Transfer,Corporate,52,No,2,154041.0
+BIZ0501,Business_501,Islamabad,Sindh,Manufacturing,Ali,2025,1,Clothing,320,2165,692800,5,658160.0,JazzCash,Corporate,128,No,1,140362.21
+BIZ0502,Business_502,Karachi,Balochistan,Service,Ahmed,2024,3,Clothing,111,2559,284049,20,227239.2,Bank Transfer,Government,34,No,8,29576.84
+BIZ0503,Business_503,Karachi,KPK,Wholesale,Bilal,2022,8,Electronics,481,1322,635882,5,604087.9,JazzCash,Corporate,184,Yes,1,154456.23
+BIZ0504,Business_504,Multan,Sindh,Wholesale,Ayesha,2025,2,Sports,426,4125,1757250,15,1493662.5,Credit Card,Government,123,No,4,388776.61
+BIZ0505,Business_505,Faisalabad,KPK,E-commerce,Ayesha,2021,4,Groceries,368,1104,406272,5,385958.39999999997,JazzCash,Individual,97,Yes,8,50633.27
+BIZ0506,Business_506,Faisalabad,Islamabad Capital Territory,E-commerce,Fatima,2023,10,Sports,390,297,115830,0,115830.0,JazzCash,Individual,181,No,6,21737.2
+BIZ0507,Business_507,Rawalpindi,Punjab,Manufacturing,Ahmed,2023,3,Books,384,3514,1349376,10,1214438.4000000001,JazzCash,Corporate,141,Yes,10,363986.42
+BIZ0508,Business_508,Multan,Balochistan,Wholesale,Zeeshan,2020,7,Electronics,206,4449,916494,10,824844.6,JazzCash,Individual,191,Yes,8,221655.36
+BIZ0509,Business_509,Islamabad,Balochistan,E-commerce,Ahmed,2021,2,Books,453,4465,2022645,10,1820380.5,Credit Card,Government,120,No,6,531085.65
+BIZ0510,Business_510,Lahore,Islamabad Capital Territory,Service,Ahmed,2023,4,Sports,203,3949,801647,0,801647.0,Bank Transfer,Individual,30,No,4,231423.53
+BIZ0511,Business_511,Peshawar,Balochistan,Service,Sana,2024,3,Sports,244,4706,1148264,15,976024.4,EasyPaisa,Government,150,Yes,6,291178.53
+BIZ0512,Business_512,Lahore,Sindh,Wholesale,Bilal,2022,6,Groceries,153,2756,421668,5,400584.6,EasyPaisa,Corporate,138,No,5,73143.91
+BIZ0513,Business_513,Rawalpindi,Balochistan,E-commerce,Sana,2024,1,Books,200,783,156600,5,148770.0,Credit Card,Corporate,175,Yes,1,37241.81
+BIZ0514,Business_514,Islamabad,Islamabad Capital Territory,Service,Hassan,2021,3,Cosmetics,149,4293,639657,5,607674.15,EasyPaisa,Government,67,No,4,109663.09
+BIZ0515,Business_515,Faisalabad,Islamabad Capital Territory,Retail,Sana,2024,3,Clothing,190,3632,690080,0,690080.0,Bank Transfer,Corporate,19,Yes,5,161340.1
+BIZ0516,Business_516,Quetta,KPK,Wholesale,Ali,2021,3,Cosmetics,485,1969,954965,0,954965.0,EasyPaisa,Corporate,41,No,6,252629.22
+BIZ0517,Business_517,Lahore,Balochistan,E-commerce,Zeeshan,2023,3,Clothing,226,3840,867840,5,824448.0,JazzCash,Individual,48,Yes,3,133935.56
+BIZ0518,Business_518,Lahore,KPK,Wholesale,Sana,2022,2,Cosmetics,179,2267,405793,5,385503.35,Credit Card,Government,98,No,4,64550.91
+BIZ0519,Business_519,Karachi,Punjab,Retail,Fatima,2020,10,Sports,257,1374,353118,5,335462.1,JazzCash,Individual,177,No,9,36468.96
+BIZ0520,Business_520,Karachi,Sindh,Wholesale,Fatima,2020,12,Cosmetics,494,3564,1760616,10,1584554.4000000001,Credit Card,Corporate,20,No,3,222989.22
+BIZ0521,Business_521,Faisalabad,Balochistan,Retail,Ali,2023,9,Sports,239,2118,506202,5,480891.89999999997,Bank Transfer,Corporate,172,Yes,5,132969.97
+BIZ0522,Business_522,Karachi,Balochistan,Retail,Zeeshan,2021,6,Clothing,342,3772,1290024,10,1161021.6,JazzCash,Corporate,147,Yes,4,169530.45
+BIZ0523,Business_523,Faisalabad,Balochistan,Service,Ahmed,2023,4,Clothing,388,1824,707712,5,672326.4,EasyPaisa,Government,112,Yes,6,100285.1
+BIZ0524,Business_524,Quetta,Sindh,E-commerce,Ali,2020,6,Clothing,10,3226,32260,20,25808.0,Credit Card,Corporate,124,Yes,6,5001.18
+BIZ0525,Business_525,Multan,KPK,Service,Ali,2023,11,Sports,288,4338,1249344,10,1124409.6,JazzCash,Corporate,75,No,7,200608.66
+BIZ0526,Business_526,Peshawar,Sindh,E-commerce,Zeeshan,2021,11,Electronics,458,4210,1928180,20,1542544.0,Credit Card,Individual,11,Yes,7,426748.48
+BIZ0527,Business_527,Peshawar,KPK,Manufacturing,Ayesha,2025,8,Furniture,326,4277,1394302,10,1254871.8,JazzCash,Corporate,104,Yes,3,331932.37
+BIZ0528,Business_528,Peshawar,Balochistan,Service,Sana,2025,7,Groceries,15,3960,59400,10,53460.0,Credit Card,Corporate,77,Yes,6,11602.11
+BIZ0529,Business_529,Karachi,Punjab,Service,Bilal,2020,8,Books,459,2094,961146,5,913088.7,Bank Transfer,Government,156,Yes,6,95943.08
+BIZ0530,Business_530,Rawalpindi,Islamabad Capital Territory,Service,Sana,2024,11,Clothing,296,1689,499944,15,424952.39999999997,Bank Transfer,Corporate,140,Yes,2,78111.89
+BIZ0531,Business_531,Lahore,Sindh,Wholesale,Hassan,2023,8,Cosmetics,15,2733,40995,0,40995.0,EasyPaisa,Individual,196,Yes,8,7417.6
+BIZ0532,Business_532,Faisalabad,Sindh,Manufacturing,Ayesha,2023,2,Groceries,491,3555,1745505,5,1658229.75,Credit Card,Corporate,62,No,3,306157.01
+BIZ0533,Business_533,Lahore,Balochistan,Wholesale,Ahmed,2022,11,Groceries,184,4115,757160,10,681444.0,JazzCash,Government,84,No,1,177670.75
+BIZ0534,Business_534,Lahore,Sindh,Wholesale,Zeeshan,2022,6,Books,71,3010,213710,0,213710.0,Cash,Individual,119,No,7,49979.62
+BIZ0535,Business_535,Quetta,Islamabad Capital Territory,Manufacturing,Ahmed,2020,10,Sports,364,3156,1148784,10,1033905.6,Cash,Corporate,78,No,6,185541.97
+BIZ0536,Business_536,Faisalabad,Balochistan,Retail,Ahmed,2022,5,Furniture,269,4358,1172302,0,1172302.0,EasyPaisa,Corporate,69,No,4,166502.23
+BIZ0537,Business_537,Multan,Islamabad Capital Territory,E-commerce,Ayesha,2022,6,Cosmetics,286,4658,1332188,15,1132359.8,EasyPaisa,Individual,156,Yes,2,242915.8
+BIZ0538,Business_538,Karachi,Islamabad Capital Territory,E-commerce,Ali,2024,12,Clothing,138,4866,671508,0,671508.0,EasyPaisa,Government,124,Yes,3,98798.92
+BIZ0539,Business_539,Karachi,KPK,Service,Ahmed,2024,4,Cosmetics,314,4942,1551788,20,1241430.4000000001,Credit Card,Individual,88,Yes,1,356764.33
+BIZ0540,Business_540,Faisalabad,Punjab,Retail,Fatima,2023,2,Furniture,94,3924,368856,20,295084.8,JazzCash,Government,187,Yes,8,71439.57
+BIZ0541,Business_541,Karachi,Islamabad Capital Territory,Retail,Ayesha,2024,6,Cosmetics,271,752,203792,15,173223.19999999998,EasyPaisa,Government,132,No,4,47828.24
+BIZ0542,Business_542,Karachi,Sindh,Retail,Hassan,2021,1,Groceries,287,1874,537838,15,457162.3,EasyPaisa,Individual,106,Yes,1,103400.79
+BIZ0543,Business_543,Peshawar,Punjab,Wholesale,Fatima,2024,11,Sports,95,2580,245100,10,220590.0,Bank Transfer,Government,89,Yes,8,23103.99
+BIZ0544,Business_544,Lahore,Balochistan,Service,Zeeshan,2025,11,Electronics,462,2609,1205358,15,1024554.2999999999,Credit Card,Individual,92,No,4,237438.28
+BIZ0545,Business_545,Rawalpindi,KPK,Manufacturing,Fatima,2020,10,Books,53,1562,82786,15,70368.09999999999,Cash,Corporate,31,No,10,9826.66
+BIZ0546,Business_546,Multan,KPK,Manufacturing,Fatima,2022,6,Books,297,3040,902880,15,767448.0,JazzCash,Individual,40,Yes,7,97340.18
+BIZ0547,Business_547,Peshawar,Sindh,Manufacturing,Ali,2021,4,Groceries,473,986,466378,20,373102.4,Cash,Corporate,36,Yes,8,59309.92
+BIZ0548,Business_548,Lahore,Sindh,Retail,Hassan,2020,5,Books,11,1669,18359,0,18359.0,JazzCash,Corporate,5,Yes,6,3813.92
+BIZ0549,Business_549,Lahore,Balochistan,Wholesale,Sana,2023,3,Clothing,292,4559,1331228,0,1331228.0,JazzCash,Corporate,142,Yes,9,221428.99
+BIZ0550,Business_550,Faisalabad,Islamabad Capital Territory,Retail,Ahmed,2024,8,Clothing,448,4052,1815296,0,1815296.0,EasyPaisa,Government,145,No,10,403177.41
+BIZ0551,Business_551,Peshawar,Islamabad Capital Territory,E-commerce,Ali,2024,10,Electronics,162,475,76950,0,76950.0,Cash,Corporate,83,No,8,15232.94
+BIZ0552,Business_552,Multan,Punjab,E-commerce,Ayesha,2020,1,Furniture,209,2401,501809,10,451628.10000000003,Cash,Government,168,No,6,86016.86
+BIZ0553,Business_553,Rawalpindi,Punjab,E-commerce,Sana,2020,7,Furniture,321,1135,364335,10,327901.5,JazzCash,Corporate,20,Yes,3,47774.85
+BIZ0554,Business_554,Faisalabad,Sindh,Manufacturing,Fatima,2024,10,Furniture,289,4133,1194437,15,1015271.45,JazzCash,Government,151,Yes,8,244321.92
+BIZ0555,Business_555,Faisalabad,Islamabad Capital Territory,Wholesale,Ahmed,2025,12,Sports,146,2543,371278,20,297022.4,Credit Card,Individual,177,Yes,10,51249.94
+BIZ0556,Business_556,Faisalabad,Sindh,E-commerce,Ahmed,2024,9,Books,57,891,50787,20,40629.600000000006,Bank Transfer,Corporate,33,Yes,5,6450.37
+BIZ0557,Business_557,Islamabad,Sindh,Wholesale,Fatima,2024,9,Furniture,398,3396,1351608,20,1081286.4000000001,Bank Transfer,Corporate,179,Yes,10,259040.54
+BIZ0558,Business_558,Multan,Islamabad Capital Territory,Wholesale,Zeeshan,2020,5,Books,170,1823,309910,5,294414.5,Bank Transfer,Corporate,175,No,5,75868.19
+BIZ0559,Business_559,Faisalabad,KPK,Retail,Hassan,2022,9,Electronics,329,660,217140,20,173712.0,JazzCash,Corporate,64,Yes,5,21150.76
+BIZ0560,Business_560,Islamabad,Islamabad Capital Territory,Manufacturing,Hassan,2025,2,Groceries,255,1505,383775,5,364586.25,EasyPaisa,Individual,78,No,10,104159.05
+BIZ0561,Business_561,Peshawar,KPK,Retail,Ahmed,2024,3,Books,111,1694,188034,5,178632.3,JazzCash,Government,35,No,3,18221.37
+BIZ0562,Business_562,Faisalabad,KPK,Retail,Hassan,2024,12,Sports,49,377,18473,5,17549.35,Credit Card,Individual,45,Yes,8,3041.07
+BIZ0563,Business_563,Quetta,Sindh,E-commerce,Ayesha,2025,10,Cosmetics,286,2530,723580,10,651222.0,JazzCash,Corporate,126,No,4,173994.77
+BIZ0564,Business_564,Karachi,Balochistan,E-commerce,Ali,2023,4,Clothing,489,3427,1675803,5,1592012.8499999999,Bank Transfer,Government,68,Yes,1,324372.7
+BIZ0565,Business_565,Karachi,Sindh,Wholesale,Ahmed,2020,1,Books,21,3816,80136,20,64108.8,Cash,Corporate,85,No,10,9899.51
+BIZ0566,Business_566,Lahore,Sindh,Wholesale,Ahmed,2021,7,Cosmetics,420,1576,661920,0,661920.0,Credit Card,Individual,127,No,3,117487.56
+BIZ0567,Business_567,Peshawar,Punjab,Manufacturing,Ahmed,2024,3,Cosmetics,221,4337,958477,5,910553.1499999999,Credit Card,Government,167,Yes,5,233264.74
+BIZ0568,Business_568,Rawalpindi,Punjab,Retail,Ayesha,2023,1,Groceries,90,3291,296190,20,236952.0,JazzCash,Corporate,64,No,5,41757.95
+BIZ0569,Business_569,Faisalabad,Balochistan,Retail,Bilal,2023,10,Groceries,368,2056,756608,20,605286.4,Cash,Government,156,No,9,177703.09
+BIZ0570,Business_570,Karachi,KPK,Retail,Ali,2023,9,Groceries,468,1612,754416,20,603532.8,EasyPaisa,Government,76,Yes,8,157013.26
+BIZ0571,Business_571,Karachi,Islamabad Capital Territory,Manufacturing,Sana,2025,5,Books,245,1635,400575,10,360517.5,Bank Transfer,Government,171,Yes,7,54026.15
+BIZ0572,Business_572,Peshawar,KPK,Wholesale,Ahmed,2022,10,Cosmetics,239,1560,372840,0,372840.0,Credit Card,Corporate,8,No,5,55825.87
+BIZ0573,Business_573,Peshawar,KPK,Retail,Zeeshan,2021,11,Sports,10,2439,24390,0,24390.0,Cash,Government,141,Yes,3,4639.26
+BIZ0574,Business_574,Quetta,KPK,Service,Hassan,2020,12,Books,471,2684,1264164,0,1264164.0,Bank Transfer,Individual,21,Yes,6,168005.38
+BIZ0575,Business_575,Faisalabad,Sindh,Wholesale,Ahmed,2023,11,Books,166,4366,724756,10,652280.4,Credit Card,Corporate,49,No,4,104549.13
+BIZ0576,Business_576,Islamabad,Punjab,Retail,Ali,2025,12,Books,230,175,40250,0,40250.0,Bank Transfer,Corporate,100,No,2,7893.92
+BIZ0577,Business_577,Multan,Punjab,Manufacturing,Zeeshan,2023,4,Cosmetics,102,494,50388,20,40310.4,Credit Card,Government,36,Yes,4,5046.71
+BIZ0578,Business_578,Lahore,Sindh,Service,Ali,2020,3,Sports,367,1961,719687,15,611733.95,Bank Transfer,Corporate,123,No,9,79042.22
+BIZ0579,Business_579,Rawalpindi,Sindh,Retail,Bilal,2025,12,Groceries,405,2092,847260,10,762534.0,EasyPaisa,Corporate,107,No,6,104641.71
+BIZ0580,Business_580,Karachi,Islamabad Capital Territory,E-commerce,Ahmed,2022,5,Groceries,496,2862,1419552,5,1348574.4,Credit Card,Corporate,55,No,5,314811.12
+BIZ0581,Business_581,Peshawar,Islamabad Capital Territory,Retail,Sana,2022,9,Clothing,176,2483,437008,15,371456.8,Cash,Individual,20,Yes,1,46278.88
+BIZ0582,Business_582,Multan,KPK,E-commerce,Ayesha,2025,5,Electronics,463,2954,1367702,0,1367702.0,Cash,Individual,131,Yes,5,367361.82
+BIZ0583,Business_583,Lahore,Balochistan,Service,Ayesha,2022,9,Electronics,306,3679,1125774,5,1069485.3,Bank Transfer,Corporate,30,Yes,5,286464.28
+BIZ0584,Business_584,Karachi,Punjab,Retail,Hassan,2022,6,Clothing,164,3411,559404,15,475493.39999999997,Cash,Corporate,68,No,2,54691.58
+BIZ0585,Business_585,Peshawar,KPK,Wholesale,Hassan,2023,3,Groceries,301,4847,1458947,0,1458947.0,EasyPaisa,Corporate,4,Yes,3,356213.18
+BIZ0586,Business_586,Faisalabad,Islamabad Capital Territory,Manufacturing,Hassan,2022,1,Clothing,343,2562,878766,5,834827.7,EasyPaisa,Corporate,75,Yes,7,186632.86
+BIZ0587,Business_587,Peshawar,KPK,Retail,Ali,2025,2,Clothing,250,868,217000,20,173600.0,Credit Card,Individual,183,No,1,45010.25
+BIZ0588,Business_588,Karachi,Punjab,E-commerce,Ali,2025,11,Electronics,430,3409,1465870,15,1245989.5,Bank Transfer,Government,97,No,8,226555.61
+BIZ0589,Business_589,Rawalpindi,Punjab,Retail,Sana,2020,4,Groceries,20,1089,21780,20,17424.0,Cash,Individual,94,Yes,2,4291.04
+BIZ0590,Business_590,Faisalabad,Punjab,Manufacturing,Bilal,2020,7,Electronics,49,4658,228242,20,182593.6,EasyPaisa,Individual,158,Yes,3,41806.14
+BIZ0591,Business_591,Islamabad,Punjab,Wholesale,Fatima,2023,5,Sports,324,1920,622080,5,590976.0,EasyPaisa,Government,43,Yes,10,140606.17
+BIZ0592,Business_592,Faisalabad,Punjab,Service,Ali,2023,8,Groceries,160,4784,765440,20,612352.0,EasyPaisa,Individual,36,Yes,3,122985.11
+BIZ0593,Business_593,Islamabad,Balochistan,Service,Ali,2024,3,Cosmetics,72,1974,142128,20,113702.40000000001,Cash,Government,38,Yes,8,32711.5
+BIZ0594,Business_594,Karachi,Punjab,E-commerce,Hassan,2025,5,Books,484,4394,2126696,5,2020361.2,JazzCash,Corporate,137,Yes,8,280437.74
+BIZ0595,Business_595,Islamabad,Punjab,E-commerce,Ayesha,2020,4,Groceries,443,245,108535,15,92254.75,Bank Transfer,Individual,11,Yes,1,11346.61
+BIZ0596,Business_596,Rawalpindi,Punjab,Manufacturing,Hassan,2024,3,Clothing,247,4013,991211,5,941650.45,JazzCash,Corporate,25,Yes,3,103827.93
+BIZ0597,Business_597,Karachi,Islamabad Capital Territory,Retail,Zeeshan,2022,3,Furniture,353,3221,1137013,0,1137013.0,EasyPaisa,Government,21,No,7,160171.14
+BIZ0598,Business_598,Karachi,Punjab,Retail,Hassan,2024,5,Cosmetics,467,839,391813,20,313450.4,Credit Card,Government,99,Yes,1,36039.95
+BIZ0599,Business_599,Peshawar,KPK,Manufacturing,Ayesha,2023,2,Groceries,425,2718,1155150,0,1155150.0,Credit Card,Corporate,14,No,1,164047.25
+BIZ0600,Business_600,Karachi,KPK,Wholesale,Zeeshan,2023,10,Books,437,4528,1978736,20,1582988.8,Bank Transfer,Individual,181,Yes,10,371103.26
+BIZ0601,Business_601,Multan,Balochistan,Retail,Bilal,2024,3,Groceries,373,3878,1446494,5,1374169.3,JazzCash,Individual,138,Yes,2,279770.75
+BIZ0602,Business_602,Multan,Punjab,Retail,Ali,2021,7,Furniture,458,2385,1092330,10,983097.0,Credit Card,Individual,122,No,7,269118.67
+BIZ0603,Business_603,Multan,Balochistan,Wholesale,Ahmed,2022,4,Electronics,458,3583,1641014,5,1558963.2999999998,Cash,Corporate,195,No,9,444828.18
+BIZ0604,Business_604,Karachi,Sindh,Manufacturing,Ali,2021,7,Cosmetics,497,870,432390,15,367531.5,EasyPaisa,Individual,84,Yes,2,69880.33
+BIZ0605,Business_605,Faisalabad,Balochistan,Retail,Hassan,2022,3,Clothing,262,543,142266,20,113812.8,Credit Card,Individual,88,Yes,10,22010.94
+BIZ0606,Business_606,Faisalabad,Punjab,Service,Bilal,2024,8,Groceries,148,4307,637436,0,637436.0,EasyPaisa,Individual,159,Yes,3,144494.09
+BIZ0607,Business_607,Rawalpindi,Sindh,Manufacturing,Ahmed,2020,12,Books,444,837,371628,20,297302.4,EasyPaisa,Individual,177,No,2,61357.92
+BIZ0608,Business_608,Quetta,Punjab,Manufacturing,Zeeshan,2020,12,Clothing,310,4464,1383840,20,1107072.0,Cash,Individual,26,No,8,277919.87
+BIZ0609,Business_609,Faisalabad,KPK,Manufacturing,Ayesha,2022,12,Books,270,2861,772470,10,695223.0,Credit Card,Corporate,161,Yes,8,103500.21
+BIZ0610,Business_610,Rawalpindi,Sindh,Retail,Hassan,2020,6,Furniture,69,652,44988,10,40489.200000000004,JazzCash,Individual,105,Yes,3,5673.1
+BIZ0611,Business_611,Quetta,KPK,E-commerce,Hassan,2021,4,Groceries,289,1893,547077,15,465015.45,EasyPaisa,Government,156,Yes,7,90429.84
+BIZ0612,Business_612,Lahore,Balochistan,Service,Ali,2023,3,Groceries,60,3134,188040,10,169236.0,Cash,Government,51,Yes,1,27138.43
+BIZ0613,Business_613,Rawalpindi,Balochistan,Manufacturing,Bilal,2024,9,Groceries,217,2689,583513,0,583513.0,Cash,Corporate,58,Yes,8,81709.49
+BIZ0614,Business_614,Quetta,Islamabad Capital Territory,Retail,Bilal,2020,1,Sports,449,3654,1640646,5,1558613.7,Bank Transfer,Individual,173,Yes,6,384915.48
+BIZ0615,Business_615,Peshawar,KPK,Wholesale,Ayesha,2023,5,Books,173,1227,212271,20,169816.80000000002,Bank Transfer,Government,106,Yes,6,33830.43
+BIZ0616,Business_616,Lahore,KPK,E-commerce,Bilal,2024,6,Groceries,167,916,152972,5,145323.4,Credit Card,Individual,164,No,2,21991.17
+BIZ0617,Business_617,Faisalabad,Punjab,Wholesale,Bilal,2025,10,Books,20,1140,22800,5,21660.0,EasyPaisa,Government,159,No,5,4358.63
+BIZ0618,Business_618,Islamabad,Sindh,Wholesale,Ahmed,2020,9,Cosmetics,239,185,44215,5,42004.25,JazzCash,Government,56,Yes,7,11552.99
+BIZ0619,Business_619,Quetta,Islamabad Capital Territory,Wholesale,Zeeshan,2020,6,Groceries,279,747,208413,15,177151.05,JazzCash,Corporate,200,Yes,9,35457.56
+BIZ0620,Business_620,Multan,Sindh,Wholesale,Ayesha,2024,8,Cosmetics,30,249,7470,15,6349.5,Bank Transfer,Corporate,33,No,8,1569.82
+BIZ0621,Business_621,Islamabad,Islamabad Capital Territory,E-commerce,Zeeshan,2023,11,Books,362,911,329782,10,296803.8,Credit Card,Individual,122,Yes,1,70267.55
+BIZ0622,Business_622,Lahore,Sindh,Manufacturing,Ali,2023,4,Books,304,1938,589152,0,589152.0,Cash,Government,103,No,2,108765.53
+BIZ0623,Business_623,Rawalpindi,KPK,Retail,Bilal,2022,1,Sports,180,3911,703980,5,668781.0,Credit Card,Government,179,No,3,66954.72
+BIZ0624,Business_624,Faisalabad,Islamabad Capital Territory,Retail,Ali,2025,3,Sports,222,3472,770784,5,732244.7999999999,EasyPaisa,Corporate,144,No,10,166296.31
+BIZ0625,Business_625,Quetta,KPK,Service,Bilal,2022,10,Books,172,1716,295152,10,265636.8,EasyPaisa,Corporate,151,No,6,55703.06
+BIZ0626,Business_626,Multan,KPK,Manufacturing,Bilal,2024,1,Electronics,231,1449,334719,0,334719.0,Cash,Government,164,No,2,57026.49
+BIZ0627,Business_627,Lahore,Islamabad Capital Territory,Wholesale,Ali,2020,7,Cosmetics,367,4651,1706917,10,1536225.3,Cash,Government,177,No,10,227905.33
+BIZ0628,Business_628,Rawalpindi,Islamabad Capital Territory,E-commerce,Ali,2024,8,Electronics,342,3993,1365606,10,1229045.4000000001,Credit Card,Government,111,No,6,237028.98
+BIZ0629,Business_629,Faisalabad,Balochistan,Wholesale,Sana,2022,5,Furniture,297,4821,1431837,5,1360245.15,EasyPaisa,Individual,179,Yes,6,274528.35
+BIZ0630,Business_630,Rawalpindi,Islamabad Capital Territory,Retail,Hassan,2021,6,Sports,338,1088,367744,10,330969.60000000003,Bank Transfer,Individual,200,Yes,1,75028.05
+BIZ0631,Business_631,Multan,KPK,Service,Ayesha,2024,8,Sports,219,848,185712,10,167140.80000000002,EasyPaisa,Government,192,No,4,43412.18
+BIZ0632,Business_632,Peshawar,Punjab,Manufacturing,Sana,2020,8,Groceries,360,2343,843480,20,674784.0,Cash,Individual,177,Yes,9,167141.33
+BIZ0633,Business_633,Karachi,Sindh,Wholesale,Bilal,2025,10,Groceries,134,1181,158254,0,158254.0,Bank Transfer,Corporate,84,Yes,5,31167.45
+BIZ0634,Business_634,Islamabad,Balochistan,E-commerce,Sana,2024,12,Clothing,497,2358,1171926,5,1113329.7,Credit Card,Government,75,Yes,8,185038.84
+BIZ0635,Business_635,Rawalpindi,Balochistan,Retail,Ahmed,2020,8,Groceries,119,4389,522291,0,522291.0,Credit Card,Individual,80,Yes,1,65850.19
+BIZ0636,Business_636,Karachi,Islamabad Capital Territory,Wholesale,Ali,2024,6,Furniture,255,2102,536010,0,536010.0,Cash,Government,32,No,2,132268.46
+BIZ0637,Business_637,Karachi,Balochistan,Service,Fatima,2020,11,Books,382,4188,1599816,0,1599816.0,Bank Transfer,Individual,87,Yes,10,420524.38
+BIZ0638,Business_638,Quetta,Punjab,Retail,Sana,2021,9,Sports,324,4405,1427220,10,1284498.0,JazzCash,Corporate,184,No,4,249322.91
+BIZ0639,Business_639,Karachi,Islamabad Capital Territory,E-commerce,Sana,2020,6,Cosmetics,159,3180,505620,20,404496.0,Bank Transfer,Individual,200,Yes,4,79975.88
+BIZ0640,Business_640,Quetta,Sindh,Wholesale,Ali,2022,9,Groceries,385,3076,1184260,10,1065834.0,JazzCash,Corporate,73,Yes,9,162992.43
+BIZ0641,Business_641,Multan,KPK,Retail,Hassan,2020,2,Sports,187,4845,906015,10,815413.5,Credit Card,Corporate,129,No,9,140452.61
+BIZ0642,Business_642,Peshawar,Islamabad Capital Territory,Wholesale,Hassan,2020,12,Books,226,4943,1117118,5,1061262.0999999999,Bank Transfer,Individual,90,Yes,10,130968.47
+BIZ0643,Business_643,Multan,Balochistan,E-commerce,Ayesha,2023,2,Electronics,149,2916,434484,20,347587.2,JazzCash,Government,14,No,3,74238.19
+BIZ0644,Business_644,Karachi,Balochistan,Wholesale,Ali,2022,5,Books,371,3270,1213170,15,1031194.5,EasyPaisa,Individual,114,No,5,115819.14
+BIZ0645,Business_645,Rawalpindi,Sindh,Retail,Bilal,2024,7,Books,331,4196,1388876,0,1388876.0,Credit Card,Individual,167,Yes,6,349073.92
+BIZ0646,Business_646,Peshawar,Sindh,Wholesale,Ahmed,2023,11,Books,112,3582,401184,20,320947.2,Cash,Government,8,Yes,4,72543.46
+BIZ0647,Business_647,Lahore,Islamabad Capital Territory,Retail,Zeeshan,2020,4,Electronics,455,1688,768040,10,691236.0,EasyPaisa,Government,165,Yes,2,144072.75
+BIZ0648,Business_648,Islamabad,Islamabad Capital Territory,Service,Ahmed,2025,9,Cosmetics,150,2894,434100,15,368985.0,Credit Card,Government,190,No,6,99617.1
+BIZ0649,Business_649,Rawalpindi,Balochistan,E-commerce,Ahmed,2024,9,Furniture,264,4260,1124640,0,1124640.0,Bank Transfer,Government,59,Yes,4,187360.99
+BIZ0650,Business_650,Islamabad,Punjab,Retail,Ahmed,2022,2,Cosmetics,183,4548,832284,0,832284.0,Cash,Corporate,37,Yes,8,190244.02
+BIZ0651,Business_651,Rawalpindi,KPK,Retail,Zeeshan,2024,11,Furniture,285,4146,1181610,10,1063449.0,EasyPaisa,Government,32,Yes,2,221107.68
+BIZ0652,Business_652,Multan,KPK,E-commerce,Ayesha,2020,6,Electronics,321,458,147018,10,132316.2,JazzCash,Government,61,Yes,8,15659.04
+BIZ0653,Business_653,Multan,KPK,Manufacturing,Bilal,2024,10,Cosmetics,78,3275,255450,20,204360.0,Cash,Individual,16,Yes,3,27966.82
+BIZ0654,Business_654,Karachi,Sindh,Wholesale,Hassan,2023,8,Cosmetics,464,2396,1111744,20,889395.2000000001,Bank Transfer,Corporate,52,Yes,6,208365.0
+BIZ0655,Business_655,Karachi,Islamabad Capital Territory,Retail,Zeeshan,2022,5,Books,461,3296,1519456,10,1367510.4000000001,Credit Card,Individual,188,Yes,3,337860.16
+BIZ0656,Business_656,Faisalabad,Sindh,Manufacturing,Zeeshan,2020,5,Furniture,278,784,217952,20,174361.6,JazzCash,Individual,48,Yes,10,29419.95
+BIZ0657,Business_657,Karachi,Punjab,E-commerce,Hassan,2023,9,Electronics,445,2612,1162340,0,1162340.0,Cash,Government,171,No,3,265459.49
+BIZ0658,Business_658,Rawalpindi,Balochistan,Service,Bilal,2025,12,Books,87,4868,423516,0,423516.0,Bank Transfer,Individual,142,No,3,88818.57
+BIZ0659,Business_659,Islamabad,Sindh,Service,Ahmed,2023,3,Sports,330,3431,1132230,0,1132230.0,Credit Card,Individual,151,No,10,322312.3
+BIZ0660,Business_660,Rawalpindi,Punjab,Retail,Hassan,2025,7,Furniture,263,297,78111,15,66394.34999999999,EasyPaisa,Individual,30,Yes,2,15887.07
+BIZ0661,Business_661,Islamabad,Punjab,E-commerce,Sana,2024,4,Clothing,345,3587,1237515,5,1175639.25,JazzCash,Corporate,57,No,6,215900.1
+BIZ0662,Business_662,Peshawar,Islamabad Capital Territory,Wholesale,Hassan,2024,7,Books,141,3771,531711,20,425368.80000000005,EasyPaisa,Corporate,39,Yes,2,91092.98
+BIZ0663,Business_663,Multan,Islamabad Capital Territory,Manufacturing,Sana,2020,11,Groceries,129,2375,306375,5,291056.25,Cash,Corporate,106,Yes,8,84366.78
+BIZ0664,Business_664,Karachi,Islamabad Capital Territory,Manufacturing,Ayesha,2021,10,Cosmetics,196,355,69580,5,66101.0,Cash,Government,50,Yes,5,16801.69
+BIZ0665,Business_665,Quetta,Balochistan,Service,Hassan,2021,11,Sports,158,2659,420122,10,378109.8,Cash,Corporate,187,No,5,77347.42
+BIZ0666,Business_666,Multan,KPK,Wholesale,Sana,2024,9,Furniture,55,2290,125950,15,107057.5,Bank Transfer,Individual,97,No,5,25042.11
+BIZ0667,Business_667,Peshawar,Punjab,Manufacturing,Ali,2025,2,Furniture,51,3178,162078,20,129662.40000000001,JazzCash,Government,166,No,8,16813.18
+BIZ0668,Business_668,Karachi,Sindh,Wholesale,Sana,2025,9,Books,338,3929,1328002,20,1062401.6,Credit Card,Government,104,Yes,8,234524.91
+BIZ0669,Business_669,Faisalabad,Punjab,Wholesale,Fatima,2024,11,Groceries,366,3663,1340658,10,1206592.2,Cash,Corporate,14,No,6,283302.68
+BIZ0670,Business_670,Faisalabad,Sindh,Manufacturing,Fatima,2025,11,Cosmetics,259,1247,322973,20,258378.40000000002,JazzCash,Government,180,Yes,3,28618.91
+BIZ0671,Business_671,Faisalabad,Punjab,Retail,Hassan,2021,11,Sports,412,4132,1702384,5,1617264.7999999998,Cash,Corporate,142,No,7,270918.96
+BIZ0672,Business_672,Rawalpindi,Sindh,Manufacturing,Ayesha,2025,8,Electronics,214,3007,643498,10,579148.2000000001,Credit Card,Individual,33,No,9,64941.76
+BIZ0673,Business_673,Karachi,Sindh,Retail,Ali,2020,10,Furniture,113,3008,339904,10,305913.60000000003,Bank Transfer,Government,198,Yes,7,81687.44
+BIZ0674,Business_674,Karachi,Sindh,Service,Ayesha,2022,2,Groceries,285,1409,401565,20,321252.0,Cash,Individual,163,No,8,83202.41
+BIZ0675,Business_675,Lahore,Islamabad Capital Territory,Retail,Fatima,2022,11,Books,309,2421,748089,20,598471.2000000001,Cash,Individual,153,Yes,4,104836.43
+BIZ0676,Business_676,Rawalpindi,Balochistan,Manufacturing,Ayesha,2020,5,Cosmetics,255,1877,478635,5,454703.25,Credit Card,Corporate,119,Yes,5,91065.29
+BIZ0677,Business_677,Peshawar,Islamabad Capital Territory,E-commerce,Bilal,2020,12,Electronics,224,1483,332192,15,282363.2,Credit Card,Corporate,58,No,3,83448.07
+BIZ0678,Business_678,Quetta,KPK,Retail,Ali,2022,5,Books,454,1433,650582,10,585523.8,Bank Transfer,Government,186,No,4,92905.33
+BIZ0679,Business_679,Lahore,Punjab,Retail,Ali,2023,4,Books,494,2865,1415310,20,1132248.0,Cash,Individual,126,No,5,148281.38
+BIZ0680,Business_680,Karachi,Sindh,Service,Bilal,2024,4,Books,199,4663,927937,5,881540.1499999999,Cash,Government,30,No,7,255729.72
+BIZ0681,Business_681,Islamabad,KPK,Retail,Ahmed,2020,7,Cosmetics,485,1847,895795,0,895795.0,Credit Card,Corporate,7,Yes,6,161133.42
+BIZ0682,Business_682,Quetta,Punjab,E-commerce,Bilal,2022,2,Clothing,463,4333,2006179,20,1604943.2000000002,JazzCash,Government,177,No,8,260693.54
+BIZ0683,Business_683,Peshawar,KPK,Service,Ali,2020,5,Sports,286,2442,698412,10,628570.8,Credit Card,Individual,178,Yes,9,163376.57
+BIZ0684,Business_684,Peshawar,KPK,Retail,Sana,2021,9,Books,162,1135,183870,20,147096.0,Credit Card,Corporate,183,Yes,4,31208.29
+BIZ0685,Business_685,Quetta,Sindh,Manufacturing,Ahmed,2020,2,Groceries,417,2060,859020,0,859020.0,Credit Card,Government,43,No,6,224290.69
+BIZ0686,Business_686,Quetta,KPK,Retail,Zeeshan,2025,2,Books,91,226,20566,15,17481.1,Bank Transfer,Individual,156,No,3,2426.19
+BIZ0687,Business_687,Faisalabad,Islamabad Capital Territory,Service,Ali,2024,7,Clothing,339,835,283065,0,283065.0,Credit Card,Corporate,134,Yes,5,69462.12
+BIZ0688,Business_688,Peshawar,Punjab,Retail,Fatima,2024,1,Sports,156,1756,273936,5,260239.19999999998,JazzCash,Government,113,No,6,54979.27
+BIZ0689,Business_689,Faisalabad,Punjab,E-commerce,Ali,2025,8,Groceries,499,4673,2331827,10,2098644.3000000003,Cash,Corporate,32,Yes,7,587942.92
+BIZ0690,Business_690,Quetta,KPK,E-commerce,Fatima,2022,8,Electronics,197,2943,579771,10,521793.9,EasyPaisa,Corporate,92,Yes,2,143936.22
+BIZ0691,Business_691,Karachi,KPK,Manufacturing,Zeeshan,2025,7,Groceries,52,936,48672,0,48672.0,Bank Transfer,Corporate,103,No,4,6696.87
+BIZ0692,Business_692,Islamabad,Islamabad Capital Territory,Service,Zeeshan,2024,8,Electronics,399,3078,1228122,5,1166715.9,JazzCash,Government,63,Yes,5,167525.6
+BIZ0693,Business_693,Rawalpindi,Balochistan,Manufacturing,Bilal,2020,7,Clothing,270,1083,292410,5,277789.5,Credit Card,Individual,34,Yes,7,38656.29
+BIZ0694,Business_694,Karachi,KPK,Service,Bilal,2023,4,Sports,269,3929,1056901,0,1056901.0,EasyPaisa,Corporate,166,Yes,7,118925.7
+BIZ0695,Business_695,Islamabad,KPK,E-commerce,Sana,2025,5,Sports,54,1459,78786,15,66968.09999999999,Credit Card,Government,199,No,7,18359.89
+BIZ0696,Business_696,Peshawar,Balochistan,Service,Ali,2020,1,Sports,414,1218,504252,20,403401.60000000003,JazzCash,Government,77,No,9,80498.84
+BIZ0697,Business_697,Islamabad,Punjab,Service,Ayesha,2023,12,Groceries,205,169,34645,5,32912.75,Cash,Corporate,13,No,10,9201.53
+BIZ0698,Business_698,Faisalabad,Islamabad Capital Territory,Service,Bilal,2020,4,Furniture,240,450,108000,0,108000.0,Bank Transfer,Corporate,110,Yes,9,28390.68
+BIZ0699,Business_699,Multan,Islamabad Capital Territory,Wholesale,Ahmed,2023,12,Groceries,142,515,73130,15,62160.5,Cash,Government,57,No,4,18502.63
+BIZ0700,Business_700,Quetta,Punjab,Manufacturing,Sana,2020,8,Electronics,123,337,41451,0,41451.0,JazzCash,Individual,199,No,3,4222.97
+BIZ0701,Business_701,Peshawar,Punjab,E-commerce,Sana,2023,4,Electronics,238,4583,1090754,10,981678.6,Bank Transfer,Government,61,No,5,151794.02
+BIZ0702,Business_702,Lahore,KPK,E-commerce,Sana,2020,1,Books,426,3743,1594518,0,1594518.0,Bank Transfer,Corporate,91,No,4,258932.91
+BIZ0703,Business_703,Quetta,Balochistan,Manufacturing,Ayesha,2021,7,Electronics,339,1047,354933,10,319439.7,Bank Transfer,Government,196,Yes,5,72019.15
+BIZ0704,Business_704,Quetta,Balochistan,Manufacturing,Hassan,2023,2,Groceries,11,3332,36652,5,34819.4,Bank Transfer,Corporate,145,No,6,6997.17
+BIZ0705,Business_705,Multan,Punjab,Manufacturing,Fatima,2021,7,Books,309,705,217845,20,174276.0,EasyPaisa,Corporate,108,Yes,1,45426.23
+BIZ0706,Business_706,Quetta,Balochistan,Retail,Ali,2023,6,Cosmetics,437,4117,1799129,20,1439303.2000000002,EasyPaisa,Government,47,No,3,192469.34
+BIZ0707,Business_707,Quetta,Punjab,Manufacturing,Ali,2022,2,Electronics,376,847,318472,0,318472.0,EasyPaisa,Individual,27,Yes,1,48603.39
+BIZ0708,Business_708,Quetta,Punjab,Manufacturing,Bilal,2022,9,Cosmetics,438,610,267180,15,227103.0,Credit Card,Corporate,191,No,3,25326.44
+BIZ0709,Business_709,Lahore,Balochistan,Service,Ayesha,2020,12,Books,467,521,243307,15,206810.94999999998,EasyPaisa,Individual,4,No,6,23255.87
+BIZ0710,Business_710,Islamabad,Sindh,E-commerce,Ahmed,2022,5,Electronics,108,2552,275616,10,248054.4,JazzCash,Individual,28,No,10,33649.24
+BIZ0711,Business_711,Peshawar,Punjab,Wholesale,Zeeshan,2024,4,Cosmetics,249,3854,959646,15,815699.1,Credit Card,Corporate,75,No,7,190320.48
+BIZ0712,Business_712,Islamabad,Islamabad Capital Territory,Wholesale,Fatima,2024,3,Sports,288,3313,954144,10,858729.6,EasyPaisa,Individual,117,Yes,2,189957.15
+BIZ0713,Business_713,Quetta,Punjab,E-commerce,Hassan,2023,8,Books,127,3789,481203,5,457142.85,Credit Card,Individual,111,No,5,83282.45
+BIZ0714,Business_714,Islamabad,Balochistan,Wholesale,Sana,2024,4,Electronics,176,2160,380160,10,342144.0,Cash,Government,133,Yes,9,34856.21
+BIZ0715,Business_715,Peshawar,Balochistan,Manufacturing,Ali,2023,5,Sports,462,1801,832062,20,665649.6000000001,EasyPaisa,Government,195,Yes,9,196847.33
+BIZ0716,Business_716,Multan,Balochistan,Wholesale,Ayesha,2025,5,Clothing,140,2490,348600,0,348600.0,Bank Transfer,Government,107,Yes,4,65506.06
+BIZ0717,Business_717,Multan,KPK,E-commerce,Fatima,2024,9,Books,266,3452,918232,0,918232.0,EasyPaisa,Government,136,No,5,126451.35
+BIZ0718,Business_718,Islamabad,KPK,Wholesale,Fatima,2025,10,Cosmetics,142,2790,396180,15,336753.0,EasyPaisa,Corporate,13,No,3,59177.03
+BIZ0719,Business_719,Islamabad,Sindh,Wholesale,Ahmed,2021,4,Clothing,143,487,69641,0,69641.0,EasyPaisa,Corporate,181,No,5,13002.65
+BIZ0720,Business_720,Multan,Islamabad Capital Territory,Service,Ayesha,2022,7,Electronics,319,2322,740718,15,629610.2999999999,JazzCash,Individual,102,No,6,98789.29
+BIZ0721,Business_721,Quetta,Punjab,Manufacturing,Fatima,2025,2,Sports,33,1590,52470,20,41976.0,Cash,Corporate,16,Yes,10,11116.67
+BIZ0722,Business_722,Peshawar,Sindh,Manufacturing,Ali,2020,8,Clothing,257,411,105627,10,95064.3,Credit Card,Government,101,No,2,27848.24
+BIZ0723,Business_723,Karachi,Islamabad Capital Territory,Retail,Fatima,2021,4,Groceries,338,1704,575952,5,547154.4,JazzCash,Individual,189,Yes,8,83724.32
+BIZ0724,Business_724,Multan,Punjab,Wholesale,Bilal,2020,6,Furniture,344,1100,378400,0,378400.0,JazzCash,Corporate,102,Yes,10,113173.68
+BIZ0725,Business_725,Lahore,Islamabad Capital Territory,Retail,Fatima,2022,11,Electronics,119,617,73423,0,73423.0,JazzCash,Government,2,No,5,12858.48
+BIZ0726,Business_726,Peshawar,Sindh,Wholesale,Zeeshan,2020,8,Clothing,479,520,249080,10,224172.0,JazzCash,Government,103,Yes,2,54033.89
+BIZ0727,Business_727,Islamabad,Sindh,E-commerce,Ali,2020,5,Furniture,308,1426,439208,10,395287.2,EasyPaisa,Government,105,Yes,3,61753.47
+BIZ0728,Business_728,Multan,Islamabad Capital Territory,Manufacturing,Hassan,2022,2,Furniture,477,3973,1895121,10,1705608.9000000001,Credit Card,Government,147,Yes,6,244725.14
+BIZ0729,Business_729,Multan,Balochistan,Retail,Ayesha,2023,9,Furniture,186,4719,877734,5,833847.2999999999,Credit Card,Government,71,Yes,3,140621.38
+BIZ0730,Business_730,Rawalpindi,Sindh,Retail,Bilal,2025,1,Clothing,321,4763,1528923,20,1223138.4000000001,Bank Transfer,Corporate,147,Yes,6,189456.2
+BIZ0731,Business_731,Quetta,Balochistan,Service,Sana,2023,12,Sports,353,843,297579,10,267821.10000000003,EasyPaisa,Government,34,Yes,10,76842.53
+BIZ0732,Business_732,Faisalabad,KPK,E-commerce,Ayesha,2022,1,Sports,453,2959,1340427,5,1273405.65,Cash,Individual,13,Yes,3,166921.86
+BIZ0733,Business_733,Multan,Islamabad Capital Territory,Retail,Hassan,2025,3,Groceries,334,695,232130,20,185704.0,EasyPaisa,Individual,189,No,2,34322.63
+BIZ0734,Business_734,Islamabad,Sindh,Retail,Ayesha,2025,9,Cosmetics,105,1848,194040,15,164934.0,JazzCash,Corporate,134,Yes,9,21660.33
+BIZ0735,Business_735,Lahore,Punjab,Retail,Sana,2021,10,Books,147,1900,279300,20,223440.0,Cash,Corporate,185,Yes,4,24565.5
+BIZ0736,Business_736,Faisalabad,Islamabad Capital Territory,E-commerce,Zeeshan,2023,1,Cosmetics,420,2313,971460,5,922887.0,Cash,Government,62,Yes,8,244115.4
+BIZ0737,Business_737,Islamabad,Punjab,Manufacturing,Zeeshan,2023,8,Groceries,424,4063,1722712,20,1378169.6,Credit Card,Corporate,12,Yes,2,155498.52
+BIZ0738,Business_738,Islamabad,KPK,Manufacturing,Fatima,2023,1,Cosmetics,84,3440,288960,5,274512.0,Credit Card,Government,191,Yes,5,43527.51
+BIZ0739,Business_739,Islamabad,KPK,Service,Ali,2021,7,Books,485,865,419525,15,356596.25,JazzCash,Individual,165,Yes,8,51423.77
+BIZ0740,Business_740,Rawalpindi,Balochistan,Wholesale,Zeeshan,2025,4,Sports,115,2712,311880,10,280692.0,Bank Transfer,Government,182,Yes,1,36232.86
+BIZ0741,Business_741,Multan,Sindh,E-commerce,Ayesha,2025,9,Cosmetics,458,4069,1863602,0,1863602.0,JazzCash,Individual,32,Yes,8,372352.55
+BIZ0742,Business_742,Peshawar,Islamabad Capital Territory,Service,Ali,2022,5,Clothing,153,4140,633420,0,633420.0,Cash,Individual,46,Yes,10,187638.77
+BIZ0743,Business_743,Islamabad,Balochistan,Wholesale,Ayesha,2025,3,Furniture,56,543,30408,15,25846.8,Credit Card,Government,193,Yes,9,5037.77
+BIZ0744,Business_744,Multan,Balochistan,E-commerce,Ahmed,2023,10,Books,458,1926,882108,10,793897.2000000001,EasyPaisa,Government,45,No,1,182150.84
+BIZ0745,Business_745,Peshawar,Islamabad Capital Territory,Manufacturing,Hassan,2022,8,Books,416,2797,1163552,5,1105374.4,EasyPaisa,Corporate,103,No,10,316744.42
+BIZ0746,Business_746,Lahore,Balochistan,E-commerce,Bilal,2025,3,Furniture,15,3259,48885,20,39108.0,Cash,Corporate,81,Yes,1,5244.06
+BIZ0747,Business_747,Lahore,KPK,Retail,Zeeshan,2020,7,Clothing,489,2212,1081668,20,865334.4,JazzCash,Corporate,116,Yes,6,178590.21
+BIZ0748,Business_748,Faisalabad,KPK,Wholesale,Ali,2020,5,Electronics,47,4386,206142,15,175220.69999999998,JazzCash,Government,180,Yes,5,22548.45
+BIZ0749,Business_749,Karachi,Sindh,E-commerce,Sana,2020,10,Cosmetics,154,4329,666666,0,666666.0,Credit Card,Individual,35,Yes,8,181516.64
+BIZ0750,Business_750,Multan,KPK,Retail,Ahmed,2020,7,Furniture,488,1871,913048,0,913048.0,Credit Card,Government,15,Yes,6,256828.46
+BIZ0751,Business_751,Quetta,Balochistan,Retail,Bilal,2020,5,Electronics,354,4047,1432638,0,1432638.0,JazzCash,Corporate,168,No,6,191113.77
+BIZ0752,Business_752,Lahore,Sindh,Wholesale,Sana,2022,9,Groceries,392,1039,407288,5,386923.6,Cash,Corporate,145,Yes,2,67880.15
+BIZ0753,Business_753,Faisalabad,Punjab,E-commerce,Ahmed,2025,6,Electronics,435,3393,1475955,15,1254561.75,Cash,Individual,69,No,6,207987.08
+BIZ0754,Business_754,Faisalabad,Balochistan,Wholesale,Fatima,2023,12,Books,483,3671,1773093,0,1773093.0,Credit Card,Government,197,Yes,6,213913.95
+BIZ0755,Business_755,Islamabad,Sindh,Manufacturing,Fatima,2024,8,Groceries,216,1038,224208,0,224208.0,Bank Transfer,Individual,61,No,4,24342.67
+BIZ0756,Business_756,Peshawar,Islamabad Capital Territory,Wholesale,Ali,2021,2,Books,67,3718,249106,20,199284.80000000002,Cash,Government,180,Yes,9,52169.06
+BIZ0757,Business_757,Islamabad,Islamabad Capital Territory,Retail,Ayesha,2025,12,Sports,227,2813,638551,20,510840.80000000005,Bank Transfer,Corporate,9,No,4,101077.65
+BIZ0758,Business_758,Peshawar,Balochistan,E-commerce,Ahmed,2020,4,Cosmetics,68,1130,76840,5,72998.0,Bank Transfer,Government,80,No,1,15681.92
+BIZ0759,Business_759,Faisalabad,KPK,Manufacturing,Fatima,2025,10,Sports,437,2604,1137948,10,1024153.2000000001,JazzCash,Government,156,No,7,136627.0
+BIZ0760,Business_760,Quetta,Balochistan,Wholesale,Fatima,2024,12,Books,33,4950,163350,10,147015.0,JazzCash,Individual,3,Yes,7,35052.12
+BIZ0761,Business_761,Karachi,KPK,Service,Sana,2020,3,Cosmetics,49,1522,74578,0,74578.0,Credit Card,Individual,160,No,10,11378.85
+BIZ0762,Business_762,Faisalabad,Sindh,Manufacturing,Ali,2025,2,Cosmetics,369,998,368262,10,331435.8,Bank Transfer,Individual,124,No,4,91137.81
+BIZ0763,Business_763,Rawalpindi,Balochistan,Manufacturing,Hassan,2020,4,Electronics,182,4776,869232,10,782308.8,Bank Transfer,Individual,87,No,9,218122.39
+BIZ0764,Business_764,Quetta,Punjab,Service,Hassan,2024,3,Cosmetics,179,1548,277092,0,277092.0,Bank Transfer,Government,17,Yes,10,75143.74
+BIZ0765,Business_765,Karachi,Punjab,Manufacturing,Sana,2022,8,Cosmetics,29,359,10411,10,9369.9,JazzCash,Individual,113,Yes,4,989.4
+BIZ0766,Business_766,Peshawar,Punjab,Wholesale,Fatima,2022,10,Clothing,36,189,6804,5,6463.799999999999,Bank Transfer,Corporate,191,Yes,9,1857.01
+BIZ0767,Business_767,Multan,KPK,Manufacturing,Ahmed,2025,1,Groceries,72,3938,283536,5,269359.2,Bank Transfer,Government,140,Yes,10,54587.59
+BIZ0768,Business_768,Quetta,Balochistan,E-commerce,Zeeshan,2022,1,Electronics,277,408,113016,5,107365.2,Cash,Government,91,Yes,6,15575.2
+BIZ0769,Business_769,Peshawar,Islamabad Capital Territory,Manufacturing,Ahmed,2024,4,Electronics,33,3683,121539,10,109385.1,Bank Transfer,Corporate,111,No,10,24435.63
+BIZ0770,Business_770,Faisalabad,Punjab,Retail,Ali,2024,6,Books,317,2669,846073,0,846073.0,Cash,Individual,94,No,4,153604.83
+BIZ0771,Business_771,Rawalpindi,Punjab,Retail,Fatima,2023,10,Cosmetics,318,2901,922518,10,830266.2000000001,Bank Transfer,Corporate,104,No,8,175904.55
+BIZ0772,Business_772,Islamabad,Sindh,Manufacturing,Fatima,2020,4,Furniture,278,3006,835668,15,710317.7999999999,EasyPaisa,Individual,115,No,5,145954.46
+BIZ0773,Business_773,Quetta,Balochistan,Wholesale,Ahmed,2023,8,Books,333,3114,1036962,20,829569.6000000001,EasyPaisa,Individual,91,Yes,7,186684.84
+BIZ0774,Business_774,Quetta,Punjab,Manufacturing,Fatima,2023,2,Electronics,354,1811,641094,15,544929.9,JazzCash,Government,80,No,7,150410.15
+BIZ0775,Business_775,Karachi,KPK,Service,Ayesha,2020,9,Electronics,234,671,157014,15,133461.9,Cash,Individual,93,Yes,5,28642.39
+BIZ0776,Business_776,Faisalabad,Islamabad Capital Territory,E-commerce,Bilal,2020,9,Furniture,169,4441,750529,10,675476.1,EasyPaisa,Corporate,83,Yes,2,145618.01
+BIZ0777,Business_777,Peshawar,Islamabad Capital Territory,Wholesale,Sana,2023,8,Cosmetics,257,312,80184,5,76174.8,Credit Card,Government,7,Yes,8,11302.8
+BIZ0778,Business_778,Rawalpindi,Balochistan,Wholesale,Ahmed,2020,5,Clothing,35,4205,147175,10,132457.5,EasyPaisa,Corporate,15,No,8,32667.76
+BIZ0779,Business_779,Rawalpindi,Punjab,Retail,Ahmed,2024,8,Clothing,310,2619,811890,15,690106.5,EasyPaisa,Individual,88,No,1,117543.88
+BIZ0780,Business_780,Islamabad,Islamabad Capital Territory,Manufacturing,Ayesha,2024,12,Clothing,417,4916,2049972,15,1742476.2,Cash,Individual,173,No,10,459935.56
+BIZ0781,Business_781,Peshawar,Sindh,E-commerce,Ayesha,2022,9,Sports,398,1569,624462,15,530792.7,JazzCash,Individual,136,Yes,9,101912.82
+BIZ0782,Business_782,Islamabad,Sindh,Manufacturing,Ayesha,2025,5,Cosmetics,51,4153,211803,0,211803.0,Bank Transfer,Individual,85,Yes,9,42579.16
+BIZ0783,Business_783,Faisalabad,KPK,E-commerce,Hassan,2021,2,Groceries,423,1814,767322,0,767322.0,EasyPaisa,Corporate,61,Yes,4,190235.51
+BIZ0784,Business_784,Multan,Sindh,Wholesale,Hassan,2025,10,Cosmetics,276,3369,929844,5,883351.7999999999,EasyPaisa,Corporate,113,Yes,10,197916.32
+BIZ0785,Business_785,Multan,Islamabad Capital Territory,E-commerce,Ahmed,2024,12,Books,323,2574,831402,5,789831.8999999999,Bank Transfer,Government,148,No,9,106686.08
+BIZ0786,Business_786,Rawalpindi,Sindh,Manufacturing,Ali,2020,8,Cosmetics,83,4577,379891,5,360896.45,Credit Card,Individual,46,No,2,47499.13
+BIZ0787,Business_787,Lahore,KPK,Wholesale,Ayesha,2022,2,Electronics,491,1219,598529,5,568602.5499999999,JazzCash,Government,169,No,5,135262.04
+BIZ0788,Business_788,Karachi,Punjab,Wholesale,Zeeshan,2021,8,Groceries,330,623,205590,10,185031.0,EasyPaisa,Individual,154,No,5,42056.24
+BIZ0789,Business_789,Rawalpindi,Balochistan,Manufacturing,Zeeshan,2020,8,Groceries,395,1917,757215,10,681493.5,Bank Transfer,Individual,195,Yes,9,155812.68
+BIZ0790,Business_790,Karachi,KPK,Service,Fatima,2025,12,Furniture,116,4880,566080,20,452864.0,EasyPaisa,Individual,144,Yes,10,74230.11
+BIZ0791,Business_791,Rawalpindi,Punjab,Service,Sana,2021,4,Groceries,63,711,44793,15,38074.049999999996,Cash,Individual,194,Yes,9,7668.77
+BIZ0792,Business_792,Multan,Sindh,Service,Zeeshan,2021,9,Electronics,34,2303,78302,0,78302.0,JazzCash,Individual,144,Yes,5,19538.77
+BIZ0793,Business_793,Faisalabad,KPK,Service,Fatima,2021,9,Electronics,384,4865,1868160,15,1587936.0,Cash,Government,190,No,1,395074.82
+BIZ0794,Business_794,Quetta,Punjab,Manufacturing,Ayesha,2021,2,Cosmetics,68,691,46988,5,44638.6,JazzCash,Individual,17,No,10,6046.78
+BIZ0795,Business_795,Quetta,Balochistan,Service,Sana,2021,5,Clothing,442,3780,1670760,0,1670760.0,EasyPaisa,Corporate,20,No,3,169106.72
+BIZ0796,Business_796,Quetta,KPK,Manufacturing,Fatima,2020,5,Furniture,216,4908,1060128,10,954115.2000000001,EasyPaisa,Government,26,Yes,4,159461.94
+BIZ0797,Business_797,Multan,Punjab,Manufacturing,Fatima,2023,5,Furniture,276,3690,1018440,5,967518.0,EasyPaisa,Government,77,No,3,277143.99
+BIZ0798,Business_798,Islamabad,KPK,Manufacturing,Sana,2025,5,Sports,111,3419,379509,5,360533.55,Credit Card,Corporate,162,No,3,80959.96
+BIZ0799,Business_799,Rawalpindi,Punjab,Service,Hassan,2020,12,Groceries,115,986,113390,15,96381.5,EasyPaisa,Individual,42,Yes,3,9728.96
+BIZ0800,Business_800,Rawalpindi,KPK,Wholesale,Ahmed,2021,2,Cosmetics,476,3717,1769292,20,1415433.6,Cash,Government,173,Yes,3,365884.07
+BIZ0801,Business_801,Karachi,Punjab,Wholesale,Ayesha,2020,8,Cosmetics,259,4721,1222739,5,1161602.05,Cash,Government,18,Yes,9,334064.88
+BIZ0802,Business_802,Lahore,Islamabad Capital Territory,Service,Ahmed,2024,6,Clothing,332,4011,1331652,10,1198486.8,JazzCash,Corporate,7,Yes,2,145560.14
+BIZ0803,Business_803,Faisalabad,Balochistan,Wholesale,Ali,2024,3,Groceries,98,2161,211778,20,169422.40000000002,Credit Card,Corporate,163,No,6,16944.46
+BIZ0804,Business_804,Quetta,Punjab,Service,Ahmed,2021,1,Electronics,209,1453,303677,0,303677.0,Bank Transfer,Government,145,Yes,10,62762.12
+BIZ0805,Business_805,Peshawar,Balochistan,Manufacturing,Ahmed,2023,7,Furniture,425,1025,435625,15,370281.25,Credit Card,Corporate,173,No,6,94050.53
+BIZ0806,Business_806,Karachi,Punjab,Retail,Ahmed,2024,5,Electronics,344,4898,1684912,0,1684912.0,Cash,Individual,172,No,3,296833.15
+BIZ0807,Business_807,Karachi,Sindh,Wholesale,Hassan,2021,2,Cosmetics,189,240,45360,15,38556.0,EasyPaisa,Corporate,161,Yes,5,6843.29
+BIZ0808,Business_808,Islamabad,Balochistan,Wholesale,Ayesha,2024,4,Groceries,363,1804,654852,5,622109.4,EasyPaisa,Individual,50,Yes,4,157040.71
+BIZ0809,Business_809,Islamabad,Balochistan,Retail,Ahmed,2024,9,Cosmetics,137,3557,487309,20,389847.2,Credit Card,Government,103,Yes,9,114312.02
+BIZ0810,Business_810,Faisalabad,Sindh,Service,Sana,2025,6,Electronics,469,2624,1230656,20,984524.8,Bank Transfer,Individual,76,No,3,168267.81
+BIZ0811,Business_811,Faisalabad,Islamabad Capital Territory,Wholesale,Ahmed,2020,1,Cosmetics,79,2117,167243,0,167243.0,Bank Transfer,Individual,174,Yes,9,47722.39
+BIZ0812,Business_812,Karachi,KPK,Wholesale,Zeeshan,2021,2,Clothing,454,1709,775886,5,737091.7,Credit Card,Government,173,Yes,2,220958.54
+BIZ0813,Business_813,Quetta,KPK,Wholesale,Hassan,2021,4,Cosmetics,452,1779,804108,5,763902.6,JazzCash,Government,51,No,4,122677.48
+BIZ0814,Business_814,Peshawar,Punjab,Retail,Ali,2024,12,Furniture,151,2395,361645,15,307398.25,Credit Card,Corporate,138,No,1,55054.66
+BIZ0815,Business_815,Quetta,Balochistan,E-commerce,Fatima,2023,1,Cosmetics,22,2822,62084,5,58979.799999999996,Bank Transfer,Individual,89,Yes,4,13096.12
+BIZ0816,Business_816,Quetta,KPK,Service,Bilal,2025,6,Clothing,129,4544,586176,15,498249.6,Cash,Individual,92,Yes,6,95389.53
+BIZ0817,Business_817,Lahore,Balochistan,Retail,Hassan,2020,3,Sports,203,3028,614684,5,583949.7999999999,JazzCash,Corporate,113,Yes,4,141997.59
+BIZ0818,Business_818,Islamabad,Punjab,Manufacturing,Zeeshan,2021,8,Electronics,492,1243,611556,0,611556.0,JazzCash,Government,112,No,2,116482.51
+BIZ0819,Business_819,Multan,Punjab,E-commerce,Sana,2024,9,Clothing,356,1425,507300,20,405840.0,Cash,Individual,192,Yes,8,58005.39
+BIZ0820,Business_820,Karachi,KPK,Retail,Fatima,2025,12,Electronics,496,2524,1251904,10,1126713.6,Bank Transfer,Corporate,39,No,7,289395.23
+BIZ0821,Business_821,Rawalpindi,Islamabad Capital Territory,Wholesale,Ali,2021,9,Electronics,252,4323,1089396,15,925986.6,Cash,Individual,172,Yes,8,123171.4
+BIZ0822,Business_822,Multan,Sindh,Retail,Hassan,2024,7,Cosmetics,470,4877,2292190,15,1948361.5,Bank Transfer,Government,70,Yes,8,363215.8
+BIZ0823,Business_823,Faisalabad,Islamabad Capital Territory,Retail,Ahmed,2021,6,Cosmetics,14,3687,51618,5,49037.1,EasyPaisa,Corporate,62,Yes,5,11828.16
+BIZ0824,Business_824,Peshawar,KPK,Wholesale,Hassan,2021,5,Electronics,143,334,47762,20,38209.6,EasyPaisa,Corporate,62,No,1,7790.71
+BIZ0825,Business_825,Multan,Islamabad Capital Territory,Manufacturing,Ali,2024,12,Books,63,1883,118629,0,118629.0,JazzCash,Individual,74,Yes,9,31271.39
+BIZ0826,Business_826,Karachi,Punjab,Service,Sana,2021,12,Furniture,47,826,38822,5,36880.9,EasyPaisa,Individual,192,Yes,2,9813.83
+BIZ0827,Business_827,Rawalpindi,KPK,E-commerce,Ahmed,2025,4,Sports,46,4693,215878,20,172702.40000000002,JazzCash,Individual,150,No,6,47902.56
+BIZ0828,Business_828,Quetta,Sindh,Wholesale,Fatima,2023,11,Books,384,4109,1577856,0,1577856.0,EasyPaisa,Individual,58,Yes,5,172626.51
+BIZ0829,Business_829,Quetta,Islamabad Capital Territory,Wholesale,Sana,2020,8,Groceries,197,2548,501956,5,476858.19999999995,EasyPaisa,Government,69,No,2,113543.36
+BIZ0830,Business_830,Peshawar,Balochistan,Service,Zeeshan,2024,2,Electronics,476,1655,787780,5,748391.0,Cash,Government,95,No,4,94366.46
+BIZ0831,Business_831,Rawalpindi,Balochistan,Retail,Sana,2021,7,Cosmetics,229,4356,997524,15,847895.4,Bank Transfer,Government,23,No,5,199880.62
+BIZ0832,Business_832,Quetta,Punjab,Manufacturing,Zeeshan,2023,9,Groceries,322,4356,1402632,0,1402632.0,JazzCash,Individual,108,No,8,343124.61
+BIZ0833,Business_833,Quetta,Islamabad Capital Territory,Wholesale,Sana,2021,6,Cosmetics,493,1030,507790,20,406232.0,EasyPaisa,Government,108,No,7,48831.59
+BIZ0834,Business_834,Lahore,KPK,Retail,Zeeshan,2023,2,Sports,68,1737,118116,15,100398.59999999999,EasyPaisa,Corporate,14,Yes,3,26617.0
+BIZ0835,Business_835,Peshawar,Balochistan,Manufacturing,Hassan,2020,6,Groceries,257,2256,579792,15,492823.2,Credit Card,Individual,32,No,6,142764.55
+BIZ0836,Business_836,Multan,Punjab,Wholesale,Ali,2025,6,Electronics,118,979,115522,5,109745.9,JazzCash,Corporate,152,No,3,28625.59
+BIZ0837,Business_837,Karachi,Balochistan,Manufacturing,Ali,2025,8,Groceries,485,3288,1594680,20,1275744.0,EasyPaisa,Government,43,Yes,4,227916.02
+BIZ0838,Business_838,Islamabad,Punjab,Service,Ahmed,2020,2,Furniture,152,4282,650864,10,585777.6,Credit Card,Government,92,No,2,77776.33
+BIZ0839,Business_839,Lahore,KPK,Manufacturing,Bilal,2022,10,Clothing,153,3006,459918,10,413926.2,Cash,Government,113,No,10,77096.78
+BIZ0840,Business_840,Karachi,Balochistan,Service,Ayesha,2021,12,Furniture,353,2272,802016,15,681713.6,EasyPaisa,Individual,106,Yes,1,139830.13
+BIZ0841,Business_841,Rawalpindi,KPK,Service,Ahmed,2025,10,Clothing,131,637,83447,20,66757.6,Credit Card,Government,190,Yes,3,19826.2
+BIZ0842,Business_842,Lahore,Sindh,Retail,Hassan,2023,6,Electronics,456,761,347016,20,277612.8,Credit Card,Government,46,No,8,57733.06
+BIZ0843,Business_843,Multan,Sindh,Retail,Ali,2025,10,Cosmetics,408,3660,1493280,15,1269288.0,Credit Card,Government,23,Yes,8,331386.4
+BIZ0844,Business_844,Rawalpindi,Sindh,Manufacturing,Sana,2021,10,Cosmetics,155,620,96100,5,91295.0,Cash,Corporate,170,No,7,12634.85
+BIZ0845,Business_845,Rawalpindi,Sindh,Retail,Zeeshan,2023,7,Sports,411,4346,1786206,5,1696895.7,JazzCash,Government,145,Yes,1,185388.5
+BIZ0846,Business_846,Peshawar,Islamabad Capital Territory,Service,Ayesha,2020,4,Clothing,350,4369,1529150,15,1299777.5,Credit Card,Corporate,103,Yes,4,224583.46
+BIZ0847,Business_847,Multan,Balochistan,Wholesale,Fatima,2023,2,Furniture,413,2013,831369,5,789800.5499999999,Bank Transfer,Corporate,88,No,3,158860.03
+BIZ0848,Business_848,Peshawar,Sindh,E-commerce,Ayesha,2022,11,Furniture,223,1931,430613,10,387551.7,Bank Transfer,Individual,91,Yes,10,83051.46
+BIZ0849,Business_849,Multan,Balochistan,Manufacturing,Fatima,2022,9,Cosmetics,348,3640,1266720,20,1013376.0,JazzCash,Government,3,Yes,9,106905.81
+BIZ0850,Business_850,Peshawar,Punjab,Service,Fatima,2020,12,Groceries,195,4221,823095,15,699630.75,Cash,Government,192,No,3,174282.63
+BIZ0851,Business_851,Lahore,Sindh,Service,Ali,2020,6,Electronics,480,4482,2151360,20,1721088.0,Credit Card,Government,40,No,3,293022.21
+BIZ0852,Business_852,Faisalabad,KPK,Wholesale,Ali,2022,10,Furniture,487,363,176781,0,176781.0,EasyPaisa,Government,77,Yes,10,21850.54
+BIZ0853,Business_853,Islamabad,Punjab,Manufacturing,Sana,2024,6,Groceries,390,145,56550,20,45240.0,JazzCash,Corporate,139,Yes,7,6536.7
+BIZ0854,Business_854,Lahore,Balochistan,E-commerce,Hassan,2021,4,Furniture,389,2347,912983,15,776035.5499999999,EasyPaisa,Government,180,Yes,3,219737.98
+BIZ0855,Business_855,Faisalabad,KPK,E-commerce,Fatima,2025,2,Clothing,171,2014,344394,20,275515.2,Bank Transfer,Government,143,No,2,80019.07
+BIZ0856,Business_856,Lahore,Punjab,E-commerce,Bilal,2021,3,Books,402,2668,1072536,5,1018909.2,JazzCash,Individual,129,No,8,201109.57
+BIZ0857,Business_857,Quetta,Sindh,Wholesale,Hassan,2023,1,Groceries,311,1496,465256,0,465256.0,Bank Transfer,Individual,111,Yes,6,132649.61
+BIZ0858,Business_858,Peshawar,Islamabad Capital Territory,E-commerce,Zeeshan,2022,5,Clothing,48,601,28848,5,27405.6,Cash,Corporate,78,No,8,3340.78
+BIZ0859,Business_859,Multan,Sindh,Service,Zeeshan,2022,2,Sports,162,1684,272808,20,218246.40000000002,EasyPaisa,Individual,164,No,10,44684.18
+BIZ0860,Business_860,Rawalpindi,Islamabad Capital Territory,Manufacturing,Bilal,2021,1,Cosmetics,229,3963,907527,10,816774.3,Cash,Corporate,65,No,2,185737.75
+BIZ0861,Business_861,Faisalabad,Sindh,Wholesale,Ali,2021,5,Furniture,271,1741,471811,15,401039.35,Bank Transfer,Corporate,156,Yes,4,77166.39
+BIZ0862,Business_862,Lahore,KPK,Service,Hassan,2021,12,Electronics,401,3151,1263551,15,1074018.3499999999,EasyPaisa,Individual,163,No,3,123891.73
+BIZ0863,Business_863,Multan,Punjab,Retail,Zeeshan,2025,1,Furniture,101,4691,473791,5,450101.44999999995,JazzCash,Corporate,93,No,6,115122.43
+BIZ0864,Business_864,Faisalabad,Sindh,Manufacturing,Hassan,2022,5,Electronics,111,2831,314241,0,314241.0,Bank Transfer,Individual,184,No,6,32164.26
+BIZ0865,Business_865,Karachi,Sindh,Service,Bilal,2021,5,Furniture,430,4941,2124630,0,2124630.0,Credit Card,Individual,107,Yes,1,213906.58
+BIZ0866,Business_866,Peshawar,Punjab,Retail,Ahmed,2024,11,Clothing,192,1030,197760,15,168096.0,Credit Card,Government,7,No,10,27540.29
+BIZ0867,Business_867,Islamabad,Islamabad Capital Territory,E-commerce,Sana,2022,12,Books,158,2869,453302,15,385306.7,Bank Transfer,Corporate,68,Yes,1,47778.3
+BIZ0868,Business_868,Quetta,Balochistan,Wholesale,Ahmed,2021,4,Electronics,499,2538,1266462,0,1266462.0,Bank Transfer,Government,129,Yes,5,277465.71
+BIZ0869,Business_869,Quetta,Islamabad Capital Territory,E-commerce,Zeeshan,2024,6,Cosmetics,458,202,92516,15,78638.59999999999,Bank Transfer,Corporate,58,Yes,7,21131.37
+BIZ0870,Business_870,Multan,Punjab,Service,Ahmed,2024,5,Furniture,157,4211,661127,15,561957.95,EasyPaisa,Government,152,Yes,9,137684.0
+BIZ0871,Business_871,Faisalabad,Islamabad Capital Territory,Wholesale,Sana,2021,10,Furniture,432,3405,1470960,15,1250316.0,Cash,Government,185,No,8,159782.65
+BIZ0872,Business_872,Islamabad,Balochistan,Manufacturing,Ali,2021,8,Groceries,309,2340,723060,5,686907.0,Credit Card,Individual,185,No,9,96073.79
+BIZ0873,Business_873,Peshawar,Sindh,Service,Ayesha,2020,12,Furniture,26,4399,114374,10,102936.6,EasyPaisa,Corporate,193,No,6,14959.24
+BIZ0874,Business_874,Islamabad,Sindh,Wholesale,Sana,2025,2,Cosmetics,29,1170,33930,0,33930.0,Credit Card,Government,46,No,1,6660.47
+BIZ0875,Business_875,Peshawar,Balochistan,Retail,Ahmed,2022,9,Electronics,176,2400,422400,0,422400.0,Credit Card,Corporate,69,Yes,10,117062.94
+BIZ0876,Business_876,Quetta,KPK,Manufacturing,Hassan,2023,11,Clothing,344,4736,1629184,10,1466265.6,EasyPaisa,Corporate,29,Yes,10,154411.55
+BIZ0877,Business_877,Islamabad,Balochistan,Retail,Zeeshan,2023,5,Cosmetics,57,648,36936,5,35089.2,Credit Card,Government,88,Yes,7,8280.7
+BIZ0878,Business_878,Lahore,Balochistan,Manufacturing,Sana,2024,5,Groceries,238,1592,378896,5,359951.2,JazzCash,Individual,28,Yes,2,52476.76
+BIZ0879,Business_879,Islamabad,Sindh,Manufacturing,Hassan,2024,10,Cosmetics,423,1977,836271,5,794457.45,Credit Card,Government,23,Yes,7,85196.9
+BIZ0880,Business_880,Lahore,Islamabad Capital Territory,Wholesale,Fatima,2023,11,Groceries,478,1545,738510,10,664659.0,JazzCash,Corporate,189,Yes,7,78103.25
+BIZ0881,Business_881,Faisalabad,KPK,Service,Zeeshan,2024,5,Electronics,83,421,34943,15,29701.55,Credit Card,Corporate,26,No,10,8233.7
+BIZ0882,Business_882,Karachi,Islamabad Capital Territory,E-commerce,Hassan,2023,1,Sports,238,3875,922250,5,876137.5,EasyPaisa,Government,59,No,10,247787.82
+BIZ0883,Business_883,Lahore,Sindh,E-commerce,Zeeshan,2020,8,Groceries,486,3229,1569294,15,1333899.9,Credit Card,Corporate,158,No,5,174620.64
+BIZ0884,Business_884,Lahore,Balochistan,E-commerce,Ali,2020,9,Sports,411,633,260163,20,208130.40000000002,Bank Transfer,Individual,91,Yes,8,29124.33
+BIZ0885,Business_885,Multan,Sindh,E-commerce,Sana,2025,1,Clothing,91,2785,253435,5,240763.25,Cash,Government,77,No,10,48564.87
+BIZ0886,Business_886,Rawalpindi,Sindh,E-commerce,Hassan,2022,3,Furniture,298,1504,448192,20,358553.60000000003,Bank Transfer,Individual,152,No,1,87149.86
+BIZ0887,Business_887,Multan,Balochistan,Service,Bilal,2022,1,Groceries,96,4700,451200,10,406080.0,EasyPaisa,Individual,100,No,10,63149.31
+BIZ0888,Business_888,Karachi,Balochistan,Manufacturing,Sana,2024,9,Sports,62,3418,211916,20,169532.80000000002,EasyPaisa,Corporate,143,Yes,1,48924.26
+BIZ0889,Business_889,Faisalabad,Punjab,Wholesale,Sana,2022,8,Groceries,29,3984,115536,15,98205.59999999999,JazzCash,Government,143,No,7,10721.78
+BIZ0890,Business_890,Peshawar,Islamabad Capital Territory,E-commerce,Zeeshan,2024,3,Cosmetics,371,3830,1420930,15,1207790.5,Credit Card,Corporate,187,No,7,313965.74
+BIZ0891,Business_891,Islamabad,KPK,Retail,Fatima,2024,3,Cosmetics,487,4781,2328347,0,2328347.0,Credit Card,Government,71,Yes,4,577411.17
+BIZ0892,Business_892,Karachi,Islamabad Capital Territory,Wholesale,Fatima,2025,2,Sports,267,2915,778305,20,622644.0,EasyPaisa,Government,198,Yes,9,115517.67
+BIZ0893,Business_893,Islamabad,Islamabad Capital Territory,Retail,Zeeshan,2025,5,Clothing,440,4073,1792120,0,1792120.0,JazzCash,Government,182,Yes,3,206981.52
+BIZ0894,Business_894,Multan,Punjab,Service,Ahmed,2022,8,Clothing,311,1971,612981,15,521033.85,Bank Transfer,Corporate,108,No,6,79265.16
+BIZ0895,Business_895,Lahore,KPK,Retail,Ayesha,2023,3,Electronics,387,4720,1826640,5,1735308.0,JazzCash,Corporate,161,Yes,10,187219.04
+BIZ0896,Business_896,Quetta,Punjab,Service,Ahmed,2022,4,Clothing,270,1740,469800,20,375840.0,Bank Transfer,Individual,101,Yes,6,38482.06
+BIZ0897,Business_897,Peshawar,KPK,E-commerce,Ahmed,2021,2,Electronics,333,3290,1095570,20,876456.0,JazzCash,Corporate,154,No,6,204253.55
+BIZ0898,Business_898,Rawalpindi,KPK,E-commerce,Hassan,2020,10,Electronics,469,3758,1762502,15,1498126.7,Cash,Corporate,55,No,2,360670.34
+BIZ0899,Business_899,Islamabad,KPK,E-commerce,Ayesha,2020,1,Groceries,308,3855,1187340,10,1068606.0,EasyPaisa,Corporate,3,Yes,2,319173.51
+BIZ0900,Business_900,Multan,Islamabad Capital Territory,Service,Sana,2021,8,Sports,231,334,77154,15,65580.9,Credit Card,Individual,63,No,7,9454.06
+BIZ0901,Business_901,Peshawar,Islamabad Capital Territory,Retail,Hassan,2024,5,Clothing,354,2392,846768,10,762091.2000000001,EasyPaisa,Corporate,165,Yes,10,128234.47
+BIZ0902,Business_902,Faisalabad,KPK,Service,Ayesha,2020,11,Electronics,261,4622,1206342,15,1025390.7,Cash,Corporate,159,No,4,147864.54
+BIZ0903,Business_903,Lahore,Balochistan,E-commerce,Sana,2025,7,Sports,159,3206,509754,10,458778.60000000003,Credit Card,Government,37,Yes,4,76175.51
+BIZ0904,Business_904,Lahore,Balochistan,Retail,Hassan,2025,7,Cosmetics,487,1007,490409,0,490409.0,Cash,Corporate,197,No,8,68353.14
+BIZ0905,Business_905,Faisalabad,Balochistan,Wholesale,Ayesha,2021,3,Cosmetics,479,4578,2192862,10,1973575.8,JazzCash,Corporate,163,No,8,468391.85
+BIZ0906,Business_906,Faisalabad,Balochistan,Wholesale,Ali,2022,7,Cosmetics,65,995,64675,0,64675.0,JazzCash,Corporate,197,Yes,10,11881.92
+BIZ0907,Business_907,Karachi,Punjab,Retail,Fatima,2021,7,Books,383,1957,749531,20,599624.8,Cash,Corporate,191,Yes,5,91877.49
+BIZ0908,Business_908,Karachi,KPK,Manufacturing,Hassan,2023,11,Cosmetics,245,2784,682080,0,682080.0,Cash,Government,158,No,9,136098.68
+BIZ0909,Business_909,Karachi,Islamabad Capital Territory,Wholesale,Sana,2020,6,Furniture,306,3312,1013472,20,810777.6000000001,Credit Card,Individual,117,No,1,190378.93
+BIZ0910,Business_910,Faisalabad,Balochistan,Service,Ayesha,2022,7,Sports,188,4362,820056,0,820056.0,Credit Card,Corporate,25,Yes,1,157928.15
+BIZ0911,Business_911,Faisalabad,Punjab,Manufacturing,Hassan,2023,7,Electronics,454,281,127574,10,114816.6,Credit Card,Individual,65,No,8,19304.75
+BIZ0912,Business_912,Islamabad,Islamabad Capital Territory,E-commerce,Zeeshan,2024,12,Cosmetics,412,4586,1889432,0,1889432.0,JazzCash,Corporate,22,No,4,241567.96
+BIZ0913,Business_913,Multan,Balochistan,Manufacturing,Sana,2023,9,Sports,109,2434,265306,5,252040.69999999998,EasyPaisa,Government,87,Yes,10,75027.56
+BIZ0914,Business_914,Peshawar,Balochistan,Service,Fatima,2025,2,Books,339,4343,1472277,15,1251435.45,Cash,Individual,140,No,7,212436.57
+BIZ0915,Business_915,Quetta,KPK,Retail,Zeeshan,2021,6,Groceries,428,1677,717756,20,574204.8,Credit Card,Corporate,93,Yes,5,65535.52
+BIZ0916,Business_916,Islamabad,Sindh,Manufacturing,Ali,2024,1,Books,77,3737,287749,15,244586.65,JazzCash,Individual,59,No,6,28362.07
+BIZ0917,Business_917,Multan,Punjab,Retail,Zeeshan,2023,9,Furniture,193,2410,465130,20,372104.0,JazzCash,Government,72,Yes,10,50386.99
+BIZ0918,Business_918,Peshawar,Sindh,Service,Bilal,2024,3,Books,472,703,331816,5,315225.2,Cash,Individual,30,No,10,59913.48
+BIZ0919,Business_919,Multan,KPK,Service,Hassan,2024,8,Books,169,3033,512577,15,435690.45,Credit Card,Government,183,Yes,8,43667.1
+BIZ0920,Business_920,Lahore,Sindh,Wholesale,Zeeshan,2022,2,Cosmetics,180,587,105660,15,89811.0,Credit Card,Corporate,168,No,10,20379.7
+BIZ0921,Business_921,Multan,Balochistan,E-commerce,Ayesha,2022,9,Groceries,268,744,199392,0,199392.0,Bank Transfer,Individual,18,No,6,42923.06
+BIZ0922,Business_922,Multan,Sindh,Wholesale,Ali,2023,12,Books,310,4893,1516830,10,1365147.0,Cash,Corporate,168,Yes,8,345910.21
+BIZ0923,Business_923,Quetta,Punjab,E-commerce,Bilal,2023,4,Furniture,201,3096,622296,15,528951.6,EasyPaisa,Corporate,71,Yes,8,114060.43
+BIZ0924,Business_924,Multan,Islamabad Capital Territory,Retail,Zeeshan,2020,6,Furniture,210,2069,434490,20,347592.0,JazzCash,Government,49,No,6,39880.51
+BIZ0925,Business_925,Quetta,Islamabad Capital Territory,Wholesale,Ayesha,2023,9,Electronics,310,1005,311550,0,311550.0,Cash,Individual,127,Yes,10,53578.52
+BIZ0926,Business_926,Karachi,Sindh,Wholesale,Hassan,2025,1,Clothing,192,633,121536,5,115459.2,Cash,Individual,30,No,3,33796.49
+BIZ0927,Business_927,Lahore,Islamabad Capital Territory,Service,Sana,2023,6,Furniture,388,3676,1426288,20,1141030.4000000001,EasyPaisa,Individual,118,Yes,6,226928.1
+BIZ0928,Business_928,Rawalpindi,KPK,Manufacturing,Fatima,2024,8,Books,466,4001,1864466,15,1584796.0999999999,Bank Transfer,Government,13,Yes,6,459559.84
+BIZ0929,Business_929,Peshawar,Islamabad Capital Territory,Service,Ahmed,2021,6,Sports,160,3954,632640,10,569376.0,JazzCash,Individual,137,No,1,109003.17
+BIZ0930,Business_930,Quetta,Islamabad Capital Territory,Wholesale,Zeeshan,2024,12,Furniture,322,3088,994336,0,994336.0,Cash,Corporate,185,Yes,1,220403.76
+BIZ0931,Business_931,Multan,Punjab,Wholesale,Ali,2020,7,Groceries,184,1919,353096,10,317786.4,Bank Transfer,Individual,53,Yes,1,86850.74
+BIZ0932,Business_932,Karachi,Punjab,E-commerce,Ahmed,2025,2,Books,188,2379,447252,5,424889.39999999997,Credit Card,Corporate,181,Yes,4,50363.13
+BIZ0933,Business_933,Rawalpindi,Sindh,Wholesale,Fatima,2025,4,Electronics,336,910,305760,10,275184.0,JazzCash,Government,183,Yes,2,57247.69
+BIZ0934,Business_934,Faisalabad,Punjab,Retail,Fatima,2024,8,Cosmetics,311,3938,1224718,0,1224718.0,JazzCash,Individual,137,Yes,2,214519.83
+BIZ0935,Business_935,Faisalabad,Balochistan,Service,Ali,2021,3,Furniture,389,2321,902869,15,767438.65,EasyPaisa,Corporate,136,No,9,123151.0
+BIZ0936,Business_936,Faisalabad,Punjab,E-commerce,Bilal,2025,9,Sports,268,4656,1247808,0,1247808.0,Cash,Government,148,Yes,1,184645.25
+BIZ0937,Business_937,Quetta,KPK,Retail,Ayesha,2020,9,Groceries,146,2477,361642,15,307395.7,Cash,Individual,129,No,2,53150.63
+BIZ0938,Business_938,Faisalabad,Balochistan,E-commerce,Bilal,2025,1,Groceries,442,2647,1169974,5,1111475.3,JazzCash,Individual,11,Yes,5,216003.17
+BIZ0939,Business_939,Lahore,Islamabad Capital Territory,Service,Ahmed,2024,10,Groceries,256,4020,1029120,10,926208.0,Cash,Government,54,Yes,8,259525.93
+BIZ0940,Business_940,Peshawar,Sindh,Wholesale,Hassan,2025,4,Groceries,485,355,172175,20,137740.0,EasyPaisa,Individual,170,No,8,16440.97
+BIZ0941,Business_941,Multan,Sindh,Retail,Ali,2023,2,Furniture,477,1537,733149,10,659834.1,JazzCash,Government,195,Yes,10,195429.4
+BIZ0942,Business_942,Multan,Punjab,Wholesale,Hassan,2020,11,Sports,238,1702,405076,15,344314.6,JazzCash,Corporate,111,Yes,8,98297.76
+BIZ0943,Business_943,Quetta,KPK,Service,Fatima,2023,8,Groceries,340,1693,575620,5,546839.0,EasyPaisa,Corporate,24,Yes,2,143911.56
+BIZ0944,Business_944,Rawalpindi,Balochistan,Service,Zeeshan,2025,2,Books,168,434,72912,5,69266.4,Bank Transfer,Corporate,174,No,8,20652.56
+BIZ0945,Business_945,Karachi,Punjab,Wholesale,Bilal,2023,10,Groceries,468,3161,1479348,20,1183478.4000000001,JazzCash,Individual,197,Yes,1,236168.35
+BIZ0946,Business_946,Quetta,Balochistan,Service,Bilal,2022,5,Sports,162,1866,302292,10,272062.8,Credit Card,Individual,106,Yes,7,34663.49
+BIZ0947,Business_947,Multan,KPK,Service,Ahmed,2020,12,Furniture,430,2028,872040,15,741234.0,JazzCash,Government,181,No,5,149232.01
+BIZ0948,Business_948,Rawalpindi,KPK,Retail,Sana,2021,11,Books,378,1903,719334,15,611433.9,EasyPaisa,Corporate,163,Yes,7,75591.47
+BIZ0949,Business_949,Rawalpindi,Balochistan,E-commerce,Ahmed,2021,6,Books,360,740,266400,0,266400.0,Bank Transfer,Corporate,188,Yes,2,60885.27
+BIZ0950,Business_950,Quetta,Balochistan,Service,Fatima,2021,1,Sports,303,4880,1478640,5,1404708.0,Credit Card,Government,96,No,7,202744.22
+BIZ0951,Business_951,Rawalpindi,KPK,E-commerce,Bilal,2024,9,Clothing,482,2335,1125470,15,956649.5,JazzCash,Individual,48,No,10,245722.36
+BIZ0952,Business_952,Rawalpindi,KPK,Manufacturing,Sana,2021,12,Cosmetics,189,2445,462105,20,369684.0,Cash,Corporate,71,No,8,105635.88
+BIZ0953,Business_953,Faisalabad,Balochistan,E-commerce,Bilal,2020,12,Electronics,96,707,67872,10,61084.8,Credit Card,Government,145,No,9,7069.79
+BIZ0954,Business_954,Faisalabad,Balochistan,Service,Hassan,2024,8,Books,148,760,112480,10,101232.0,Credit Card,Individual,124,No,3,13941.69
+BIZ0955,Business_955,Quetta,Punjab,Wholesale,Ali,2022,2,Furniture,28,265,7420,5,7049.0,Cash,Government,179,No,7,1223.97
+BIZ0956,Business_956,Peshawar,Sindh,Retail,Bilal,2023,3,Furniture,333,532,177156,0,177156.0,Bank Transfer,Individual,123,Yes,8,37332.21
+BIZ0957,Business_957,Lahore,Islamabad Capital Territory,E-commerce,Sana,2024,7,Cosmetics,204,2751,561204,20,448963.2,JazzCash,Individual,150,No,1,132387.34
+BIZ0958,Business_958,Lahore,Balochistan,Wholesale,Bilal,2020,11,Cosmetics,189,671,126819,0,126819.0,Bank Transfer,Individual,41,No,1,15071.52
+BIZ0959,Business_959,Multan,KPK,Wholesale,Bilal,2023,7,Sports,420,1117,469140,5,445683.0,JazzCash,Government,99,No,5,132799.16
+BIZ0960,Business_960,Faisalabad,KPK,Service,Ahmed,2024,5,Clothing,130,2221,288730,5,274293.5,Credit Card,Individual,49,No,7,79735.98
+BIZ0961,Business_961,Multan,KPK,Service,Ali,2025,6,Clothing,458,3523,1613534,10,1452180.6,Credit Card,Corporate,129,No,4,316390.72
+BIZ0962,Business_962,Lahore,Balochistan,E-commerce,Ayesha,2023,1,Books,265,1615,427975,20,342380.0,EasyPaisa,Individual,173,No,1,51097.57
+BIZ0963,Business_963,Multan,Balochistan,Manufacturing,Bilal,2022,8,Cosmetics,461,3437,1584457,5,1505234.15,EasyPaisa,Individual,138,Yes,4,208205.67
+BIZ0964,Business_964,Peshawar,Balochistan,Retail,Ahmed,2024,9,Books,40,1736,69440,20,55552.0,Credit Card,Individual,61,Yes,6,10379.84
+BIZ0965,Business_965,Peshawar,Islamabad Capital Territory,Wholesale,Sana,2022,2,Clothing,231,3585,828135,10,745321.5,Bank Transfer,Corporate,147,Yes,4,106625.59
+BIZ0966,Business_966,Rawalpindi,Islamabad Capital Territory,Service,Hassan,2020,8,Clothing,336,1366,458976,0,458976.0,Credit Card,Corporate,120,Yes,4,96458.15
+BIZ0967,Business_967,Quetta,Punjab,Service,Ayesha,2021,8,Sports,54,4945,267030,5,253678.5,JazzCash,Government,100,Yes,8,62076.03
+BIZ0968,Business_968,Karachi,KPK,Wholesale,Bilal,2021,4,Electronics,111,4628,513708,10,462337.2,Bank Transfer,Individual,108,No,9,98000.58
+BIZ0969,Business_969,Multan,Punjab,Retail,Zeeshan,2023,7,Groceries,76,1724,131024,5,124472.79999999999,EasyPaisa,Corporate,103,Yes,6,19920.14
+BIZ0970,Business_970,Lahore,Islamabad Capital Territory,E-commerce,Fatima,2021,9,Groceries,452,1843,833036,0,833036.0,EasyPaisa,Corporate,97,Yes,7,140317.32
+BIZ0971,Business_971,Rawalpindi,Balochistan,E-commerce,Fatima,2024,7,Electronics,352,2179,767008,5,728657.6,Bank Transfer,Corporate,16,No,2,195592.71
+BIZ0972,Business_972,Rawalpindi,Balochistan,Service,Ahmed,2022,1,Books,440,760,334400,15,284240.0,Bank Transfer,Corporate,97,Yes,8,50018.55
+BIZ0973,Business_973,Rawalpindi,Balochistan,Wholesale,Ayesha,2022,12,Electronics,337,308,103796,20,83036.8,EasyPaisa,Individual,109,No,10,19844.05
+BIZ0974,Business_974,Faisalabad,Punjab,Service,Sana,2023,5,Cosmetics,123,1088,133824,10,120441.6,JazzCash,Government,100,Yes,3,33033.94
+BIZ0975,Business_975,Lahore,Balochistan,Retail,Ahmed,2020,8,Furniture,310,2778,861180,5,818121.0,JazzCash,Corporate,187,No,5,110894.06
+BIZ0976,Business_976,Karachi,Balochistan,Retail,Ayesha,2020,2,Books,103,1739,179117,0,179117.0,JazzCash,Individual,94,Yes,7,30906.66
+BIZ0977,Business_977,Karachi,Balochistan,Retail,Fatima,2020,1,Cosmetics,300,1347,404100,0,404100.0,Bank Transfer,Individual,160,No,6,120450.4
+BIZ0978,Business_978,Peshawar,KPK,Manufacturing,Hassan,2024,3,Clothing,470,165,77550,15,65917.5,Cash,Corporate,141,Yes,6,13117.18
+BIZ0979,Business_979,Faisalabad,Punjab,E-commerce,Hassan,2025,9,Sports,27,2955,79785,10,71806.5,Credit Card,Government,3,Yes,6,16215.11
+BIZ0980,Business_980,Multan,Islamabad Capital Territory,E-commerce,Ayesha,2022,10,Electronics,392,569,223048,5,211895.59999999998,JazzCash,Corporate,96,No,1,43427.74
+BIZ0981,Business_981,Multan,Punjab,Retail,Sana,2023,6,Sports,359,4331,1554829,20,1243863.2,EasyPaisa,Corporate,97,Yes,6,159684.04
+BIZ0982,Business_982,Quetta,Balochistan,E-commerce,Zeeshan,2021,2,Cosmetics,380,3961,1505180,10,1354662.0,Bank Transfer,Individual,25,No,6,191652.78
+BIZ0983,Business_983,Lahore,Balochistan,E-commerce,Fatima,2020,10,Books,278,3873,1076694,20,861355.2000000001,Credit Card,Individual,158,Yes,10,132571.78
+BIZ0984,Business_984,Multan,Punjab,E-commerce,Ayesha,2024,3,Clothing,429,2863,1228227,5,1166815.65,Cash,Individual,170,No,5,285133.13
+BIZ0985,Business_985,Multan,Balochistan,Manufacturing,Ahmed,2025,2,Groceries,273,4415,1205295,15,1024500.75,Bank Transfer,Individual,88,No,5,156698.75
+BIZ0986,Business_986,Quetta,Islamabad Capital Territory,Service,Hassan,2023,5,Furniture,22,236,5192,20,4153.6,Bank Transfer,Corporate,190,Yes,4,569.01
+BIZ0987,Business_987,Quetta,Punjab,E-commerce,Ayesha,2021,2,Clothing,380,301,114380,15,97223.0,Cash,Government,148,No,8,19997.04
+BIZ0988,Business_988,Quetta,Punjab,Service,Sana,2021,9,Cosmetics,310,4202,1302620,10,1172358.0,Cash,Individual,28,No,2,128675.46
+BIZ0989,Business_989,Islamabad,Punjab,E-commerce,Ayesha,2023,10,Books,406,1014,411684,0,411684.0,EasyPaisa,Corporate,46,Yes,8,104232.23
+BIZ0990,Business_990,Rawalpindi,KPK,Wholesale,Ahmed,2021,11,Groceries,452,3222,1456344,5,1383526.8,Cash,Corporate,83,Yes,2,286526.62
+BIZ0991,Business_991,Lahore,KPK,Retail,Sana,2021,8,Clothing,440,1437,632280,15,537438.0,EasyPaisa,Government,180,No,1,136613.4
+BIZ0992,Business_992,Rawalpindi,Islamabad Capital Territory,Service,Zeeshan,2024,1,Clothing,162,117,18954,5,18006.3,Bank Transfer,Individual,67,No,6,2434.09
+BIZ0993,Business_993,Faisalabad,Sindh,Manufacturing,Sana,2025,8,Clothing,454,1976,897104,0,897104.0,JazzCash,Individual,166,Yes,3,214315.24
+BIZ0994,Business_994,Rawalpindi,Punjab,Manufacturing,Sana,2020,6,Electronics,425,1869,794325,5,754608.75,Credit Card,Corporate,71,No,7,114193.15
+BIZ0995,Business_995,Islamabad,Punjab,Service,Zeeshan,2022,2,Groceries,130,4104,533520,20,426816.0,Cash,Corporate,13,Yes,7,80555.25
+BIZ0996,Business_996,Islamabad,Sindh,E-commerce,Bilal,2022,9,Clothing,50,3831,191550,10,172395.0,Cash,Government,106,No,8,21957.13
+BIZ0997,Business_997,Rawalpindi,Punjab,Retail,Ahmed,2024,7,Groceries,259,1573,407407,5,387036.64999999997,EasyPaisa,Government,196,Yes,8,88702.08
+BIZ0998,Business_998,Islamabad,KPK,Service,Bilal,2025,7,Groceries,188,2543,478084,0,478084.0,EasyPaisa,Individual,48,No,10,100261.48
+BIZ0999,Business_999,Quetta,Punjab,E-commerce,Bilal,2022,4,Clothing,406,808,328048,0,328048.0,Credit Card,Individual,189,No,2,49365.67
+BIZ1000,Business_1000,Lahore,Islamabad Capital Territory,E-commerce,Ayesha,2024,9,Electronics,319,2933,935627,5,888845.6499999999,EasyPaisa,Individual,78,No,6,212326.57

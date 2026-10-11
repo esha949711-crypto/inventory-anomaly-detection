@@ -1,2 +1,8 @@
-# inventory-anomaly-detection-
-Machine learning-based inventory anomaly detection system using Python, Flask, and Scikit-learn to identify unusual stock levels, sales patterns, and inventory discrepancies.
+# pytest cache directory #
+
+This directory contains data from the pytest's cache plugin,
+which provides the `--lf` and `--ff` options, as well as the `cache` fixture.
+
+**Do not** commit this to version control.
+
+See [the docs](https://docs.pytest.org/en/stable/how-to/cache.html) for more information.
